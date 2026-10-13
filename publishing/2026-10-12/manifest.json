@@ -1,0 +1,189 @@
+{
+  "site": "AdminStaffingSolutions",
+  "canonicalDomain": "https://adminstaffingsolutions.com",
+  "repository": "coolifystealthagents/admin-staffing-solutions",
+  "branch": "main",
+  "baseSha": "e5d8686ce51054f496f81edb75513f3a2886bc7e",
+  "publicationDate": "2026-10-12",
+  "counts": {
+    "blog": 12,
+    "research": 5,
+    "total": 17
+  },
+  "systems": {
+    "blog": {
+      "loader": "lib/october12BlogPosts.ts",
+      "route": "app/blog/[slug]/page.tsx",
+      "index": "app/blog/page.tsx"
+    },
+    "research": {
+      "loader": "lib/october12ResearchPosts.ts",
+      "route": "app/research/[slug]/page.tsx",
+      "index": "app/research/page.tsx"
+    }
+  },
+  "registryPaths": [
+    "lib/october12BlogPosts.ts",
+    "lib/october12ResearchPosts.ts",
+    "lib/content.ts"
+  ],
+  "sidebarPaths": [
+    "app/blog/[slug]/page.tsx",
+    "components/ResearchSidebar.tsx"
+  ],
+  "items": [
+    {
+      "section": "Blog",
+      "slug": "executive-calendar-conflict-register",
+      "title": "Run an Executive Calendar Conflict Register",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/executive-calendar-conflict-register.svg",
+      "route": "/blog/executive-calendar-conflict-register"
+    },
+    {
+      "section": "Blog",
+      "slug": "shared-inbox-delegation-register",
+      "title": "Assign Shared Inbox Work With Visible Custody",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/shared-inbox-delegation-register.svg",
+      "route": "/blog/shared-inbox-delegation-register"
+    },
+    {
+      "section": "Blog",
+      "slug": "meeting-decision-action-custody",
+      "title": "Separate Meeting Decisions From Action Tracking",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/meeting-decision-action-custody.svg",
+      "route": "/blog/meeting-decision-action-custody"
+    },
+    {
+      "section": "Blog",
+      "slug": "customer-onboarding-administration-checkpoint",
+      "title": "Build Customer Onboarding Around Acceptance Checkpoints",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/customer-onboarding-administration-checkpoint.svg",
+      "route": "/blog/customer-onboarding-administration-checkpoint"
+    },
+    {
+      "section": "Blog",
+      "slug": "contract-renewal-date-register",
+      "title": "Maintain a Contract Renewal Date Register With Evidence",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/contract-renewal-date-register.svg",
+      "route": "/blog/contract-renewal-date-register"
+    },
+    {
+      "section": "Blog",
+      "slug": "vendor-credential-request-workflow",
+      "title": "Control Vendor Credential Requests by Purpose",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/vendor-credential-request-workflow.svg",
+      "route": "/blog/vendor-credential-request-workflow"
+    },
+    {
+      "section": "Blog",
+      "slug": "executive-travel-change-recovery",
+      "title": "Recover Executive Travel Changes Through One Record",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/executive-travel-change-recovery.svg",
+      "route": "/blog/executive-travel-change-recovery"
+    },
+    {
+      "section": "Blog",
+      "slug": "project-status-evidence-cadence",
+      "title": "Publish Project Status From Accepted Evidence",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/project-status-evidence-cadence.svg",
+      "route": "/blog/project-status-evidence-cadence"
+    },
+    {
+      "section": "Blog",
+      "slug": "document-naming-migration-control",
+      "title": "Migrate Document Names Without Losing Lineage",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/document-naming-migration-control.svg",
+      "route": "/blog/document-naming-migration-control"
+    },
+    {
+      "section": "Blog",
+      "slug": "purchase-request-evidence-packet",
+      "title": "Prepare Purchase Requests as Reviewable Evidence Packets",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/purchase-request-evidence-packet.svg",
+      "route": "/blog/purchase-request-evidence-packet"
+    },
+    {
+      "section": "Blog",
+      "slug": "executive-briefing-source-verification",
+      "title": "Verify Executive Briefing Facts Before Circulation",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/executive-briefing-source-verification.svg",
+      "route": "/blog/executive-briefing-source-verification"
+    },
+    {
+      "section": "Blog",
+      "slug": "administrative-offboarding-continuity",
+      "title": "Close Administrative Access and Work at Offboarding",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12BlogPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/administrative-offboarding-continuity.svg",
+      "route": "/blog/administrative-offboarding-continuity"
+    },
+    {
+      "section": "Research",
+      "slug": "calendar-conflict-classification-agreement-study",
+      "title": "Agreement in Executive Calendar Conflict Classification",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12ResearchPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/calendar-conflict-classification-agreement-study.svg",
+      "route": "/research/calendar-conflict-classification-agreement-study"
+    },
+    {
+      "section": "Research",
+      "slug": "shared-inbox-handoff-completeness-study",
+      "title": "Completeness of Shared Inbox Handoffs",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12ResearchPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/shared-inbox-handoff-completeness-study.svg",
+      "route": "/research/shared-inbox-handoff-completeness-study"
+    },
+    {
+      "section": "Research",
+      "slug": "meeting-action-acceptance-study",
+      "title": "Acceptance of Actions Recorded From Meetings",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12ResearchPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/meeting-action-acceptance-study.svg",
+      "route": "/research/meeting-action-acceptance-study"
+    },
+    {
+      "section": "Research",
+      "slug": "customer-onboarding-first-review-study",
+      "title": "First Review Completeness of Customer Onboarding Records",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12ResearchPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/customer-onboarding-first-review-study.svg",
+      "route": "/research/customer-onboarding-first-review-study"
+    },
+    {
+      "section": "Research",
+      "slug": "project-status-lineage-reproducibility-study",
+      "title": "Reproducibility of Project Status Evidence Lineage",
+      "publicationDate": "2026-10-12",
+      "sourcePath": "lib/october12ResearchPosts.ts",
+      "thumbnailPath": "public/thumbnails/october-12/project-status-lineage-reproducibility-study.svg",
+      "route": "/research/project-status-lineage-reproducibility-study"
+    }
+  ]
+}

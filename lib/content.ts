@@ -1,5 +1,7 @@
 import { site } from './site';
 import type { BlogPost, ResearchPost } from './types';
+import { october12BlogPosts } from './october12BlogPosts';
+import { october12ResearchPosts } from './october12ResearchPosts';
 
 export const blogPosts: BlogPost[] = [
   {
@@ -918,6 +920,9 @@ export const nav = [
   { href: '/research', label: 'Research' },
   { href: '/contact-us', label: 'Contact' }
 ];
+
+blogPosts.unshift(...october12BlogPosts);
+researchPosts.unshift(...october12ResearchPosts);
 
 export function serviceBySlug(slug: string) { return site.services.find((service) => service.slug === slug); }
 export function blogBySlug(slug: string) { return blogPosts.find((post) => post.slug === slug); }
