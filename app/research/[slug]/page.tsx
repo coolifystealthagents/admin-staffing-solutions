@@ -1,12 +1,24 @@
-import type {Metadata} from 'next';
-import Image from 'next/image';
+import type { Metadata } from 'next';
 import Link from 'next/link';
-import {notFound} from 'next/navigation';
-import {researchPosts,researchBySlug} from '@/lib/content';
-import {site} from '@/lib/site';
-import {ResearchSidebar} from '@/components/ResearchSidebar';
+import { notFound } from 'next/navigation';
+import { ArticleNavigator } from '@/components/ArticleNavigator';
+import { PageHero } from '@/components/PageHero';
+import { researchPosts, researchBySlug } from '@/lib/content';
+import { site } from '@/lib/site';
 
-export function generateStaticParams(){return researchPosts.map(({slug})=>({slug}))}
-const displayDate=(value:string)=>new Intl.DateTimeFormat('en-US',{month:'long',day:'numeric',year:'numeric',timeZone:'UTC'}).format(new Date(`${value}T00:00:00Z`));
-export async function generateMetadata({params}:{params:Promise<{slug:string}>}):Promise<Metadata>{const{slug}=await params;const post=researchBySlug(slug);return post?{title:post.title,description:post.summary,alternates:{canonical:`/research/${post.slug}`},openGraph:{type:'article',title:post.title,description:post.summary,images:post.thumbnail?[post.thumbnail]:undefined}}:{}}
-export default async function ResearchPostPage({params}:{params:Promise<{slug:string}>}){const{slug}=await params;const post=researchBySlug(slug);if(!post)notFound();const related=researchPosts.filter(item=>item.slug!==post.slug).slice(0,3);return <main><header className="page-hero"><p className="eyebrow">Home / Research / {post.cluster}</p><h1>{post.title}</h1><p>{post.summary}</p><p className="meta">{site.name} Editorial Team · Published <time dateTime={post.publishedAt}>{displayDate(post.publishedAt)}</time></p>{post.thumbnail&&<Image className="article-thumbnail" src={post.thumbnail} width={1200} height={630} alt={post.title}/>}</header><section className="content-wrap article-layout"><article className="prose"><p className="research-finding">{post.finding}</p>{post.sections?.map(section=><section key={section.heading} id={section.heading.toLowerCase().replace(/[^a-z0-9]+/g,'-')}><h2>{section.heading}</h2>{section.paragraphs.map(paragraph=><p key={paragraph}>{paragraph}</p>)}</section>)}<div className="sources"><h2>Sources</h2><ol>{post.sources.map(source=><li key={source.url}><a href={source.url} rel="noopener noreferrer">{source.label}</a></li>)}</ol></div><Link id="cta-research-final-bookcall" className="button primary" href="/contact-us">Discuss your workflow</Link></article><ResearchSidebar sections={post.sections||[]}/></section><section className="section"><div className="section-heading"><p className="eyebrow">Related Research</p><h2>Continue the evidence review.</h2></div><div className="article-grid">{related.map(item=><Link className="article-card" href={`/research/${item.slug}`} key={item.slug}><h3>{item.title}</h3><p>{item.summary}</p></Link>)}</div></section></main>}
+export function generateStaticParams() { return researchPosts.map(({ slug }) => ({ slug })); }
+const displayDate = (value: string) => new Intl.DateTimeFormat('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' }).format(new Date(`${value}T00:00:00Z`));
+const idFor = (heading: string) => heading.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> { const { slug } = await params; const post = researchBySlug(slug); return post ? { title: post.title, description: post.summary, alternates: { canonical: `/research/${post.slug}` }, openGraph: { type: 'article', title: post.title, description: post.summary, images: post.thumbnail ? [post.thumbnail] : undefined } } : {}; }
+
+export default async function ResearchPostPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params; const post = researchBySlug(slug); if (!post) notFound();
+  const sections = post.sections || [];
+  const position = researchPosts.findIndex(item => item.slug === post.slug);
+  const related = researchPosts.filter(item => item.slug !== post.slug).slice(Math.max(0, position - 1), Math.max(0, position - 1) + 3);
+  return <main>
+    <PageHero eyebrow={`Research / ${post.cluster}`} title={post.title} description={post.summary} image={post.thumbnail} imageAlt={`${post.title} research illustration`} imageFit="contain"><p className="meta">{site.name} Editorial Team · Published <time dateTime={post.publishedAt}>{displayDate(post.publishedAt)}</time></p></PageHero>
+    <section className="content-wrap article-layout"><article className="prose article-prose"><p className="research-finding"><strong>Finding:</strong> {post.finding}</p>{sections.map(section => <section key={section.heading} id={idFor(section.heading)}><h2>{section.heading}</h2>{section.paragraphs.map(paragraph => <p key={paragraph}>{paragraph}</p>)}</section>)}<section className="sources"><h2>Sources</h2><ol>{post.sources.map(source => <li key={source.url}><a href={source.url} rel="noopener noreferrer">{source.label}</a></li>)}</ol></section><Link id="cta-research-final-bookcall" className="button primary" href="/contact-us">Discuss your workflow</Link></article><ArticleNavigator tone="research" sections={sections} related={related.map(item => ({ href: `/research/${item.slug}`, title: item.title }))} /></section>
+    <nav className="article-pagination" aria-label="More research">{position > 0 && <Link href={`/research/${researchPosts[position - 1].slug}`}>Previous: {researchPosts[position - 1].title}</Link>}{position < researchPosts.length - 1 && <Link href={`/research/${researchPosts[position + 1].slug}`}>Next: {researchPosts[position + 1].title}</Link>}</nav>
+  </main>;
+}

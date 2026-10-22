@@ -914,11 +914,12 @@ export const researchPosts: ResearchPost[] = [
 ];
 
 export const nav = [
+  { href: '/', label: 'Home' },
   { href: '/services', label: 'Services' },
   { href: '/about', label: 'About' },
   { href: '/blog', label: 'Blog' },
   { href: '/research', label: 'Research' },
-  { href: '/contact-us', label: 'Contact' }
+  { href: '/contact-us', label: 'Contact Us' }
 ];
 
 blogPosts.unshift(...october12BlogPosts);
