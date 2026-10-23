@@ -1,0 +1,296 @@
+[
+  {
+    "slug": "operations-manager-vs-admin-va",
+    "type": "blog",
+    "thumbnail": "/images/editorial/operations-manager-vs-admin-va.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "admin-priority-system",
+    "type": "blog",
+    "thumbnail": "/images/editorial/admin-priority-system.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "executive-meeting-handoff",
+    "type": "blog",
+    "thumbnail": "/images/editorial/executive-meeting-handoff.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "project-admin-status-rhythm",
+    "type": "blog",
+    "thumbnail": "/images/editorial/project-admin-status-rhythm.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "inbox-workflow-boundaries",
+    "type": "blog",
+    "thumbnail": "/images/editorial/inbox-workflow-boundaries.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "executive-calendar-conflict-register",
+    "type": "blog",
+    "thumbnail": "/images/editorial/executive-calendar-conflict-register.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "shared-inbox-delegation-register",
+    "type": "blog",
+    "thumbnail": "/images/editorial/shared-inbox-delegation-register.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "meeting-decision-action-custody",
+    "type": "blog",
+    "thumbnail": "/images/editorial/meeting-decision-action-custody.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "customer-onboarding-administration-checkpoint",
+    "type": "blog",
+    "thumbnail": "/images/editorial/customer-onboarding-administration-checkpoint.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "contract-renewal-date-register",
+    "type": "blog",
+    "thumbnail": "/images/editorial/contract-renewal-date-register.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "vendor-credential-request-workflow",
+    "type": "blog",
+    "thumbnail": "/images/editorial/vendor-credential-request-workflow.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "executive-travel-change-recovery",
+    "type": "blog",
+    "thumbnail": "/images/editorial/executive-travel-change-recovery.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "project-status-evidence-cadence",
+    "type": "blog",
+    "thumbnail": "/images/editorial/project-status-evidence-cadence.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "document-naming-migration-control",
+    "type": "blog",
+    "thumbnail": "/images/editorial/document-naming-migration-control.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "purchase-request-evidence-packet",
+    "type": "blog",
+    "thumbnail": "/images/editorial/purchase-request-evidence-packet.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "executive-briefing-source-verification",
+    "type": "blog",
+    "thumbnail": "/images/editorial/executive-briefing-source-verification.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "administrative-offboarding-continuity",
+    "type": "blog",
+    "thumbnail": "/images/editorial/administrative-offboarding-continuity.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "executive-administration-workflow-boundary-review-1",
+    "type": "research",
+    "thumbnail": "/images/editorial/executive-administration-workflow-boundary-review-1.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "inbox-workflow-support-source-quality-audit-2",
+    "type": "research",
+    "thumbnail": "/images/editorial/inbox-workflow-support-source-quality-audit-2.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "records-administration-exception-pattern-study-3",
+    "type": "research",
+    "thumbnail": "/images/editorial/records-administration-exception-pattern-study-3.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "meeting-coordination-handoff-reliability-brief-4",
+    "type": "research",
+    "thumbnail": "/images/editorial/meeting-coordination-handoff-reliability-brief-4.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "customer-administration-review-consistency-report-5",
+    "type": "research",
+    "thumbnail": "/images/editorial/customer-administration-review-consistency-report-5.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "project-administration-workflow-boundary-review-6",
+    "type": "research",
+    "thumbnail": "/images/editorial/project-administration-workflow-boundary-review-6.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "executive-administration-source-quality-audit-7",
+    "type": "research",
+    "thumbnail": "/images/editorial/executive-administration-source-quality-audit-7.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "inbox-workflow-support-exception-pattern-study-8",
+    "type": "research",
+    "thumbnail": "/images/editorial/inbox-workflow-support-exception-pattern-study-8.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "records-administration-handoff-reliability-brief-9",
+    "type": "research",
+    "thumbnail": "/images/editorial/records-administration-handoff-reliability-brief-9.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "meeting-coordination-review-consistency-report-10",
+    "type": "research",
+    "thumbnail": "/images/editorial/meeting-coordination-review-consistency-report-10.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "customer-administration-workflow-boundary-review-11",
+    "type": "research",
+    "thumbnail": "/images/editorial/customer-administration-workflow-boundary-review-11.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "project-administration-source-quality-audit-12",
+    "type": "research",
+    "thumbnail": "/images/editorial/project-administration-source-quality-audit-12.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "executive-administration-exception-pattern-study-13",
+    "type": "research",
+    "thumbnail": "/images/editorial/executive-administration-exception-pattern-study-13.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "inbox-workflow-support-handoff-reliability-brief-14",
+    "type": "research",
+    "thumbnail": "/images/editorial/inbox-workflow-support-handoff-reliability-brief-14.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "records-administration-review-consistency-report-15",
+    "type": "research",
+    "thumbnail": "/images/editorial/records-administration-review-consistency-report-15.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "meeting-coordination-workflow-boundary-review-16",
+    "type": "research",
+    "thumbnail": "/images/editorial/meeting-coordination-workflow-boundary-review-16.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "customer-administration-source-quality-audit-17",
+    "type": "research",
+    "thumbnail": "/images/editorial/customer-administration-source-quality-audit-17.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "project-administration-exception-pattern-study-18",
+    "type": "research",
+    "thumbnail": "/images/editorial/project-administration-exception-pattern-study-18.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "executive-administration-handoff-reliability-brief-19",
+    "type": "research",
+    "thumbnail": "/images/editorial/executive-administration-handoff-reliability-brief-19.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "inbox-workflow-support-review-consistency-report-20",
+    "type": "research",
+    "thumbnail": "/images/editorial/inbox-workflow-support-review-consistency-report-20.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "calendar-conflict-classification-agreement-study",
+    "type": "research",
+    "thumbnail": "/images/editorial/calendar-conflict-classification-agreement-study.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "shared-inbox-handoff-completeness-study",
+    "type": "research",
+    "thumbnail": "/images/editorial/shared-inbox-handoff-completeness-study.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "meeting-action-acceptance-study",
+    "type": "research",
+    "thumbnail": "/images/editorial/meeting-action-acceptance-study.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "customer-onboarding-first-review-study",
+    "type": "research",
+    "thumbnail": "/images/editorial/customer-onboarding-first-review-study.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "project-status-lineage-reproducibility-study",
+    "type": "research",
+    "thumbnail": "/images/editorial/project-status-lineage-reproducibility-study.svg",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  }
+]

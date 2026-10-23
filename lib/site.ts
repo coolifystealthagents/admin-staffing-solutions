@@ -25,6 +25,8 @@ export const site: SiteConfig = {
       "slug": "executive-administration",
       "name": "Executive administration",
       "short": "Create structure around calendars, communication, and priorities.",
+      "heroImage": "/images/services/executive-administration.svg",
+      "heroAlt": "Executive calendar command board showing conflicts, owners, and approved escalation paths",
       "tasks": [
         "Coordinate calendars",
         "Prepare meeting context",
@@ -36,6 +38,8 @@ export const site: SiteConfig = {
       "slug": "inbox-workflow-support",
       "name": "Inbox workflow support",
       "short": "Organize approved message queues and next actions.",
+      "heroImage": "/images/services/inbox-workflow-support.svg",
+      "heroAlt": "Shared inbox custody board with categorized messages and accountable owners",
       "tasks": [
         "Apply approved categories",
         "Prepare response drafts",
@@ -47,6 +51,8 @@ export const site: SiteConfig = {
       "slug": "records-administration",
       "name": "Records administration",
       "short": "Maintain accurate, accessible operational records.",
+      "heroImage": "/images/services/records-administration.svg",
+      "heroAlt": "Records ledger showing source files, review states, and missing information",
       "tasks": [
         "Organize source files",
         "Update approved fields",
@@ -58,6 +64,8 @@ export const site: SiteConfig = {
       "slug": "meeting-coordination",
       "name": "Meeting coordination",
       "short": "Handle logistics, preparation, and documented follow through.",
+      "heroImage": "/images/services/meeting-coordination.svg",
+      "heroAlt": "Meeting coordination ledger connecting agendas, decisions, and action owners",
       "tasks": [
         "Coordinate schedules",
         "Prepare agendas",
@@ -69,6 +77,8 @@ export const site: SiteConfig = {
       "slug": "customer-administration",
       "name": "Customer administration",
       "short": "Support routine account and service records with clear escalation.",
+      "heroImage": "/images/services/customer-administration.svg",
+      "heroAlt": "Customer administration checkpoint board with records, requests, and exceptions",
       "tasks": [
         "Maintain customer records",
         "Prepare approved updates",
@@ -80,6 +90,8 @@ export const site: SiteConfig = {
       "slug": "project-administration",
       "name": "Project administration",
       "short": "Keep milestones, owners, and status records visible.",
+      "heroImage": "/images/services/project-administration.svg",
+      "heroAlt": "Project status board showing milestones, evidence, owners, and delivery risks",
       "tasks": [
         "Maintain project plans",
         "Track approved milestones",

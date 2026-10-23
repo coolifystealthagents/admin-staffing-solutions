@@ -1,4 +1,4 @@
-export type Service = { slug: string; name: string; short: string; tasks: string[] };
+export type Service = { slug: string; name: string; short: string; tasks: string[]; heroImage: string; heroAlt: string };
 export type ArticleSection = { heading: string; paragraphs: string[] };
 export type BlogPost = { slug: string; title: string; description: string; category: string; publishedAt: string; readTime: string; thumbnail?: string; sections: ArticleSection[]; faq: { q: string; a: string }[]; internalService: string; internalSibling: string; source: { label: string; url: string } };
 export type ResearchPost = { slug: string; title: string; summary: string; cluster: string; publishedAt: string; finding: string; thumbnail?: string; sections?: ArticleSection[]; sources: { label: string; url: string }[] };

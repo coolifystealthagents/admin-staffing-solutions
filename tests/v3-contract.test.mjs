@@ -24,6 +24,7 @@ const gitignore = read('.gitignore');
 const legacyEditorial = read('lib/legacyEditorialContent.ts');
 const newerBlogs = read('lib/october12BlogPosts.ts');
 const newerResearch = read('lib/october12ResearchPosts.ts');
+const siteConfig = read('lib/site.ts');
 
 function parseArrayExport(source, declaration) {
   const start = source.indexOf(declaration);
@@ -58,12 +59,16 @@ function visibleProseSources() {
   return [chrome, content, marketing, contact, services, serviceIndex, blog, research, legacyEditorial, newerBlogs, newerResearch];
 }
 
-test('global chrome uses exact persistent primary navigation and both parent attributions', () => {
-  for (const label of ['Home', 'Services', 'About', 'Blog', 'Research', 'Contact Us']) {
+test('global chrome uses exact three-item persistent primary navigation and both parent attributions', () => {
+  for (const label of ['Home', 'Services', 'Contact Us']) {
     assert.match(content, new RegExp(`label:\\s*'${label}'`));
   }
   const navBlock = content.match(/export const nav = \[([\s\S]*?)\];/)?.[1] || '';
-  assert.equal((navBlock.match(/label:/g) || []).length, 6);
+  assert.equal((navBlock.match(/label:/g) || []).length, 3);
+  assert.doesNotMatch(navBlock, /About|Blog|Research/);
+  assert.match(navBlock, /href:\s*'\/'[\s\S]*href:\s*'\/services'[\s\S]*href:\s*'\/contact-us'/);
+  const secondaryBlock = content.match(/export const secondaryNav = \[([\s\S]*?)\];/)?.[1] || '';
+  for (const label of ['About', 'Blog', 'Research']) assert.match(secondaryBlock, new RegExp(`label:\\s*'${label}'`));
   assert.equal((chrome.match(/<ParentAttribution/g) || []).length, 2);
   assert.match(chrome, /<span>Powered by<\/span>/);
   assert.match(chrome, /alt="StealthAgents"/);
@@ -71,10 +76,7 @@ test('global chrome uses exact persistent primary navigation and both parent att
   assert.match(chrome, /aria-expanded/);
   assert.match(chrome, /aria-controls/);
   assert.match(chrome, /skip-link/);
-  const footerBlock = chrome.match(/<div className="footer-links"[\s\S]*?<\/div>/)?.[0] || '';
-  assert.equal((footerBlock.match(/href="\/about"/g) || []).length, 0, 'footer should rely on nav map instead of duplicating About');
-  assert.equal((footerBlock.match(/href="\/blog"/g) || []).length, 0, 'footer should rely on nav map instead of duplicating Blog');
-  assert.equal((footerBlock.match(/href="\/research"/g) || []).length, 0, 'footer should rely on nav map instead of duplicating Research');
+  assert.match(chrome, /secondaryNav/);
 });
 
 test('approved StealthAgents review collection contains at least ten unique sourced records', () => {
@@ -111,10 +113,10 @@ test('official parent assets exist and Contact Us follows the gated conversion c
 
 test('major routes use distinct approved hero media with route-specific alternatives', () => {
   assert.match(marketing, /site\.heroImage/);
-  assert.match(serviceIndex, /image="\/thumbnails\/october-12\/project-status-evidence-cadence\.svg"/);
-  assert.match(serviceIndex, /imageAlt="Administrative services workflow with evidence, cadence, and review controls"/);
-  assert.match(about, /image="\/thumbnails\/october-12\/executive-briefing-source-verification\.svg"/);
-  assert.match(about, /imageAlt="Administrative briefing workflow with verified source material"/);
+  assert.match(serviceIndex, /image="\/images\/services-index\.svg"/);
+  assert.match(serviceIndex, /imageAlt="Administrative service map connecting six specialist work queues to owners and review points"/);
+  assert.match(about, /image="\/images\/about-admin-team\.svg"/);
+  assert.match(contact, /contact-command-desk\.svg/);
   assert.doesNotMatch(serviceIndex, /image="\/hero\.png"/);
   assert.doesNotMatch(about, /image="\/hero\.png"/);
 });
@@ -122,8 +124,8 @@ test('major routes use distinct approved hero media with route-specific alternat
 test('service index and each service detail use hero media and substantial operational sections', () => {
   assert.match(serviceIndex, /PageHero/);
   assert.match(services, /PageHero/);
-  assert.equal((services.match(/image: '\/thumbnails\//g) || []).length, 6);
-  assert.match(services, /image=\{hero\.image\}/);
+  assert.equal((siteConfig.match(/"heroImage": "\/images\/services\//g) || []).length, 6);
+  assert.match(services, /image=\{service\.heroImage\}/);
   assert.match(services, /imageFit="contain"/);
   for (const heading of ['Who this role is for', 'Inputs and access', 'Deliverables', 'Quality controls', 'Decision boundaries', 'Common starting scenarios', 'Frequently asked questions', 'Related services']) {
     assert.match(services, new RegExp(heading));
@@ -147,18 +149,47 @@ test('editorial indexes provide prominent hero media and a thumbnail for every c
 test('every legacy article has topic-matched approved media and SVGs contain no decorative numbering', () => {
   const legacyPaths = [...content.matchAll(/"thumbnail": "([^"]+)"/g)].map((match) => match[1]);
   assert.equal(legacyPaths.length, 25);
-  assert.ok(new Set(legacyPaths).size >= 15, 'legacy articles need meaningful topic variation');
-  assert.ok(legacyPaths.every((path) => path.startsWith('/thumbnails/october-12/') && existsSync(join(root, 'public', path))));
+  assert.equal(new Set(legacyPaths).size, 25, 'legacy articles need unique topic media');
+  assert.ok(legacyPaths.every((path) => path.startsWith('/images/editorial/') && existsSync(join(root, 'public', path))));
 
-  const svgDir = join(root, 'public/thumbnails/october-12');
+  const svgDir = join(root, 'public/images/editorial');
   const svgNames = readdirSync(svgDir).filter((name) => name.endsWith('.svg'));
-  assert.equal(svgNames.length, 17);
+  assert.equal(svgNames.length, 42);
   for (const name of svgNames) {
-    const svg = read(`public/thumbnails/october-12/${name}`);
-    assert.match(svg, /<title id="title">[^<]+<\/title>/);
-    assert.match(svg, /<desc id="desc">[^<]+<\/desc>/);
-    assert.doesNotMatch(svg, /<text[^>]*>\s*0[1-9]\s*<\/text>/);
+    const svg = read(`public/images/editorial/${name}`);
+    assert.match(svg, /<title id="[^"]+">[^<]+<\/title>/);
+    assert.match(svg, /<desc id="[^"]+">[^<]+<\/desc>/);
+    assert.doesNotMatch(svg, /<text[^>]*>[^<]*\/\s*\d{2}<\/text>/);
   }
+});
+
+test('all forty-two rendered editorial records use distinct existing covers', () => {
+  const records = [...Object.keys(legacyBlogs), ...Object.keys(legacyResearch), ...octoberBlogs.map(post => post.slug), ...octoberResearch.map(post => post.slug)];
+  const sources = [content, newerBlogs, newerResearch];
+  const mappings = new Map();
+  for (const source of sources) {
+    for (const match of source.matchAll(/"slug": "([^"]+)"[\s\S]*?"thumbnail": "([^"]+)"/g)) mappings.set(match[1], match[2]);
+  }
+  assert.equal(records.length, 42);
+  assert.equal(new Set(records).size, 42);
+  assert.equal(mappings.size, 42);
+  assert.equal(new Set(mappings.values()).size, 42);
+  for (const slug of records) {
+    const thumbnail = mappings.get(slug);
+    assert.ok(thumbnail?.startsWith('/images/editorial/'), `${slug} needs route-specific editorial media`);
+    assert.equal(existsSync(join(root, 'public', thumbnail)), true, `${slug} media must exist`);
+  }
+});
+
+test('nine commercial illustrations are present and wired to their routes', () => {
+  const commercial = [
+    'services-index.svg', 'about-admin-team.svg', 'contact-command-desk.svg',
+    'services/executive-administration.svg', 'services/inbox-workflow-support.svg',
+    'services/records-administration.svg', 'services/meeting-coordination.svg',
+    'services/customer-administration.svg', 'services/project-administration.svg',
+  ];
+  assert.equal(commercial.length, 9);
+  assert.ok(commercial.every(path => existsSync(join(root, 'public/images', path))));
 });
 
 test('all editorial details use topic-specific hero alternatives and complete sticky article navigation', () => {
@@ -259,6 +290,7 @@ test('index, legal, and conversion routes declare exact self-canonicals', () => 
     ['app/privacy/page.tsx', '/privacy'],
     ['app/terms/page.tsx', '/terms'],
     ['app/thank-you/page.tsx', '/thank-you'],
+    ['app/thanks-whats-next/page.tsx', '/thanks-whats-next'],
   ];
   for (const [path, canonical] of routes) {
     assert.match(read(path), new RegExp(`alternates:\\s*\\{\\s*canonical:\\s*['"]${canonical}['"]`));
@@ -270,6 +302,7 @@ test('index, legal, and conversion routes declare exact self-canonicals', () => 
 test('commercial source removes forbidden punctuation and decorative zero-padded labels', () => {
   for (const source of visibleProseSources()) {
     assert.doesNotMatch(source, /[—–]/);
+    assert.doesNotMatch(source, /\\u201[34]/i);
   }
   assert.doesNotMatch(marketing, /service-number/);
   assert.doesNotMatch(marketing, />0[1-9]</);

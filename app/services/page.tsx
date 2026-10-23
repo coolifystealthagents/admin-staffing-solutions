@@ -37,7 +37,7 @@ const faqs = [
 ];
 
 export default function ServicesPage() { return <main>
-  <PageHero eyebrow="Services" title="Specialist support for work that must stay organized." description="Choose a focused administrative role, then define the systems, boundaries, and review points that make the handoff reliable." image="/thumbnails/october-12/project-status-evidence-cadence.svg" imageAlt="Administrative services workflow with evidence, cadence, and review controls" imageFit="contain" />
+  <PageHero eyebrow="Services" title="Specialist support for work that must stay organized." description="Choose a focused administrative role, then define the systems, boundaries, and review points that make the handoff reliable." image="/images/services-index.svg" imageAlt="Administrative service map connecting six specialist work queues to owners and review points" imageFit="contain" />
 
   <section className="section service-intro"><div><p className="eyebrow">A role, not a task pile</p><h2>Design capacity around an operating queue.</h2></div><div><p>Each service starts with work already moving through your business. We identify its source, accountable owner, completion standard, decision boundary, and escalation path before expanding scope.</p><p>The service pages below describe practical inputs, deliverables, controls, scenarios, and exclusions. They are planning guides, not promises that every task or system is suitable for delegation.</p></div></section>
 

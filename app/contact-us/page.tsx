@@ -32,6 +32,7 @@ export default function ContactPage() {
           <ul className="conversion-signals" aria-label="Consultation scope">
             <li>One focused workflow</li><li>Clear decision boundaries</li><li>Reviewable handoffs</li>
           </ul>
+          <div className="contact-command-art"><Image src="/images/contact-command-desk.svg" alt="Delegation command desk showing an intake queue, owners, evidence, and escalation" fill priority sizes="(max-width: 900px) 100vw, 44vw" /></div>
           <ReviewMarquee compact />
         </div>
         <div className="contact-form-card">

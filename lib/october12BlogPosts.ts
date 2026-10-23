@@ -9,7 +9,7 @@ export const october12BlogPosts: BlogPost[] = [
     "category": "Executive support",
     "publishedAt": "2026-10-12",
     "readTime": "10 min read",
-    "thumbnail": "/thumbnails/october-12/executive-calendar-conflict-register.svg",
+    "thumbnail": "/images/editorial/executive-calendar-conflict-register.svg",
     "sections": [
       {
         "heading": "Define the administrative decision",
@@ -88,7 +88,7 @@ export const october12BlogPosts: BlogPost[] = [
     "category": "Administrative systems",
     "publishedAt": "2026-10-12",
     "readTime": "11 min read",
-    "thumbnail": "/thumbnails/october-12/shared-inbox-delegation-register.svg",
+    "thumbnail": "/images/editorial/shared-inbox-delegation-register.svg",
     "sections": [
       {
         "heading": "Define the administrative decision",
@@ -167,7 +167,7 @@ export const october12BlogPosts: BlogPost[] = [
     "category": "Executive support",
     "publishedAt": "2026-10-12",
     "readTime": "12 min read",
-    "thumbnail": "/thumbnails/october-12/meeting-decision-action-custody.svg",
+    "thumbnail": "/images/editorial/meeting-decision-action-custody.svg",
     "sections": [
       {
         "heading": "Define the administrative decision",
@@ -246,7 +246,7 @@ export const october12BlogPosts: BlogPost[] = [
     "category": "Administrative systems",
     "publishedAt": "2026-10-12",
     "readTime": "10 min read",
-    "thumbnail": "/thumbnails/october-12/customer-onboarding-administration-checkpoint.svg",
+    "thumbnail": "/images/editorial/customer-onboarding-administration-checkpoint.svg",
     "sections": [
       {
         "heading": "Define the administrative decision",
@@ -325,7 +325,7 @@ export const october12BlogPosts: BlogPost[] = [
     "category": "Administrative systems",
     "publishedAt": "2026-10-12",
     "readTime": "11 min read",
-    "thumbnail": "/thumbnails/october-12/contract-renewal-date-register.svg",
+    "thumbnail": "/images/editorial/contract-renewal-date-register.svg",
     "sections": [
       {
         "heading": "Define the administrative decision",
@@ -404,7 +404,7 @@ export const october12BlogPosts: BlogPost[] = [
     "category": "Role design",
     "publishedAt": "2026-10-12",
     "readTime": "12 min read",
-    "thumbnail": "/thumbnails/october-12/vendor-credential-request-workflow.svg",
+    "thumbnail": "/images/editorial/vendor-credential-request-workflow.svg",
     "sections": [
       {
         "heading": "Define the administrative decision",
@@ -483,7 +483,7 @@ export const october12BlogPosts: BlogPost[] = [
     "category": "Executive support",
     "publishedAt": "2026-10-12",
     "readTime": "10 min read",
-    "thumbnail": "/thumbnails/october-12/executive-travel-change-recovery.svg",
+    "thumbnail": "/images/editorial/executive-travel-change-recovery.svg",
     "sections": [
       {
         "heading": "Define the administrative decision",
@@ -562,7 +562,7 @@ export const october12BlogPosts: BlogPost[] = [
     "category": "Project coordination",
     "publishedAt": "2026-10-12",
     "readTime": "11 min read",
-    "thumbnail": "/thumbnails/october-12/project-status-evidence-cadence.svg",
+    "thumbnail": "/images/editorial/project-status-evidence-cadence.svg",
     "sections": [
       {
         "heading": "Define the administrative decision",
@@ -641,7 +641,7 @@ export const october12BlogPosts: BlogPost[] = [
     "category": "Administrative systems",
     "publishedAt": "2026-10-12",
     "readTime": "12 min read",
-    "thumbnail": "/thumbnails/october-12/document-naming-migration-control.svg",
+    "thumbnail": "/images/editorial/document-naming-migration-control.svg",
     "sections": [
       {
         "heading": "Define the administrative decision",
@@ -720,7 +720,7 @@ export const october12BlogPosts: BlogPost[] = [
     "category": "Administrative systems",
     "publishedAt": "2026-10-12",
     "readTime": "10 min read",
-    "thumbnail": "/thumbnails/october-12/purchase-request-evidence-packet.svg",
+    "thumbnail": "/images/editorial/purchase-request-evidence-packet.svg",
     "sections": [
       {
         "heading": "Define the administrative decision",
@@ -799,7 +799,7 @@ export const october12BlogPosts: BlogPost[] = [
     "category": "Executive support",
     "publishedAt": "2026-10-12",
     "readTime": "11 min read",
-    "thumbnail": "/thumbnails/october-12/executive-briefing-source-verification.svg",
+    "thumbnail": "/images/editorial/executive-briefing-source-verification.svg",
     "sections": [
       {
         "heading": "Define the administrative decision",
@@ -878,7 +878,7 @@ export const october12BlogPosts: BlogPost[] = [
     "category": "Role design",
     "publishedAt": "2026-10-12",
     "readTime": "12 min read",
-    "thumbnail": "/thumbnails/october-12/administrative-offboarding-continuity.svg",
+    "thumbnail": "/images/editorial/administrative-offboarding-continuity.svg",
     "sections": [
       {
         "heading": "Define the administrative decision",

@@ -4,7 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
 import { site } from '@/lib/site';
-import { nav } from '@/lib/content';
+import { nav, secondaryNav } from '@/lib/content';
 
 const ParentAttribution = ({ inverse = false }: { inverse?: boolean }) => (
   <span className={`parent-attribution${inverse ? ' inverse' : ''}`}>
@@ -65,8 +65,8 @@ export function Footer() {
       <ParentAttribution inverse />
     </div>
     <div className="footer-links" aria-label="Footer navigation">
-      {nav.map(item => <Link key={item.href} href={item.href}>{item.label}</Link>)}
-      <Link href="/privacy">Privacy</Link><Link href="/terms">Terms</Link>
+      {secondaryNav.map(item => <Link key={item.href} href={item.href}>{item.label}</Link>)}
+      <Link href="/services">Services</Link><Link href="/contact-us">Contact Us</Link><Link href="/privacy">Privacy</Link><Link href="/terms">Terms</Link>
     </div>
     <p className="copyright">© {new Date().getFullYear()} {site.name}</p>
   </footer>;

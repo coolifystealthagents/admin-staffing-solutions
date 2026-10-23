@@ -8,7 +8,7 @@ export const october12ResearchPosts: ResearchPost[] = [
     "summary": "A reproducible protocol to measure whether independent reviewers apply the same approved conflict category and escalation route to executive scheduling requests, with evidence lineage, reviewer checks, source depth, and explicit limitations.",
     "cluster": "Executive administration research",
     "publishedAt": "2026-10-12",
-    "thumbnail": "/thumbnails/october-12/calendar-conflict-classification-agreement-study.svg",
+    "thumbnail": "/images/editorial/calendar-conflict-classification-agreement-study.svg",
     "finding": "The observation unit is one scheduling request with its observed calendar context; missing and conflicted evidence remain visible rather than being converted to a favorable result.",
     "sections": [
       {
@@ -115,7 +115,7 @@ export const october12ResearchPosts: ResearchPost[] = [
     "summary": "A reproducible protocol to measure whether inbox handoffs preserve the source message, category, sensitivity state, owner, acknowledgment, next action, and due time, with evidence lineage, reviewer checks, source depth, and explicit limitations.",
     "cluster": "Inbox operations research",
     "publishedAt": "2026-10-12",
-    "thumbnail": "/thumbnails/october-12/shared-inbox-handoff-completeness-study.svg",
+    "thumbnail": "/images/editorial/shared-inbox-handoff-completeness-study.svg",
     "finding": "The observation unit is one material inbox message and its first accepted assignment; missing and conflicted evidence remain visible rather than being converted to a favorable result.",
     "sections": [
       {
@@ -222,7 +222,7 @@ export const october12ResearchPosts: ResearchPost[] = [
     "summary": "A reproducible protocol to measure whether recorded meeting actions distinguish decisions from proposals and show explicit owner acceptance, with evidence lineage, reviewer checks, source depth, and explicit limitations.",
     "cluster": "Meeting operations research",
     "publishedAt": "2026-10-12",
-    "thumbnail": "/thumbnails/october-12/meeting-action-acceptance-study.svg",
+    "thumbnail": "/images/editorial/meeting-action-acceptance-study.svg",
     "finding": "The observation unit is one action statement recorded from a meeting; missing and conflicted evidence remain visible rather than being converted to a favorable result.",
     "sections": [
       {
@@ -329,7 +329,7 @@ export const october12ResearchPosts: ResearchPost[] = [
     "summary": "A reproducible protocol to measure whether onboarding records include the required agreement, inputs, ownership, access, checkpoint, and exception evidence, with evidence lineage, reviewer checks, source depth, and explicit limitations.",
     "cluster": "Customer administration research",
     "publishedAt": "2026-10-12",
-    "thumbnail": "/thumbnails/october-12/customer-onboarding-first-review-study.svg",
+    "thumbnail": "/images/editorial/customer-onboarding-first-review-study.svg",
     "finding": "The observation unit is one customer onboarding record submitted to the next stage owner; missing and conflicted evidence remain visible rather than being converted to a favorable result.",
     "sections": [
       {
@@ -436,7 +436,7 @@ export const october12ResearchPosts: ResearchPost[] = [
     "summary": "A reproducible protocol to measure whether milestone statuses can be reproduced from dated source updates, acceptance events, dependencies, blockers, and version rules, with evidence lineage, reviewer checks, source depth, and explicit limitations.",
     "cluster": "Project administration research",
     "publishedAt": "2026-10-12",
-    "thumbnail": "/thumbnails/october-12/project-status-lineage-reproducibility-study.svg",
+    "thumbnail": "/images/editorial/project-status-lineage-reproducibility-study.svg",
     "finding": "The observation unit is one milestone status on one frozen project report; missing and conflicted evidence remain visible rather than being converted to a favorable result.",
     "sections": [
       {
