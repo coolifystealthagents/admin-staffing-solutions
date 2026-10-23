@@ -1,10 +1,20 @@
 import { NextResponse } from 'next/server';
 import { sendLeadFallbackToMattermost } from '../../../lib/lead-fallback-mattermost';
+import { PayloadTooLargeError, readLimitedBody } from '../../../lib/read-limited-body';
 
 const personalDomains = new Set(['gmail.com','yahoo.com','hotmail.com','outlook.com','icloud.com','aol.com','proton.me','protonmail.com']);
+const MAX_LEAD_BYTES = 1_000_000;
 
 export async function POST(request: Request) {
-  const form = await request.formData();
+  let form: FormData;
+  try {
+    const body = await readLimitedBody(request, MAX_LEAD_BYTES);
+    const contentType = request.headers.get('content-type') || '';
+    form = await new Request('http://local/lead', { method: 'POST', headers: { 'content-type': contentType }, body: new Uint8Array(body).buffer }).formData();
+  } catch (error) {
+    if (error instanceof PayloadTooLargeError) return NextResponse.json({ ok: false, message: 'Payload too large.' }, { status: 413 });
+    return NextResponse.json({ ok: false, message: 'Invalid form submission.' }, { status: 400 });
+  }
   if (form.get('website_url')) return NextResponse.json({ ok: true });
   const source = String(form.get('source') || '');
   const full = source.startsWith('contact-page');

@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="t d"><title id="t">Run an Executive Calendar Conflict Register</title><desc id="d">Admin Staffing Solutions Blog thumbnail</desc><rect width="1200" height="630" fill="#121317"/><path d="M770 0h430v630H700z" fill="#62d6b3"/><rect x="835" y="105" width="270" height="330" rx="18" fill="#fbfbf7" stroke="#1738c7" stroke-width="14"/><path d="M890 190h160M890 255h125M890 320h160" stroke="#1738c7" stroke-width="14"/><circle cx="1035" cy="438" r="66" fill="#ff6b1a"/><path d="m1002 438 22 22 48-58" fill="none" stroke="#fff" stroke-width="14"/><text x="70" y="66" font-family="Arial,sans-serif" font-size="18" font-weight="800" letter-spacing="3" fill="#ff9a62">ADMIN STAFFING SOLUTIONS • BLOG</text><text x="70" y="182" font-family="Arial,sans-serif" font-size="43" font-weight="800" fill="#fff">Run an Executive</text><text x="70" y="240" font-family="Arial,sans-serif" font-size="43" font-weight="800" fill="#fff">Calendar Conflict</text><text x="70" y="298" font-family="Arial,sans-serif" font-size="43" font-weight="800" fill="#fff">Register</text><text x="70" y="570" font-family="Arial,sans-serif" font-size="17" font-weight="800" fill="#ff9a62">EVIDENCE • OWNER • ACCEPTANCE • REVIEW</text><text x="1122" y="572" text-anchor="end" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="#121317">01</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Run an Executive Calendar Conflict Register</title>
+  <desc id="desc">Editorial illustration of overlapping calendar events being resolved in a conflict register.</desc>
+  <rect width="1200" height="630" fill="#0b1736"/>
+  <path d="M0 510C210 442 382 548 606 476s382-50 594-137v291H0Z" fill="#132d61"/>
+  <text x="64" y="70" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#f2b84b">OPERATIONS PLAYBOOK</text>
+  <text x="64" y="160" font-family="Arial,sans-serif" font-size="46" font-weight="800" fill="#f7f3e8"><tspan x="64">Run an Executive</tspan><tspan x="64" dy="58">Calendar Conflict</tspan><tspan x="64" dy="58">Register</tspan></text>
+  <g transform="translate(690 74)">
+    <rect x="48" y="24" width="386" height="430" rx="28" fill="#f7f3e8"/>
+    <path d="M48 122h386" stroke="#2f6fed" stroke-width="18"/><path d="M130 0v54M352 0v54" stroke="#f2b84b" stroke-width="20" stroke-linecap="round"/>
+    <g fill="#dce8ff"><rect x="84" y="158" width="92" height="62" rx="10"/><rect x="194" y="158" width="92" height="62" rx="10"/><rect x="304" y="158" width="92" height="62" rx="10"/><rect x="84" y="238" width="92" height="62" rx="10"/><rect x="194" y="238" width="92" height="62" rx="10"/><rect x="304" y="238" width="92" height="62" rx="10"/></g>
+    <rect x="130" y="326" width="182" height="70" rx="14" fill="#2f6fed"/><rect x="232" y="350" width="164" height="70" rx="14" fill="#f2b84b" opacity=".95"/>
+    <path d="M221 338v82" stroke="#0b1736" stroke-width="5" stroke-dasharray="9 9"/>
+    <circle cx="436" cy="416" r="62" fill="#54c7c1"/><path d="m407 416 20 20 38-47" fill="none" stroke="#0b1736" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="64" y="568" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#9dbaf7">CONFLICTS • OWNERS • RESOLUTION</text>
+</svg>

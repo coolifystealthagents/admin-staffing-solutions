@@ -1,4 +1,5 @@
 import { type NextRequest } from 'next/server';
+import { PayloadTooLargeError, readLimitedBody } from '../../../lib/read-limited-body';
 
 const TRACKING_API = 'https://acrtracking.stealthagents.us/api/track';
 const MAX_BODY_BYTES = 256_000;
@@ -7,14 +8,7 @@ export const runtime = 'nodejs';
 
 export async function POST(request: NextRequest) {
   try {
-    const declaredLength = Number(request.headers.get('content-length') || '0');
-    if (declaredLength > MAX_BODY_BYTES) {
-      return Response.json({ status: 'error', detail: 'Payload too large' }, { status: 413 });
-    }
-    const body = await request.text();
-    if (new TextEncoder().encode(body).byteLength > MAX_BODY_BYTES) {
-      return Response.json({ status: 'error', detail: 'Payload too large' }, { status: 413 });
-    }
+    const body = new TextDecoder().decode(await readLimitedBody(request, MAX_BODY_BYTES));
     const clientIp = request.headers.get('cf-connecting-ip') ||
       request.headers.get('x-real-ip') ||
       request.headers.get('x-forwarded-for')?.split(',')[0]?.trim() ||
@@ -39,7 +33,10 @@ export async function POST(request: NextRequest) {
         'Cache-Control': 'no-store',
       },
     });
-  } catch {
+  } catch (error) {
+    if (error instanceof PayloadTooLargeError) {
+      return Response.json({ status: 'error', detail: 'Payload too large' }, { status: 413 });
+    }
     return Response.json({ status: 'error' }, { status: 502 });
   }
 }

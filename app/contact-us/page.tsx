@@ -2,7 +2,6 @@ import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import { LeadForm } from '@/components/LeadForm';
-import { PageHero } from '@/components/PageHero';
 import { ReviewMarquee } from '@/components/ReviewMarquee';
 import { site } from '@/lib/site';
 import './contact.css';
@@ -24,10 +23,27 @@ const faqs = [
 export default function ContactPage() {
   const schema = { '@context': 'https://schema.org', '@type': 'ContactPage', name: `Contact ${site.name}`, url: `https://${site.domain}/contact-us`, description: 'Administrative staffing consultation.' };
   return <main className="contact-page">
-    <PageHero eyebrow="Contact Us" title="Turn recurring administration into a controlled role." description="Tell us where work is fragmented. We will help map a focused support role around visible ownership, useful evidence, and clear decision boundaries." />
-    <div aria-label="StealthAgents reviews"><ReviewMarquee /></div>
-    <section className="contact-section" id="consultation-form"><div className="contact-container consultation-grid"><div className="consultation-copy"><p className="eyebrow">Administrative staffing consultation</p><h2>Bring one real workflow.</h2><p>Start with recurring work that consumes attention across calendars, inboxes, records, meetings, customer administration, or projects. We will separate delegable preparation and coordination from sensitive judgment and approval.</p><h3>What to expect</h3><ul><li>A practical review of the queue, owners, systems, and handoffs.</li><li>Clear access, communication, approval, and escalation boundaries.</li><li>A candidate matching path shaped by the workflow and operating rhythm.</li><li>A controlled launch plan with an accountable internal manager.</li></ul><p className="contact-note"><strong>Keep sensitive data out of this form.</strong> Do not include credentials, private correspondence, customer records, financial data, or protected information.</p></div><div className="contact-form-card"><p className="eyebrow">Start here</p><h2>Book a free consultation</h2><p>Complete the form first. After successful submission, the confirmation page will offer scheduling.</p><LeadForm source="contact-page-consultation" /></div></div></section>
-    <section className="contact-section credibility"><div className="contact-container credibility-grid"><div className="credibility-image"><Image src="/brand/stealth-agents-team-bacolod.webp" alt="Official Stealth Agents team in Bacolod" fill sizes="(max-width: 900px) 100vw, 48vw" /></div><div><Image className="parent-proof-logo" src="/brand/stealth-agents-logo-black.png" alt="Stealth Agents" width={220} height={60} /><p className="eyebrow">Parent company</p><h2>Administrative focus, backed by Stealth Agents.</h2><p>{site.name} is a subsidiary of Stealth Agents. The parent organization contributes remote-staffing recruiting and operating experience while this site focuses on administrative role design.</p><p><strong>Official team, Bacolod.</strong> This first-party image and the reviews above are published by Stealth Agents. They are not independently verified performance claims.</p><Link className="button primary" href="#consultation-form">Start the consultation form</Link></div></div></section>
+    <section className="contact-conversion-fold" id="consultation-form">
+      <div className="contact-container conversion-grid">
+        <div className="conversion-story">
+          <p className="eyebrow">Contact Us</p>
+          <h1>Turn recurring administration into a controlled role.</h1>
+          <p className="conversion-intro">Tell us where work is fragmented. We will help map a focused support role around visible ownership, useful evidence, and clear decision boundaries.</p>
+          <ul className="conversion-signals" aria-label="Consultation scope">
+            <li>One focused workflow</li><li>Clear decision boundaries</li><li>Reviewable handoffs</li>
+          </ul>
+          <ReviewMarquee compact />
+        </div>
+        <div className="contact-form-card">
+          <p className="eyebrow">Start here</p>
+          <h2>Book a free consultation</h2>
+          <p>Complete the form first. After successful submission, the confirmation page will offer scheduling.</p>
+          <LeadForm source="contact-page-consultation" />
+        </div>
+      </div>
+    </section>
+    <section className="contact-section credibility"><div className="contact-container credibility-grid"><div className="credibility-image"><Image src="/brand/stealth-agents-team-bacolod.webp" alt="Official Stealth Agents team in Bacolod" fill sizes="(max-width: 900px) 100vw, 48vw" /></div><div><div className="parent-proof-plate" aria-label="Stealth Agents official team in Bacolod"><Image className="parent-proof-logo" src="/brand/stealth-agents-logo-black.png" alt="Stealth Agents" width={220} height={60} /><strong>Official team, Bacolod</strong></div><p className="eyebrow">Parent company</p><h2>Administrative focus, backed by Stealth Agents.</h2><p>{site.name} is a subsidiary of Stealth Agents. The parent organization contributes remote-staffing recruiting and operating experience while this site focuses on administrative role design.</p><p>This first-party team image and the reviews above are published by Stealth Agents. They are not independently verified performance claims.</p><Link className="button primary" href="#consultation-form">Start the consultation form</Link></div></div></section>
+    <section className="contact-section"><div className="contact-container consultation-copy"><p className="eyebrow">Administrative staffing consultation</p><h2>Bring one real workflow.</h2><p>Start with recurring work that consumes attention across calendars, inboxes, records, meetings, customer administration, or projects. We will separate delegable preparation and coordination from sensitive judgment and approval.</p><h3>What to expect</h3><ul><li>A practical review of the queue, owners, systems, and handoffs.</li><li>Clear access, communication, approval, and escalation boundaries.</li><li>A candidate matching path shaped by the workflow and operating rhythm.</li><li>A controlled launch plan with an accountable internal manager.</li></ul><p className="contact-note"><strong>Keep sensitive data out of this form.</strong> Do not include credentials, private correspondence, customer records, financial data, or protected information.</p></div></section>
     <section className="contact-section"><div className="contact-container"><p className="eyebrow">A controlled path forward</p><h2>After you reach out</h2><div className="step-grid">{steps.map(([title, copy]) => <article key={title} className="step-card"><p className="card-kicker">Process stage</p><h3>{title}</h3><p>{copy}</p></article>)}</div></div></section>
     <section className="contact-section boundaries"><div className="contact-container narrow"><p className="eyebrow">Accountability stays clear</p><h2>Responsibility and boundaries</h2><p>Remote administrative staff can coordinate, prepare, organize, update authorized systems, communicate from approved guidance, track actions, and flag exceptions. They do not make executive, legal, HR, financial, compliance, privacy, or security decisions; sign contracts; move money; approve customer remedies; or act outside documented authority.</p></div></section>
     <section className="contact-section faq"><div className="contact-container narrow"><p className="eyebrow">Administrative staffing questions</p><h2>Frequently asked questions</h2>{faqs.map(([q, a]) => <details key={q}><summary>{q}</summary><p>{a}</p></details>)}</div></section>

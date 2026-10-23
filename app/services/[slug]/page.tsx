@@ -6,6 +6,15 @@ import { site } from '@/lib/site';
 import { serviceBySlug } from '@/lib/content';
 import { serviceDetails } from '@/lib/service-details';
 
+const serviceHero: Record<string, { image: string; alt: string }> = {
+  'executive-administration': { image: '/thumbnails/october-12/executive-calendar-conflict-register.svg', alt: 'Executive calendar conflict register workflow' },
+  'inbox-workflow-support': { image: '/thumbnails/october-12/shared-inbox-delegation-register.svg', alt: 'Shared inbox delegation register workflow' },
+  'records-administration': { image: '/thumbnails/october-12/document-naming-migration-control.svg', alt: 'Document naming and records control workflow' },
+  'meeting-coordination': { image: '/thumbnails/october-12/meeting-decision-action-custody.svg', alt: 'Meeting decision and action custody workflow' },
+  'customer-administration': { image: '/thumbnails/october-12/customer-onboarding-administration-checkpoint.svg', alt: 'Customer onboarding administration checkpoint' },
+  'project-administration': { image: '/thumbnails/october-12/project-status-evidence-cadence.svg', alt: 'Project status evidence cadence workflow' },
+};
+
 export function generateStaticParams() { return site.services.map(({ slug }) => ({ slug })); }
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> { const { slug } = await params; const service = serviceBySlug(slug); return service ? { title: service.name, description: service.short, alternates: { canonical: `/services/${slug}` } } : {}; }
 
@@ -14,9 +23,10 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
   const service = serviceBySlug(slug);
   const detail = serviceDetails[slug];
   if (!service || !detail) notFound();
+  const hero = serviceHero[slug];
   const related = site.services.filter(item => item.slug !== slug).slice(0, 3);
   return <main className="service-detail">
-    <PageHero eyebrow="Administrative staffing service" title={service.name} description={service.short}><Link id={`cta-services-${service.slug}-bookcall`} className="button primary" href="/contact-us">Discuss this role</Link></PageHero>
+    <PageHero eyebrow="Administrative staffing service" title={service.name} description={service.short} image={hero.image} imageAlt={hero.alt} imageFit="contain"><Link id={`cta-services-${service.slug}-bookcall`} className="button primary" href="/contact-us">Discuss this role</Link></PageHero>
     <section className="content-wrap service-prose">
       <section><p className="eyebrow">Role fit</p><h2>Who this role is for</h2><p>This service is designed for teams that can name the recurring queue, the accountable internal owner, and the evidence that shows complete work. It adds preparation and coordination capacity without moving executive or regulated judgment away from your organization.</p><ul>{detail.audience.map(item => <li key={item}>{item}</li>)}</ul></section>
       <section className="split-section"><div><p className="eyebrow">Handoff design</p><h2>Inputs and access</h2><p>A reliable handoff begins with controlled sources, explicit access, and examples of acceptable work. Credentials should never be placed in a role brief or consultation form.</p><ul>{detail.inputs.map(item => <li key={item}>{item}</li>)}</ul></div><div><p className="eyebrow">Visible output</p><h2>Deliverables</h2><p>Outputs should make status, evidence, ownership, and exceptions easy for your manager to inspect.</p><ul>{detail.deliverables.map(item => <li key={item}>{item}</li>)}</ul></div></section>

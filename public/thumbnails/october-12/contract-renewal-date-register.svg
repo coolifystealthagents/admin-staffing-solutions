@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="t d"><title id="t">Maintain a Contract Renewal Date Register With Evidence</title><desc id="d">Admin Staffing Solutions Blog thumbnail</desc><rect width="1200" height="630" fill="#121317"/><path d="M770 0h430v630H700z" fill="#62d6b3"/><rect x="835" y="105" width="270" height="330" rx="18" fill="#fbfbf7" stroke="#1738c7" stroke-width="14"/><path d="M890 190h160M890 255h125M890 320h160" stroke="#1738c7" stroke-width="14"/><circle cx="1035" cy="438" r="66" fill="#ff6b1a"/><path d="m1002 438 22 22 48-58" fill="none" stroke="#fff" stroke-width="14"/><text x="70" y="66" font-family="Arial,sans-serif" font-size="18" font-weight="800" letter-spacing="3" fill="#ff9a62">ADMIN STAFFING SOLUTIONS • BLOG</text><text x="70" y="182" font-family="Arial,sans-serif" font-size="43" font-weight="800" fill="#fff">Maintain a Contract</text><text x="70" y="240" font-family="Arial,sans-serif" font-size="43" font-weight="800" fill="#fff">Renewal Date Register</text><text x="70" y="298" font-family="Arial,sans-serif" font-size="43" font-weight="800" fill="#fff">With Evidence</text><text x="70" y="570" font-family="Arial,sans-serif" font-size="17" font-weight="800" fill="#ff9a62">EVIDENCE • OWNER • ACCEPTANCE • REVIEW</text><text x="1122" y="572" text-anchor="end" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="#121317">05</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Maintain a Contract Renewal Date Register With Evidence</title>
+  <desc id="desc">Editorial illustration of a contract, renewal clock, and attached evidence seal.</desc>
+  <rect width="1200" height="630" fill="#0b1736"/>
+  <path d="M668 0h532v630H608Z" fill="#173b78"/>
+  <g transform="translate(704 74)">
+    <path d="M70 0h280l90 90v384H70Z" fill="#f7f3e8"/><path d="M350 0v90h90" fill="#dce8ff"/>
+    <path d="M128 152h244M128 211h184M128 270h230" stroke="#2f6fed" stroke-width="13" stroke-linecap="round"/>
+    <circle cx="140" cy="380" r="76" fill="#f2b84b"/><path d="M140 337v46l34 23" fill="none" stroke="#0b1736" stroke-width="13" stroke-linecap="round"/>
+    <circle cx="354" cy="380" r="58" fill="#54c7c1"/><path d="m326 380 19 19 37-45" fill="none" stroke="#0b1736" stroke-width="12"/>
+  </g>
+  <text x="62" y="70" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#f2b84b">CONTRACT CONTROL</text>
+  <text x="62" y="168" font-family="Arial,sans-serif" font-size="44" font-weight="800" fill="#fff"><tspan x="62">Maintain a Contract</tspan><tspan x="62" dy="56">Renewal Date</tspan><tspan x="62" dy="56">Register With</tspan><tspan x="62" dy="56">Evidence</tspan></text>
+  <path d="M62 452h460" stroke="#2f6fed" stroke-width="5"/><text x="62" y="503" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#9dbaf7">TERMS • DATES • PROOF</text>
+</svg>

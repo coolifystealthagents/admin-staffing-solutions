@@ -66,7 +66,7 @@ export function Footer() {
     </div>
     <div className="footer-links" aria-label="Footer navigation">
       {nav.map(item => <Link key={item.href} href={item.href}>{item.label}</Link>)}
-      <Link href="/about">About</Link><Link href="/blog">Blog</Link><Link href="/research">Research</Link><Link href="/privacy">Privacy</Link><Link href="/terms">Terms</Link>
+      <Link href="/privacy">Privacy</Link><Link href="/terms">Terms</Link>
     </div>
     <p className="copyright">© {new Date().getFullYear()} {site.name}</p>
   </footer>;

@@ -14,73 +14,55 @@ export const october12ResearchPosts: ResearchPost[] = [
       {
         "heading": "Research question",
         "paragraphs": [
-          "Agreement in Executive Calendar Conflict Classification asks how to measure whether independent reviewers apply the same approved conflict category and escalation route to executive scheduling requests. The result supports a bounded operations review and does not decide policy, legal obligations, financial treatment, personnel action, or an individual customer outcome.",
-          "Agreement in Executive Calendar Conflict Classification documents the research question choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Agreement in Executive Calendar Conflict Classification separates observations about one scheduling request with its observed calendar context from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Agreement in Executive Calendar Conflict Classification asks how to measure whether independent reviewers apply the same approved conflict category and escalation route to executive scheduling requests. The result supports a bounded operations review and does not decide policy, legal obligations, financial treatment, personnel action, or an individual customer outcome."
         ]
       },
       {
         "heading": "Population and observation unit",
         "paragraphs": [
-          "Agreement in Executive Calendar Conflict Classification defines the unit as one scheduling request with its observed calendar context. Freeze the population, window, inclusion rule, exclusion rule, and duplicate treatment before reviewers see outcomes.",
-          "Agreement in Executive Calendar Conflict Classification documents the population and observation unit choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Agreement in Executive Calendar Conflict Classification separates observations about one scheduling request with its observed calendar context from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Agreement in Executive Calendar Conflict Classification defines the unit as one scheduling request with its observed calendar context. Freeze the population, window, inclusion rule, exclusion rule, and duplicate treatment before reviewers see outcomes."
         ]
       },
       {
         "heading": "Data dictionary and evidence lineage",
         "paragraphs": [
-          "Agreement in Executive Calendar Conflict Classification uses a versioned dictionary. Capture request key, source, observed time, participants, conflict type, constraint evidence, reviewer codes, escalation route, adjudication, and final status. Every code links to its source, observation time, reviewer, transformation, and adjudication history.",
-          "Agreement in Executive Calendar Conflict Classification documents the data dictionary and evidence lineage choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Agreement in Executive Calendar Conflict Classification separates observations about one scheduling request with its observed calendar context from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Agreement in Executive Calendar Conflict Classification uses a versioned dictionary. Capture request key, source, observed time, participants, conflict type, constraint evidence, reviewer codes, escalation route, adjudication, and final status. Every code links to its source, observation time, reviewer, transformation, and adjudication history."
         ]
       },
       {
         "heading": "Measurement method",
         "paragraphs": [
-          "Agreement in Executive Calendar Conflict Classification compares request source, conflict type, lead time, participant class, and initial outcome. exact reviewer agreement for conflict category and escalation route before discussion. Report counts beside rates and preserve missing, conflicted, not-applicable, and unresolved states.",
-          "Agreement in Executive Calendar Conflict Classification documents the measurement method choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Agreement in Executive Calendar Conflict Classification separates observations about one scheduling request with its observed calendar context from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Agreement in Executive Calendar Conflict Classification compares request source, conflict type, lead time, participant class, and initial outcome. exact reviewer agreement for conflict category and escalation route before discussion. Report counts beside rates and preserve missing, conflicted, not-applicable, and unresolved states."
         ]
       },
       {
         "heading": "Reviewer reliability",
         "paragraphs": [
-          "Agreement in Executive Calendar Conflict Classification uses independent coding on an overlap sample. Retain initial codes before discussion, publish disagreement counts, document adjudication, and test reconstruction without private notes.",
-          "Agreement in Executive Calendar Conflict Classification documents the reviewer reliability choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Agreement in Executive Calendar Conflict Classification separates observations about one scheduling request with its observed calendar context from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Agreement in Executive Calendar Conflict Classification uses independent coding on an overlap sample. Retain initial codes before discussion, publish disagreement counts, document adjudication, and test reconstruction without private notes."
         ]
       },
       {
         "heading": "Privacy and security",
         "paragraphs": [
-          "Agreement in Executive Calendar Conflict Classification minimizes business and personal information. Use study keys, restrict raw evidence, separate analysis from production access, log exports, aggregate results, and define deletion dates.",
-          "Agreement in Executive Calendar Conflict Classification documents the privacy and security choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Agreement in Executive Calendar Conflict Classification separates observations about one scheduling request with its observed calendar context from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Agreement in Executive Calendar Conflict Classification minimizes business and personal information. Use study keys, restrict raw evidence, separate analysis from production access, log exports, aggregate results, and define deletion dates."
         ]
       },
       {
         "heading": "Sensitivity analysis",
         "paragraphs": [
-          "Agreement in Executive Calendar Conflict Classification tests plausible alternate rules. Repeat the primary measure under alternate missing-data, duplicate, exclusion, and tolerance rules; show how numerator and denominator change.",
-          "Agreement in Executive Calendar Conflict Classification documents the sensitivity analysis choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Agreement in Executive Calendar Conflict Classification separates observations about one scheduling request with its observed calendar context from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Agreement in Executive Calendar Conflict Classification tests plausible alternate rules. Repeat the primary measure under alternate missing-data, duplicate, exclusion, and tolerance rules; show how numerator and denominator change."
         ]
       },
       {
         "heading": "Limitations and responsible use",
         "paragraphs": [
-          "Agreement in Executive Calendar Conflict Classification states its central limitation. agreement does not determine business priority or authorize a calendar change. Selection bias, inaccessible records, system changes, reviewer learning, correlated work, and local design further restrict interpretation.",
-          "Agreement in Executive Calendar Conflict Classification documents the limitations and responsible use choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Agreement in Executive Calendar Conflict Classification separates observations about one scheduling request with its observed calendar context from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Agreement in Executive Calendar Conflict Classification states its central limitation. agreement does not determine business priority or authorize a calendar change. Selection bias, inaccessible records, system changes, reviewer learning, correlated work, and local design further restrict interpretation."
         ]
       },
       {
         "heading": "Reporting and action",
         "paragraphs": [
-          "Agreement in Executive Calendar Conflict Classification publishes a reproducible package. Report population, sample, dictionary, evidence coverage, exclusions, missingness, primary result, groups, agreement, adjudications, sensitivity checks, counterexamples, and limits.",
-          "Agreement in Executive Calendar Conflict Classification documents the reporting and action choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Agreement in Executive Calendar Conflict Classification separates observations about one scheduling request with its observed calendar context from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Agreement in Executive Calendar Conflict Classification publishes a reproducible package. Report population, sample, dictionary, evidence coverage, exclusions, missingness, primary result, groups, agreement, adjudications, sensitivity checks, counterexamples, and limits."
         ]
       }
     ],
@@ -139,73 +121,55 @@ export const october12ResearchPosts: ResearchPost[] = [
       {
         "heading": "Research question",
         "paragraphs": [
-          "Completeness of Shared Inbox Handoffs asks how to measure whether inbox handoffs preserve the source message, category, sensitivity state, owner, acknowledgment, next action, and due time. The result supports a bounded operations review and does not decide policy, legal obligations, financial treatment, personnel action, or an individual customer outcome.",
-          "Completeness of Shared Inbox Handoffs documents the research question choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Completeness of Shared Inbox Handoffs separates observations about one material inbox message and its first accepted assignment from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Completeness of Shared Inbox Handoffs asks how to measure whether inbox handoffs preserve the source message, category, sensitivity state, owner, acknowledgment, next action, and due time. The result supports a bounded operations review and does not decide policy, legal obligations, financial treatment, personnel action, or an individual customer outcome."
         ]
       },
       {
         "heading": "Population and observation unit",
         "paragraphs": [
-          "Completeness of Shared Inbox Handoffs defines the unit as one material inbox message and its first accepted assignment. Freeze the population, window, inclusion rule, exclusion rule, and duplicate treatment before reviewers see outcomes.",
-          "Completeness of Shared Inbox Handoffs documents the population and observation unit choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Completeness of Shared Inbox Handoffs separates observations about one material inbox message and its first accepted assignment from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Completeness of Shared Inbox Handoffs defines the unit as one material inbox message and its first accepted assignment. Freeze the population, window, inclusion rule, exclusion rule, and duplicate treatment before reviewers see outcomes."
         ]
       },
       {
         "heading": "Data dictionary and evidence lineage",
         "paragraphs": [
-          "Completeness of Shared Inbox Handoffs uses a versioned dictionary. Capture message key, source, received time, category, sensitivity flag, owner, acknowledgment, next action, due time, correction, and disposition. Every code links to its source, observation time, reviewer, transformation, and adjudication history.",
-          "Completeness of Shared Inbox Handoffs documents the data dictionary and evidence lineage choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Completeness of Shared Inbox Handoffs separates observations about one material inbox message and its first accepted assignment from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Completeness of Shared Inbox Handoffs uses a versioned dictionary. Capture message key, source, received time, category, sensitivity flag, owner, acknowledgment, next action, due time, correction, and disposition. Every code links to its source, observation time, reviewer, transformation, and adjudication history."
         ]
       },
       {
         "heading": "Measurement method",
         "paragraphs": [
-          "Completeness of Shared Inbox Handoffs compares queue, category, business-hours status, sensitivity state, and first outcome. the share of sampled handoffs containing every mandatory custody element. Report counts beside rates and preserve missing, conflicted, not-applicable, and unresolved states.",
-          "Completeness of Shared Inbox Handoffs documents the measurement method choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Completeness of Shared Inbox Handoffs separates observations about one material inbox message and its first accepted assignment from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Completeness of Shared Inbox Handoffs compares queue, category, business-hours status, sensitivity state, and first outcome. the share of sampled handoffs containing every mandatory custody element. Report counts beside rates and preserve missing, conflicted, not-applicable, and unresolved states."
         ]
       },
       {
         "heading": "Reviewer reliability",
         "paragraphs": [
-          "Completeness of Shared Inbox Handoffs uses independent coding on an overlap sample. Retain initial codes before discussion, publish disagreement counts, document adjudication, and test reconstruction without private notes.",
-          "Completeness of Shared Inbox Handoffs documents the reviewer reliability choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Completeness of Shared Inbox Handoffs separates observations about one material inbox message and its first accepted assignment from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Completeness of Shared Inbox Handoffs uses independent coding on an overlap sample. Retain initial codes before discussion, publish disagreement counts, document adjudication, and test reconstruction without private notes."
         ]
       },
       {
         "heading": "Privacy and security",
         "paragraphs": [
-          "Completeness of Shared Inbox Handoffs minimizes business and personal information. Use study keys, restrict raw evidence, separate analysis from production access, log exports, aggregate results, and define deletion dates.",
-          "Completeness of Shared Inbox Handoffs documents the privacy and security choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Completeness of Shared Inbox Handoffs separates observations about one material inbox message and its first accepted assignment from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Completeness of Shared Inbox Handoffs minimizes business and personal information. Use study keys, restrict raw evidence, separate analysis from production access, log exports, aggregate results, and define deletion dates."
         ]
       },
       {
         "heading": "Sensitivity analysis",
         "paragraphs": [
-          "Completeness of Shared Inbox Handoffs tests plausible alternate rules. Repeat the primary measure under alternate missing-data, duplicate, exclusion, and tolerance rules; show how numerator and denominator change.",
-          "Completeness of Shared Inbox Handoffs documents the sensitivity analysis choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Completeness of Shared Inbox Handoffs separates observations about one material inbox message and its first accepted assignment from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Completeness of Shared Inbox Handoffs tests plausible alternate rules. Repeat the primary measure under alternate missing-data, duplicate, exclusion, and tolerance rules; show how numerator and denominator change."
         ]
       },
       {
         "heading": "Limitations and responsible use",
         "paragraphs": [
-          "Completeness of Shared Inbox Handoffs states its central limitation. handoff completeness does not prove the response was correct or the issue was resolved. Selection bias, inaccessible records, system changes, reviewer learning, correlated work, and local design further restrict interpretation.",
-          "Completeness of Shared Inbox Handoffs documents the limitations and responsible use choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Completeness of Shared Inbox Handoffs separates observations about one material inbox message and its first accepted assignment from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Completeness of Shared Inbox Handoffs states its central limitation. handoff completeness does not prove the response was correct or the issue was resolved. Selection bias, inaccessible records, system changes, reviewer learning, correlated work, and local design further restrict interpretation."
         ]
       },
       {
         "heading": "Reporting and action",
         "paragraphs": [
-          "Completeness of Shared Inbox Handoffs publishes a reproducible package. Report population, sample, dictionary, evidence coverage, exclusions, missingness, primary result, groups, agreement, adjudications, sensitivity checks, counterexamples, and limits.",
-          "Completeness of Shared Inbox Handoffs documents the reporting and action choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Completeness of Shared Inbox Handoffs separates observations about one material inbox message and its first accepted assignment from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Completeness of Shared Inbox Handoffs publishes a reproducible package. Report population, sample, dictionary, evidence coverage, exclusions, missingness, primary result, groups, agreement, adjudications, sensitivity checks, counterexamples, and limits."
         ]
       }
     ],
@@ -264,73 +228,55 @@ export const october12ResearchPosts: ResearchPost[] = [
       {
         "heading": "Research question",
         "paragraphs": [
-          "Acceptance of Actions Recorded From Meetings asks how to measure whether recorded meeting actions distinguish decisions from proposals and show explicit owner acceptance. The result supports a bounded operations review and does not decide policy, legal obligations, financial treatment, personnel action, or an individual customer outcome.",
-          "Acceptance of Actions Recorded From Meetings documents the research question choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Acceptance of Actions Recorded From Meetings separates observations about one action statement recorded from a meeting from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Acceptance of Actions Recorded From Meetings asks how to measure whether recorded meeting actions distinguish decisions from proposals and show explicit owner acceptance. The result supports a bounded operations review and does not decide policy, legal obligations, financial treatment, personnel action, or an individual customer outcome."
         ]
       },
       {
         "heading": "Population and observation unit",
         "paragraphs": [
-          "Acceptance of Actions Recorded From Meetings defines the unit as one action statement recorded from a meeting. Freeze the population, window, inclusion rule, exclusion rule, and duplicate treatment before reviewers see outcomes.",
-          "Acceptance of Actions Recorded From Meetings documents the population and observation unit choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Acceptance of Actions Recorded From Meetings separates observations about one action statement recorded from a meeting from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Acceptance of Actions Recorded From Meetings defines the unit as one action statement recorded from a meeting. Freeze the population, window, inclusion rule, exclusion rule, and duplicate treatment before reviewers see outcomes."
         ]
       },
       {
         "heading": "Data dictionary and evidence lineage",
         "paragraphs": [
-          "Acceptance of Actions Recorded From Meetings uses a versioned dictionary. Capture meeting key, source note, statement, classification, decision owner, action owner, due time, acceptance event, change history, and disposition. Every code links to its source, observation time, reviewer, transformation, and adjudication history.",
-          "Acceptance of Actions Recorded From Meetings documents the data dictionary and evidence lineage choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Acceptance of Actions Recorded From Meetings separates observations about one action statement recorded from a meeting from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Acceptance of Actions Recorded From Meetings uses a versioned dictionary. Capture meeting key, source note, statement, classification, decision owner, action owner, due time, acceptance event, change history, and disposition. Every code links to its source, observation time, reviewer, transformation, and adjudication history."
         ]
       },
       {
         "heading": "Measurement method",
         "paragraphs": [
-          "Acceptance of Actions Recorded From Meetings compares meeting type, action class, owner group, due-time presence, and acceptance state. the proportion of sampled actions accepted by the named owner with a reproducible source statement. Report counts beside rates and preserve missing, conflicted, not-applicable, and unresolved states.",
-          "Acceptance of Actions Recorded From Meetings documents the measurement method choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Acceptance of Actions Recorded From Meetings separates observations about one action statement recorded from a meeting from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Acceptance of Actions Recorded From Meetings compares meeting type, action class, owner group, due-time presence, and acceptance state. the proportion of sampled actions accepted by the named owner with a reproducible source statement. Report counts beside rates and preserve missing, conflicted, not-applicable, and unresolved states."
         ]
       },
       {
         "heading": "Reviewer reliability",
         "paragraphs": [
-          "Acceptance of Actions Recorded From Meetings uses independent coding on an overlap sample. Retain initial codes before discussion, publish disagreement counts, document adjudication, and test reconstruction without private notes.",
-          "Acceptance of Actions Recorded From Meetings documents the reviewer reliability choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Acceptance of Actions Recorded From Meetings separates observations about one action statement recorded from a meeting from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Acceptance of Actions Recorded From Meetings uses independent coding on an overlap sample. Retain initial codes before discussion, publish disagreement counts, document adjudication, and test reconstruction without private notes."
         ]
       },
       {
         "heading": "Privacy and security",
         "paragraphs": [
-          "Acceptance of Actions Recorded From Meetings minimizes business and personal information. Use study keys, restrict raw evidence, separate analysis from production access, log exports, aggregate results, and define deletion dates.",
-          "Acceptance of Actions Recorded From Meetings documents the privacy and security choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Acceptance of Actions Recorded From Meetings separates observations about one action statement recorded from a meeting from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Acceptance of Actions Recorded From Meetings minimizes business and personal information. Use study keys, restrict raw evidence, separate analysis from production access, log exports, aggregate results, and define deletion dates."
         ]
       },
       {
         "heading": "Sensitivity analysis",
         "paragraphs": [
-          "Acceptance of Actions Recorded From Meetings tests plausible alternate rules. Repeat the primary measure under alternate missing-data, duplicate, exclusion, and tolerance rules; show how numerator and denominator change.",
-          "Acceptance of Actions Recorded From Meetings documents the sensitivity analysis choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Acceptance of Actions Recorded From Meetings separates observations about one action statement recorded from a meeting from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Acceptance of Actions Recorded From Meetings tests plausible alternate rules. Repeat the primary measure under alternate missing-data, duplicate, exclusion, and tolerance rules; show how numerator and denominator change."
         ]
       },
       {
         "heading": "Limitations and responsible use",
         "paragraphs": [
-          "Acceptance of Actions Recorded From Meetings states its central limitation. acceptance does not prove completion, value, feasibility, or authority outside the recorded scope. Selection bias, inaccessible records, system changes, reviewer learning, correlated work, and local design further restrict interpretation.",
-          "Acceptance of Actions Recorded From Meetings documents the limitations and responsible use choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Acceptance of Actions Recorded From Meetings separates observations about one action statement recorded from a meeting from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Acceptance of Actions Recorded From Meetings states its central limitation. acceptance does not prove completion, value, feasibility, or authority outside the recorded scope. Selection bias, inaccessible records, system changes, reviewer learning, correlated work, and local design further restrict interpretation."
         ]
       },
       {
         "heading": "Reporting and action",
         "paragraphs": [
-          "Acceptance of Actions Recorded From Meetings publishes a reproducible package. Report population, sample, dictionary, evidence coverage, exclusions, missingness, primary result, groups, agreement, adjudications, sensitivity checks, counterexamples, and limits.",
-          "Acceptance of Actions Recorded From Meetings documents the reporting and action choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Acceptance of Actions Recorded From Meetings separates observations about one action statement recorded from a meeting from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Acceptance of Actions Recorded From Meetings publishes a reproducible package. Report population, sample, dictionary, evidence coverage, exclusions, missingness, primary result, groups, agreement, adjudications, sensitivity checks, counterexamples, and limits."
         ]
       }
     ],
@@ -389,73 +335,55 @@ export const october12ResearchPosts: ResearchPost[] = [
       {
         "heading": "Research question",
         "paragraphs": [
-          "First Review Completeness of Customer Onboarding Records asks how to measure whether onboarding records include the required agreement, inputs, ownership, access, checkpoint, and exception evidence. The result supports a bounded operations review and does not decide policy, legal obligations, financial treatment, personnel action, or an individual customer outcome.",
-          "First Review Completeness of Customer Onboarding Records documents the research question choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "First Review Completeness of Customer Onboarding Records separates observations about one customer onboarding record submitted to the next stage owner from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "First Review Completeness of Customer Onboarding Records asks how to measure whether onboarding records include the required agreement, inputs, ownership, access, checkpoint, and exception evidence. The result supports a bounded operations review and does not decide policy, legal obligations, financial treatment, personnel action, or an individual customer outcome."
         ]
       },
       {
         "heading": "Population and observation unit",
         "paragraphs": [
-          "First Review Completeness of Customer Onboarding Records defines the unit as one customer onboarding record submitted to the next stage owner. Freeze the population, window, inclusion rule, exclusion rule, and duplicate treatment before reviewers see outcomes.",
-          "First Review Completeness of Customer Onboarding Records documents the population and observation unit choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "First Review Completeness of Customer Onboarding Records separates observations about one customer onboarding record submitted to the next stage owner from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "First Review Completeness of Customer Onboarding Records defines the unit as one customer onboarding record submitted to the next stage owner. Freeze the population, window, inclusion rule, exclusion rule, and duplicate treatment before reviewers see outcomes."
         ]
       },
       {
         "heading": "Data dictionary and evidence lineage",
         "paragraphs": [
-          "First Review Completeness of Customer Onboarding Records uses a versioned dictionary. Capture customer key, agreement version, input checklist, access request, welcome event, checkpoint, exception, preparer, reviewer result, and return reason. Every code links to its source, observation time, reviewer, transformation, and adjudication history.",
-          "First Review Completeness of Customer Onboarding Records documents the data dictionary and evidence lineage choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "First Review Completeness of Customer Onboarding Records separates observations about one customer onboarding record submitted to the next stage owner from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "First Review Completeness of Customer Onboarding Records uses a versioned dictionary. Capture customer key, agreement version, input checklist, access request, welcome event, checkpoint, exception, preparer, reviewer result, and return reason. Every code links to its source, observation time, reviewer, transformation, and adjudication history."
         ]
       },
       {
         "heading": "Measurement method",
         "paragraphs": [
-          "First Review Completeness of Customer Onboarding Records compares customer segment, stage, input class, preparer, and first review result. the share of sampled records accepted at first review without a missing mandatory element. Report counts beside rates and preserve missing, conflicted, not-applicable, and unresolved states.",
-          "First Review Completeness of Customer Onboarding Records documents the measurement method choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "First Review Completeness of Customer Onboarding Records separates observations about one customer onboarding record submitted to the next stage owner from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "First Review Completeness of Customer Onboarding Records compares customer segment, stage, input class, preparer, and first review result. the share of sampled records accepted at first review without a missing mandatory element. Report counts beside rates and preserve missing, conflicted, not-applicable, and unresolved states."
         ]
       },
       {
         "heading": "Reviewer reliability",
         "paragraphs": [
-          "First Review Completeness of Customer Onboarding Records uses independent coding on an overlap sample. Retain initial codes before discussion, publish disagreement counts, document adjudication, and test reconstruction without private notes.",
-          "First Review Completeness of Customer Onboarding Records documents the reviewer reliability choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "First Review Completeness of Customer Onboarding Records separates observations about one customer onboarding record submitted to the next stage owner from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "First Review Completeness of Customer Onboarding Records uses independent coding on an overlap sample. Retain initial codes before discussion, publish disagreement counts, document adjudication, and test reconstruction without private notes."
         ]
       },
       {
         "heading": "Privacy and security",
         "paragraphs": [
-          "First Review Completeness of Customer Onboarding Records minimizes business and personal information. Use study keys, restrict raw evidence, separate analysis from production access, log exports, aggregate results, and define deletion dates.",
-          "First Review Completeness of Customer Onboarding Records documents the privacy and security choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "First Review Completeness of Customer Onboarding Records separates observations about one customer onboarding record submitted to the next stage owner from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "First Review Completeness of Customer Onboarding Records minimizes business and personal information. Use study keys, restrict raw evidence, separate analysis from production access, log exports, aggregate results, and define deletion dates."
         ]
       },
       {
         "heading": "Sensitivity analysis",
         "paragraphs": [
-          "First Review Completeness of Customer Onboarding Records tests plausible alternate rules. Repeat the primary measure under alternate missing-data, duplicate, exclusion, and tolerance rules; show how numerator and denominator change.",
-          "First Review Completeness of Customer Onboarding Records documents the sensitivity analysis choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "First Review Completeness of Customer Onboarding Records separates observations about one customer onboarding record submitted to the next stage owner from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "First Review Completeness of Customer Onboarding Records tests plausible alternate rules. Repeat the primary measure under alternate missing-data, duplicate, exclusion, and tolerance rules; show how numerator and denominator change."
         ]
       },
       {
         "heading": "Limitations and responsible use",
         "paragraphs": [
-          "First Review Completeness of Customer Onboarding Records states its central limitation. administrative completeness does not establish customer satisfaction, contract interpretation, or delivery quality. Selection bias, inaccessible records, system changes, reviewer learning, correlated work, and local design further restrict interpretation.",
-          "First Review Completeness of Customer Onboarding Records documents the limitations and responsible use choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "First Review Completeness of Customer Onboarding Records separates observations about one customer onboarding record submitted to the next stage owner from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "First Review Completeness of Customer Onboarding Records states its central limitation. administrative completeness does not establish customer satisfaction, contract interpretation, or delivery quality. Selection bias, inaccessible records, system changes, reviewer learning, correlated work, and local design further restrict interpretation."
         ]
       },
       {
         "heading": "Reporting and action",
         "paragraphs": [
-          "First Review Completeness of Customer Onboarding Records publishes a reproducible package. Report population, sample, dictionary, evidence coverage, exclusions, missingness, primary result, groups, agreement, adjudications, sensitivity checks, counterexamples, and limits.",
-          "First Review Completeness of Customer Onboarding Records documents the reporting and action choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "First Review Completeness of Customer Onboarding Records separates observations about one customer onboarding record submitted to the next stage owner from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "First Review Completeness of Customer Onboarding Records publishes a reproducible package. Report population, sample, dictionary, evidence coverage, exclusions, missingness, primary result, groups, agreement, adjudications, sensitivity checks, counterexamples, and limits."
         ]
       }
     ],
@@ -514,73 +442,55 @@ export const october12ResearchPosts: ResearchPost[] = [
       {
         "heading": "Research question",
         "paragraphs": [
-          "Reproducibility of Project Status Evidence Lineage asks how to measure whether milestone statuses can be reproduced from dated source updates, acceptance events, dependencies, blockers, and version rules. The result supports a bounded operations review and does not decide policy, legal obligations, financial treatment, personnel action, or an individual customer outcome.",
-          "Reproducibility of Project Status Evidence Lineage documents the research question choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Reproducibility of Project Status Evidence Lineage separates observations about one milestone status on one frozen project report from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Reproducibility of Project Status Evidence Lineage asks how to measure whether milestone statuses can be reproduced from dated source updates, acceptance events, dependencies, blockers, and version rules. The result supports a bounded operations review and does not decide policy, legal obligations, financial treatment, personnel action, or an individual customer outcome."
         ]
       },
       {
         "heading": "Population and observation unit",
         "paragraphs": [
-          "Reproducibility of Project Status Evidence Lineage defines the unit as one milestone status on one frozen project report. Freeze the population, window, inclusion rule, exclusion rule, and duplicate treatment before reviewers see outcomes.",
-          "Reproducibility of Project Status Evidence Lineage documents the population and observation unit choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Reproducibility of Project Status Evidence Lineage separates observations about one milestone status on one frozen project report from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Reproducibility of Project Status Evidence Lineage defines the unit as one milestone status on one frozen project report. Freeze the population, window, inclusion rule, exclusion rule, and duplicate treatment before reviewers see outcomes."
         ]
       },
       {
         "heading": "Data dictionary and evidence lineage",
         "paragraphs": [
-          "Reproducibility of Project Status Evidence Lineage uses a versioned dictionary. Capture project key, milestone, report version, status, source event, evidence date, owner, receiver acceptance, blocker, reproduced result, and variance. Every code links to its source, observation time, reviewer, transformation, and adjudication history.",
-          "Reproducibility of Project Status Evidence Lineage documents the data dictionary and evidence lineage choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Reproducibility of Project Status Evidence Lineage separates observations about one milestone status on one frozen project report from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Reproducibility of Project Status Evidence Lineage uses a versioned dictionary. Capture project key, milestone, report version, status, source event, evidence date, owner, receiver acceptance, blocker, reproduced result, and variance. Every code links to its source, observation time, reviewer, transformation, and adjudication history."
         ]
       },
       {
         "heading": "Measurement method",
         "paragraphs": [
-          "Reproducibility of Project Status Evidence Lineage compares project, status class, evidence type, dependency state, and reproduction outcome. the proportion of sampled milestone states independently reproduced under the documented rule. Report counts beside rates and preserve missing, conflicted, not-applicable, and unresolved states.",
-          "Reproducibility of Project Status Evidence Lineage documents the measurement method choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Reproducibility of Project Status Evidence Lineage separates observations about one milestone status on one frozen project report from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Reproducibility of Project Status Evidence Lineage compares project, status class, evidence type, dependency state, and reproduction outcome. the proportion of sampled milestone states independently reproduced under the documented rule. Report counts beside rates and preserve missing, conflicted, not-applicable, and unresolved states."
         ]
       },
       {
         "heading": "Reviewer reliability",
         "paragraphs": [
-          "Reproducibility of Project Status Evidence Lineage uses independent coding on an overlap sample. Retain initial codes before discussion, publish disagreement counts, document adjudication, and test reconstruction without private notes.",
-          "Reproducibility of Project Status Evidence Lineage documents the reviewer reliability choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Reproducibility of Project Status Evidence Lineage separates observations about one milestone status on one frozen project report from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Reproducibility of Project Status Evidence Lineage uses independent coding on an overlap sample. Retain initial codes before discussion, publish disagreement counts, document adjudication, and test reconstruction without private notes."
         ]
       },
       {
         "heading": "Privacy and security",
         "paragraphs": [
-          "Reproducibility of Project Status Evidence Lineage minimizes business and personal information. Use study keys, restrict raw evidence, separate analysis from production access, log exports, aggregate results, and define deletion dates.",
-          "Reproducibility of Project Status Evidence Lineage documents the privacy and security choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Reproducibility of Project Status Evidence Lineage separates observations about one milestone status on one frozen project report from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Reproducibility of Project Status Evidence Lineage minimizes business and personal information. Use study keys, restrict raw evidence, separate analysis from production access, log exports, aggregate results, and define deletion dates."
         ]
       },
       {
         "heading": "Sensitivity analysis",
         "paragraphs": [
-          "Reproducibility of Project Status Evidence Lineage tests plausible alternate rules. Repeat the primary measure under alternate missing-data, duplicate, exclusion, and tolerance rules; show how numerator and denominator change.",
-          "Reproducibility of Project Status Evidence Lineage documents the sensitivity analysis choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Reproducibility of Project Status Evidence Lineage separates observations about one milestone status on one frozen project report from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Reproducibility of Project Status Evidence Lineage tests plausible alternate rules. Repeat the primary measure under alternate missing-data, duplicate, exclusion, and tolerance rules; show how numerator and denominator change."
         ]
       },
       {
         "heading": "Limitations and responsible use",
         "paragraphs": [
-          "Reproducibility of Project Status Evidence Lineage states its central limitation. reproducibility does not establish project value, forecast accuracy, or causal responsibility. Selection bias, inaccessible records, system changes, reviewer learning, correlated work, and local design further restrict interpretation.",
-          "Reproducibility of Project Status Evidence Lineage documents the limitations and responsible use choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Reproducibility of Project Status Evidence Lineage separates observations about one milestone status on one frozen project report from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Reproducibility of Project Status Evidence Lineage states its central limitation. reproducibility does not establish project value, forecast accuracy, or causal responsibility. Selection bias, inaccessible records, system changes, reviewer learning, correlated work, and local design further restrict interpretation."
         ]
       },
       {
         "heading": "Reporting and action",
         "paragraphs": [
-          "Reproducibility of Project Status Evidence Lineage publishes a reproducible package. Report population, sample, dictionary, evidence coverage, exclusions, missingness, primary result, groups, agreement, adjudications, sensitivity checks, counterexamples, and limits.",
-          "Reproducibility of Project Status Evidence Lineage documents the reporting and action choice before analysis. Reviewers retain rejected evidence, changed definitions, counterexamples, and unresolved units so another team can reproduce the result and its limits.",
-          "Reproducibility of Project Status Evidence Lineage separates observations about one milestone status on one frozen project report from recommendations. Any proposed change names the accountable owner, operational risk, required evidence, review date, and condition that would reverse the decision."
+          "Reproducibility of Project Status Evidence Lineage publishes a reproducible package. Report population, sample, dictionary, evidence coverage, exclusions, missingness, primary result, groups, agreement, adjudications, sensitivity checks, counterexamples, and limits."
         ]
       }
     ],
