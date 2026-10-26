@@ -3,12 +3,15 @@ import type { BlogPost, ResearchPost } from './types';
 import { october12BlogPosts } from './october12BlogPosts';
 import { october12ResearchPosts } from './october12ResearchPosts';
 import { legacyBlogSections, legacyResearchSections } from './legacyEditorialContent';
+import { october26BlogPosts } from './october26-blog';
 import { october25BlogPosts } from './october25-blog';
 import { october22BlogPosts } from './october22-blog';
+import { october26ResearchPosts } from './october26-research';
 import { october25ResearchPosts } from './october25-research';
 import { october22ResearchPosts } from './october22-research';
 
 export const blogPosts: BlogPost[] = [
+  ...october26BlogPosts,
   ...october25BlogPosts,
   ...october22BlogPosts,
   {
@@ -173,6 +176,7 @@ export const blogPosts: BlogPost[] = [
   }
 ];
 export const researchPosts: ResearchPost[] = [
+  ...october26ResearchPosts,
   ...october25ResearchPosts,
   ...october22ResearchPosts,
   {
