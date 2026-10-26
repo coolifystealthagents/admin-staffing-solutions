@@ -72,7 +72,23 @@ export const october26BlogPosts: BlogPost[] = [
           "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-build-a-first-week-shadow-plan-for-admin-role-intake."
         ]
       }
-    ]
+    ],
+    "faq": [
+      {
+        "q": "Who owns the decision?",
+        "answer": "The named operations lead keeps the decision and exceptions."
+      },
+      {
+        "q": "What evidence is kept?",
+        "answer": "Keep the source, observation time, reviewer, correction, and next action."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog",
+    "source": {
+      "label": "NIST Cybersecurity Framework",
+      "url": "https://www.nist.gov/cyberframework"
+    }
   },
   {
     "slug": "adminstaffingsolutions-build-a-two-person-verification-step-for-inbox-delegation",
@@ -147,7 +163,23 @@ export const october26BlogPosts: BlogPost[] = [
           "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-build-a-two-person-verification-step-for-inbox-delegation. Step 2."
         ]
       }
-    ]
+    ],
+    "faq": [
+      {
+        "q": "Who owns the decision?",
+        "answer": "The named operations lead keeps the decision and exceptions."
+      },
+      {
+        "q": "What evidence is kept?",
+        "answer": "Keep the source, observation time, reviewer, correction, and next action."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog",
+    "source": {
+      "label": "NIST Cybersecurity Framework",
+      "url": "https://www.nist.gov/cyberframework"
+    }
   },
   {
     "slug": "adminstaffingsolutions-create-a-recovery-checklist-for-document-formatting",
@@ -222,7 +254,23 @@ export const october26BlogPosts: BlogPost[] = [
           "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-create-a-recovery-checklist-for-document-formatting. Step 2."
         ]
       }
-    ]
+    ],
+    "faq": [
+      {
+        "q": "Who owns the decision?",
+        "answer": "The named operations lead keeps the decision and exceptions."
+      },
+      {
+        "q": "What evidence is kept?",
+        "answer": "Keep the source, observation time, reviewer, correction, and next action."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog",
+    "source": {
+      "label": "NIST Cybersecurity Framework",
+      "url": "https://www.nist.gov/cyberframework"
+    }
   },
   {
     "slug": "adminstaffingsolutions-define-a-stop-work-trigger-for-timesheet-approval",
@@ -296,7 +344,23 @@ export const october26BlogPosts: BlogPost[] = [
           "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-define-a-stop-work-trigger-for-timesheet-approval. Step 2."
         ]
       }
-    ]
+    ],
+    "faq": [
+      {
+        "q": "Who owns the decision?",
+        "answer": "The named operations lead keeps the decision and exceptions."
+      },
+      {
+        "q": "What evidence is kept?",
+        "answer": "Keep the source, observation time, reviewer, correction, and next action."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog",
+    "source": {
+      "label": "NIST Cybersecurity Framework",
+      "url": "https://www.nist.gov/cyberframework"
+    }
   },
   {
     "slug": "adminstaffingsolutions-define-the-minimum-evidence-for-inbox-delegation",
@@ -369,7 +433,23 @@ export const october26BlogPosts: BlogPost[] = [
           "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-define-the-minimum-evidence-for-inbox-delegation. Step 2."
         ]
       }
-    ]
+    ],
+    "faq": [
+      {
+        "q": "Who owns the decision?",
+        "answer": "The named operations lead keeps the decision and exceptions."
+      },
+      {
+        "q": "What evidence is kept?",
+        "answer": "Keep the source, observation time, reviewer, correction, and next action."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog",
+    "source": {
+      "label": "NIST Cybersecurity Framework",
+      "url": "https://www.nist.gov/cyberframework"
+    }
   },
   {
     "slug": "adminstaffingsolutions-design-a-daily-control-board-for-admin-role-intake",
@@ -442,7 +522,23 @@ export const october26BlogPosts: BlogPost[] = [
           "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-design-a-daily-control-board-for-admin-role-intake. Step 2."
         ]
       }
-    ]
+    ],
+    "faq": [
+      {
+        "q": "Who owns the decision?",
+        "answer": "The named operations lead keeps the decision and exceptions."
+      },
+      {
+        "q": "What evidence is kept?",
+        "answer": "Keep the source, observation time, reviewer, correction, and next action."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog",
+    "source": {
+      "label": "NIST Cybersecurity Framework",
+      "url": "https://www.nist.gov/cyberframework"
+    }
   },
   {
     "slug": "adminstaffingsolutions-keep-a-correction-log-for-calendar-coverage",
@@ -516,7 +612,23 @@ export const october26BlogPosts: BlogPost[] = [
           "Record the calendar coverage source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-keep-a-correction-log-for-calendar-coverage."
         ]
       }
-    ]
+    ],
+    "faq": [
+      {
+        "q": "Who owns the decision?",
+        "answer": "The named operations lead keeps the decision and exceptions."
+      },
+      {
+        "q": "What evidence is kept?",
+        "answer": "Keep the source, observation time, reviewer, correction, and next action."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog",
+    "source": {
+      "label": "NIST Cybersecurity Framework",
+      "url": "https://www.nist.gov/cyberframework"
+    }
   },
   {
     "slug": "adminstaffingsolutions-run-a-monthly-control-review-for-document-formatting",
@@ -590,7 +702,23 @@ export const october26BlogPosts: BlogPost[] = [
           "Keep the document formatting queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-run-a-monthly-control-review-for-document-formatting. Step 2."
         ]
       }
-    ]
+    ],
+    "faq": [
+      {
+        "q": "Who owns the decision?",
+        "answer": "The named operations lead keeps the decision and exceptions."
+      },
+      {
+        "q": "What evidence is kept?",
+        "answer": "Keep the source, observation time, reviewer, correction, and next action."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog",
+    "source": {
+      "label": "NIST Cybersecurity Framework",
+      "url": "https://www.nist.gov/cyberframework"
+    }
   },
   {
     "slug": "adminstaffingsolutions-run-a-surprise-sample-of-meeting-minutes",
@@ -665,7 +793,23 @@ export const october26BlogPosts: BlogPost[] = [
           "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-run-a-surprise-sample-of-meeting-minutes. Step 2."
         ]
       }
-    ]
+    ],
+    "faq": [
+      {
+        "q": "Who owns the decision?",
+        "answer": "The named operations lead keeps the decision and exceptions."
+      },
+      {
+        "q": "What evidence is kept?",
+        "answer": "Keep the source, observation time, reviewer, correction, and next action."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog",
+    "source": {
+      "label": "NIST Cybersecurity Framework",
+      "url": "https://www.nist.gov/cyberframework"
+    }
   },
   {
     "slug": "adminstaffingsolutions-set-a-stale-record-rule-for-vendor-contact-list",
@@ -739,7 +883,23 @@ export const october26BlogPosts: BlogPost[] = [
           "Review one vendor contact list case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-set-a-stale-record-rule-for-vendor-contact-list."
         ]
       }
-    ]
+    ],
+    "faq": [
+      {
+        "q": "Who owns the decision?",
+        "answer": "The named operations lead keeps the decision and exceptions."
+      },
+      {
+        "q": "What evidence is kept?",
+        "answer": "Keep the source, observation time, reviewer, correction, and next action."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog",
+    "source": {
+      "label": "NIST Cybersecurity Framework",
+      "url": "https://www.nist.gov/cyberframework"
+    }
   },
   {
     "slug": "adminstaffingsolutions-write-a-customer-safe-status-note-for-supply-order",
@@ -814,7 +974,23 @@ export const october26BlogPosts: BlogPost[] = [
           "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-write-a-customer-safe-status-note-for-supply-order. Step 2."
         ]
       }
-    ]
+    ],
+    "faq": [
+      {
+        "q": "Who owns the decision?",
+        "answer": "The named operations lead keeps the decision and exceptions."
+      },
+      {
+        "q": "What evidence is kept?",
+        "answer": "Keep the source, observation time, reviewer, correction, and next action."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog",
+    "source": {
+      "label": "NIST Cybersecurity Framework",
+      "url": "https://www.nist.gov/cyberframework"
+    }
   },
   {
     "slug": "adminstaffingsolutions-write-a-decision-rights-note-for-calendar-coverage",
@@ -888,6 +1064,22 @@ export const october26BlogPosts: BlogPost[] = [
           "Keep the calendar coverage queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-write-a-decision-rights-note-for-calendar-coverage. Step 2."
         ]
       }
-    ]
+    ],
+    "faq": [
+      {
+        "q": "Who owns the decision?",
+        "answer": "The named operations lead keeps the decision and exceptions."
+      },
+      {
+        "q": "What evidence is kept?",
+        "answer": "Keep the source, observation time, reviewer, correction, and next action."
+      }
+    ],
+    "internalService": "/services",
+    "internalSibling": "/blog",
+    "source": {
+      "label": "NIST Cybersecurity Framework",
+      "url": "https://www.nist.gov/cyberframework"
+    }
   }
 ];
