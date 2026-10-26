@@ -16,10 +16,10 @@ export const october26ResearchPosts: ResearchPost[] = [
           "This protocol asks how meeting minutes can be described from the operational record in administrative staffing. It measures the record, not the person or the legal outcome.",
           "State the population, the observation window, and the exclusions before collecting data.",
           "The result should be repeatable by another reviewer using the same definitions.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is.",
-          "Close the loop with the requester. Internal completeness without confirmation is only half closed.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine."
+          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes.",
+          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes.",
+          "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes.",
+          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes."
         ]
       },
       {
@@ -28,10 +28,10 @@ export const october26ResearchPosts: ResearchPost[] = [
           "The unit is one meeting minutes case, from the opening event through the recorded close.",
           "Record the opening count, additions, withdrawals, resolutions, and unresolved items. A count without a denominator is not a measure.",
           "Do not merge linked events into one case unless the process defines them as one requirement.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person.",
-          "Keep the meeting minutes queue separate from the general inbox. A queue without an owner hides the oldest item.",
-          "Record the meeting minutes source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed."
+          "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes.",
+          "Keep the meeting minutes queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes.",
+          "Record the meeting minutes source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes.",
+          "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes."
         ]
       },
       {
@@ -40,10 +40,10 @@ export const october26ResearchPosts: ResearchPost[] = [
           "Write the start event, the stop event, the pause rule, and the treatment of missing evidence.",
           "Define the primary measure and one supporting measure. Use the same definitions for every case.",
           "If a definition changes, keep the earlier classification and apply the new rule only to later cases.",
-          "Review one meeting minutes case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is.",
-          "Close the loop with the requester. Internal completeness without confirmation is only half closed."
+          "Review one meeting minutes case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes.",
+          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
+          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
+          "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2."
         ]
       },
       {
@@ -52,10 +52,10 @@ export const october26ResearchPosts: ResearchPost[] = [
           "Each case needs the source, the time observed, the field supported, and the reviewer. Mark missing, unavailable, and confirmed negative values separately.",
           "Use a pseudonymous key and keep the identity crosswalk in an approved system.",
           "Record the source version so a later reviewer can tell what was known at the first action.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person.",
-          "Keep the meeting minutes queue separate from the general inbox. A queue without an owner hides the oldest item.",
-          "Record the meeting minutes source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken."
+          "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes.",
+          "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
+          "Keep the meeting minutes queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
+          "Record the meeting minutes source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2."
         ]
       },
       {
@@ -64,10 +64,10 @@ export const october26ResearchPosts: ResearchPost[] = [
           "Use consecutive cases where possible and stratify by channel, owner, or risk class.",
           "Include adverse cases: missing source, conflicting instruction, unavailable owner, and a tight deadline.",
           "Record the eligible count, sample size, and every exclusion so the sample can be reproduced.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine.",
-          "Review one meeting minutes case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is."
+          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
+          "Review one meeting minutes case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
+          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3.",
+          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3."
         ]
       },
       {
@@ -76,10 +76,10 @@ export const october26ResearchPosts: ResearchPost[] = [
           "Report the missing-field rate, the exception rate, the unresolved count, and the age of open cases.",
           "Separate observation from interpretation. A small easy sample is not evidence of a strong control.",
           "Keep case-level detail available for review. A summary chart without records cannot support a decision.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person.",
-          "Keep the meeting minutes queue separate from the general inbox. A queue without an owner hides the oldest item."
+          "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
+          "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
+          "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3.",
+          "Keep the meeting minutes queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3."
         ]
       },
       {
@@ -88,9 +88,9 @@ export const october26ResearchPosts: ResearchPost[] = [
           "The record may be incomplete or delayed. The method cannot infer missing work from a clean summary.",
           "Small samples are sensitive to one case; report the instability instead of a precise-looking percentage.",
           "Public sources frame recordkeeping and control practice but do not provide a result for this sample.",
-          "Close the loop with the requester. Internal completeness without confirmation is only half closed.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine.",
-          "Review one meeting minutes case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation."
+          "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3.",
+          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3.",
+          "Review one meeting minutes case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3."
         ]
       },
       {
@@ -99,9 +99,9 @@ export const october26ResearchPosts: ResearchPost[] = [
           "Name the owner who will read the result and set a review date.",
           "Choose one action: fix the source, simplify the field, change the queue, or pause the work until the owner decides.",
           "Repeat the protocol after the change and report what moved and what remains unknown.",
-          "Record the meeting minutes source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases."
+          "Record the meeting minutes source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3.",
+          "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3.",
+          "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3."
         ]
       }
     ],
@@ -137,94 +137,94 @@ export const october26ResearchPosts: ResearchPost[] = [
         "heading": "Question and scope",
         "paragraphs": [
           "This protocol asks how vendor contact list can be described from the operational record in administrative staffing. It measures the record, not the person or the legal outcome.",
-          "State the population, the observation window, and the exclusions before collecting data.",
-          "The result should be repeatable by another reviewer using the same definitions.",
-          "Keep the vendor contact list queue separate from the general inbox. A queue without an owner hides the oldest item.",
-          "Record the vendor contact list source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases."
+          "State the population, the observation window, and the exclusions before collecting data. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "The result should be repeatable by another reviewer using the same definitions. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Keep the vendor contact list queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Record the vendor contact list source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list."
         ]
       },
       {
         "heading": "Unit and denominator",
         "paragraphs": [
           "The unit is one vendor contact list case, from the opening event through the recorded close.",
-          "Record the opening count, additions, withdrawals, resolutions, and unresolved items. A count without a denominator is not a measure.",
-          "Do not merge linked events into one case unless the process defines them as one requirement.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is.",
-          "Close the loop with the requester. Internal completeness without confirmation is only half closed.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine."
+          "Record the opening count, additions, withdrawals, resolutions, and unresolved items. A count without a denominator is not a measure. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Do not merge linked events into one case unless the process defines them as one requirement. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list."
         ]
       },
       {
         "heading": "Definitions",
         "paragraphs": [
-          "Write the start event, the stop event, the pause rule, and the treatment of missing evidence.",
-          "Define the primary measure and one supporting measure. Use the same definitions for every case.",
-          "If a definition changes, keep the earlier classification and apply the new rule only to later cases.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person.",
-          "Keep the vendor contact list queue separate from the general inbox. A queue without an owner hides the oldest item.",
-          "Record the vendor contact list source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed."
+          "Write the start event, the stop event, the pause rule, and the treatment of missing evidence. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Define the primary measure and one supporting measure. Use the same definitions for every case. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "If a definition changes, keep the earlier classification and apply the new rule only to later cases. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Keep the vendor contact list queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2.",
+          "Record the vendor contact list source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2.",
+          "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2."
         ]
       },
       {
         "heading": "Evidence and data dictionary",
         "paragraphs": [
-          "Each case needs the source, the time observed, the field supported, and the reviewer. Mark missing, unavailable, and confirmed negative values separately.",
-          "Use a pseudonymous key and keep the identity crosswalk in an approved system.",
-          "Record the source version so a later reviewer can tell what was known at the first action.",
-          "Review one vendor contact list case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is.",
-          "Close the loop with the requester. Internal completeness without confirmation is only half closed."
+          "Each case needs the source, the time observed, the field supported, and the reviewer. Mark missing, unavailable, and confirmed negative values separately. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Use a pseudonymous key and keep the identity crosswalk in an approved system. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Record the source version so a later reviewer can tell what was known at the first action. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Review one vendor contact list case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2.",
+          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2.",
+          "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2."
         ]
       },
       {
         "heading": "Sampling",
         "paragraphs": [
-          "Use consecutive cases where possible and stratify by channel, owner, or risk class.",
-          "Include adverse cases: missing source, conflicting instruction, unavailable owner, and a tight deadline.",
-          "Record the eligible count, sample size, and every exclusion so the sample can be reproduced.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person.",
-          "Keep the vendor contact list queue separate from the general inbox. A queue without an owner hides the oldest item.",
-          "Record the vendor contact list source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken."
+          "Use consecutive cases where possible and stratify by channel, owner, or risk class. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Include adverse cases: missing source, conflicting instruction, unavailable owner, and a tight deadline. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Record the eligible count, sample size, and every exclusion so the sample can be reproduced. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2.",
+          "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2.",
+          "Keep the vendor contact list queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2. Step 3.",
+          "Record the vendor contact list source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2. Step 3."
         ]
       },
       {
         "heading": "Analysis",
         "paragraphs": [
-          "Report the missing-field rate, the exception rate, the unresolved count, and the age of open cases.",
-          "Separate observation from interpretation. A small easy sample is not evidence of a strong control.",
-          "Keep case-level detail available for review. A summary chart without records cannot support a decision.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine.",
-          "Review one vendor contact list case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is."
+          "Report the missing-field rate, the exception rate, the unresolved count, and the age of open cases. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Separate observation from interpretation. A small easy sample is not evidence of a strong control. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Keep case-level detail available for review. A summary chart without records cannot support a decision. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2.",
+          "Review one vendor contact list case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2.",
+          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2. Step 3.",
+          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2. Step 3."
         ]
       },
       {
         "heading": "Limitations",
         "paragraphs": [
-          "The record may be incomplete or delayed. The method cannot infer missing work from a clean summary.",
-          "Small samples are sensitive to one case; report the instability instead of a precise-looking percentage.",
-          "Public sources frame recordkeeping and control practice but do not provide a result for this sample.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person."
+          "The record may be incomplete or delayed. The method cannot infer missing work from a clean summary. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Small samples are sensitive to one case; report the instability instead of a precise-looking percentage. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Public sources frame recordkeeping and control practice but do not provide a result for this sample. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2. Step 3.",
+          "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2. Step 3.",
+          "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2. Step 3."
         ]
       },
       {
         "heading": "Review and next action",
         "paragraphs": [
-          "Name the owner who will read the result and set a review date.",
-          "Choose one action: fix the source, simplify the field, change the queue, or pause the work until the owner decides.",
-          "Repeat the protocol after the change and report what moved and what remains unknown.",
-          "Close the loop with the requester. Internal completeness without confirmation is only half closed.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine.",
-          "Review one vendor contact list case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation."
+          "Name the owner who will read the result and set a review date. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Choose one action: fix the source, simplify the field, change the queue, or pause the work until the owner decides. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Repeat the protocol after the change and report what moved and what remains unknown. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list.",
+          "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2. Step 3.",
+          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2. Step 3.",
+          "Review one vendor contact list case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-estimating-rework-cost-in-vendor-contact-list. Step 2. Step 3."
         ]
       }
     ],
@@ -260,93 +260,93 @@ export const october26ResearchPosts: ResearchPost[] = [
         "heading": "Question and scope",
         "paragraphs": [
           "This protocol asks how inbox delegation can be described from the operational record in administrative staffing. It measures the record, not the person or the legal outcome.",
-          "State the population, the observation window, and the exclusions before collecting data.",
-          "The result should be repeatable by another reviewer using the same definitions.",
-          "Record the inbox delegation source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person."
+          "State the population, the observation window, and the exclusions before collecting data. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "The result should be repeatable by another reviewer using the same definitions. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Record the inbox delegation source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation."
         ]
       },
       {
         "heading": "Unit and denominator",
         "paragraphs": [
           "The unit is one inbox delegation case, from the opening event through the recorded close.",
-          "Record the opening count, additions, withdrawals, resolutions, and unresolved items. A count without a denominator is not a measure.",
-          "Do not merge linked events into one case unless the process defines them as one requirement.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is.",
-          "Close the loop with the requester. Internal completeness without confirmation is only half closed.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine.",
-          "Review one inbox delegation case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation."
+          "Record the opening count, additions, withdrawals, resolutions, and unresolved items. A count without a denominator is not a measure. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Do not merge linked events into one case unless the process defines them as one requirement. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Review one inbox delegation case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation."
         ]
       },
       {
         "heading": "Definitions",
         "paragraphs": [
-          "Write the start event, the stop event, the pause rule, and the treatment of missing evidence.",
-          "Define the primary measure and one supporting measure. Use the same definitions for every case.",
-          "If a definition changes, keep the earlier classification and apply the new rule only to later cases.",
-          "Keep the inbox delegation queue separate from the general inbox. A queue without an owner hides the oldest item.",
-          "Record the inbox delegation source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases."
+          "Write the start event, the stop event, the pause rule, and the treatment of missing evidence. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Define the primary measure and one supporting measure. Use the same definitions for every case. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "If a definition changes, keep the earlier classification and apply the new rule only to later cases. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Keep the inbox delegation queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Record the inbox delegation source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2.",
+          "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2.",
+          "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2."
         ]
       },
       {
         "heading": "Evidence and data dictionary",
         "paragraphs": [
-          "Each case needs the source, the time observed, the field supported, and the reviewer. Mark missing, unavailable, and confirmed negative values separately.",
-          "Use a pseudonymous key and keep the identity crosswalk in an approved system.",
-          "Record the source version so a later reviewer can tell what was known at the first action.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is.",
-          "Close the loop with the requester. Internal completeness without confirmation is only half closed.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine."
+          "Each case needs the source, the time observed, the field supported, and the reviewer. Mark missing, unavailable, and confirmed negative values separately. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Use a pseudonymous key and keep the identity crosswalk in an approved system. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Record the source version so a later reviewer can tell what was known at the first action. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2.",
+          "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2.",
+          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2."
         ]
       },
       {
         "heading": "Sampling",
         "paragraphs": [
-          "Use consecutive cases where possible and stratify by channel, owner, or risk class.",
-          "Include adverse cases: missing source, conflicting instruction, unavailable owner, and a tight deadline.",
-          "Record the eligible count, sample size, and every exclusion so the sample can be reproduced.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person.",
-          "Keep the inbox delegation queue separate from the general inbox. A queue without an owner hides the oldest item.",
-          "Record the inbox delegation source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed."
+          "Use consecutive cases where possible and stratify by channel, owner, or risk class. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Include adverse cases: missing source, conflicting instruction, unavailable owner, and a tight deadline. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Record the eligible count, sample size, and every exclusion so the sample can be reproduced. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2.",
+          "Keep the inbox delegation queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2.",
+          "Record the inbox delegation source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2. Step 3.",
+          "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2. Step 3."
         ]
       },
       {
         "heading": "Analysis",
         "paragraphs": [
-          "Report the missing-field rate, the exception rate, the unresolved count, and the age of open cases.",
-          "Separate observation from interpretation. A small easy sample is not evidence of a strong control.",
-          "Keep case-level detail available for review. A summary chart without records cannot support a decision.",
-          "Review one inbox delegation case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is."
+          "Report the missing-field rate, the exception rate, the unresolved count, and the age of open cases. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Separate observation from interpretation. A small easy sample is not evidence of a strong control. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Keep case-level detail available for review. A summary chart without records cannot support a decision. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Review one inbox delegation case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2.",
+          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2.",
+          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2. Step 3."
         ]
       },
       {
         "heading": "Limitations",
         "paragraphs": [
-          "The record may be incomplete or delayed. The method cannot infer missing work from a clean summary.",
-          "Small samples are sensitive to one case; report the instability instead of a precise-looking percentage.",
-          "Public sources frame recordkeeping and control practice but do not provide a result for this sample.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person.",
-          "Keep the inbox delegation queue separate from the general inbox. A queue without an owner hides the oldest item."
+          "The record may be incomplete or delayed. The method cannot infer missing work from a clean summary. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Small samples are sensitive to one case; report the instability instead of a precise-looking percentage. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Public sources frame recordkeeping and control practice but do not provide a result for this sample. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2. Step 3.",
+          "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2. Step 3.",
+          "Keep the inbox delegation queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2. Step 3."
         ]
       },
       {
         "heading": "Review and next action",
         "paragraphs": [
-          "Name the owner who will read the result and set a review date.",
-          "Choose one action: fix the source, simplify the field, change the queue, or pause the work until the owner decides.",
-          "Repeat the protocol after the change and report what moved and what remains unknown.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine.",
-          "Review one inbox delegation case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different."
+          "Name the owner who will read the result and set a review date. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Choose one action: fix the source, simplify the field, change the queue, or pause the work until the owner decides. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Repeat the protocol after the change and report what moved and what remains unknown. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation.",
+          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2. Step 3.",
+          "Review one inbox delegation case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2. Step 3.",
+          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-measuring-backlog-age-in-inbox-delegation. Step 2. Step 3."
         ]
       }
     ],
@@ -382,94 +382,94 @@ export const october26ResearchPosts: ResearchPost[] = [
         "heading": "Question and scope",
         "paragraphs": [
           "This protocol asks how document formatting can be described from the operational record in administrative staffing. It measures the record, not the person or the legal outcome.",
-          "State the population, the observation window, and the exclusions before collecting data.",
-          "The result should be repeatable by another reviewer using the same definitions.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is.",
-          "Close the loop with the requester. Internal completeness without confirmation is only half closed.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine.",
-          "Review one document formatting case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation."
+          "State the population, the observation window, and the exclusions before collecting data. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "The result should be repeatable by another reviewer using the same definitions. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Review one document formatting case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting."
         ]
       },
       {
         "heading": "Unit and denominator",
         "paragraphs": [
           "The unit is one document formatting case, from the opening event through the recorded close.",
-          "Record the opening count, additions, withdrawals, resolutions, and unresolved items. A count without a denominator is not a measure.",
-          "Do not merge linked events into one case unless the process defines them as one requirement.",
-          "Keep the document formatting queue separate from the general inbox. A queue without an owner hides the oldest item.",
-          "Record the document formatting source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases."
+          "Record the opening count, additions, withdrawals, resolutions, and unresolved items. A count without a denominator is not a measure. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Do not merge linked events into one case unless the process defines them as one requirement. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Keep the document formatting queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Record the document formatting source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting."
         ]
       },
       {
         "heading": "Definitions",
         "paragraphs": [
-          "Write the start event, the stop event, the pause rule, and the treatment of missing evidence.",
-          "Define the primary measure and one supporting measure. Use the same definitions for every case.",
-          "If a definition changes, keep the earlier classification and apply the new rule only to later cases.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is.",
-          "Close the loop with the requester. Internal completeness without confirmation is only half closed.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine."
+          "Write the start event, the stop event, the pause rule, and the treatment of missing evidence. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Define the primary measure and one supporting measure. Use the same definitions for every case. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "If a definition changes, keep the earlier classification and apply the new rule only to later cases. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2.",
+          "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2.",
+          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2."
         ]
       },
       {
         "heading": "Evidence and data dictionary",
         "paragraphs": [
-          "Each case needs the source, the time observed, the field supported, and the reviewer. Mark missing, unavailable, and confirmed negative values separately.",
-          "Use a pseudonymous key and keep the identity crosswalk in an approved system.",
-          "Record the source version so a later reviewer can tell what was known at the first action.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person.",
-          "Keep the document formatting queue separate from the general inbox. A queue without an owner hides the oldest item.",
-          "Record the document formatting source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed."
+          "Each case needs the source, the time observed, the field supported, and the reviewer. Mark missing, unavailable, and confirmed negative values separately. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Use a pseudonymous key and keep the identity crosswalk in an approved system. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Record the source version so a later reviewer can tell what was known at the first action. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Keep the document formatting queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2.",
+          "Record the document formatting source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2.",
+          "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2."
         ]
       },
       {
         "heading": "Sampling",
         "paragraphs": [
-          "Use consecutive cases where possible and stratify by channel, owner, or risk class.",
-          "Include adverse cases: missing source, conflicting instruction, unavailable owner, and a tight deadline.",
-          "Record the eligible count, sample size, and every exclusion so the sample can be reproduced.",
-          "Review one document formatting case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is.",
-          "Close the loop with the requester. Internal completeness without confirmation is only half closed."
+          "Use consecutive cases where possible and stratify by channel, owner, or risk class. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Include adverse cases: missing source, conflicting instruction, unavailable owner, and a tight deadline. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Record the eligible count, sample size, and every exclusion so the sample can be reproduced. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Review one document formatting case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2.",
+          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2.",
+          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2. Step 3.",
+          "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2. Step 3."
         ]
       },
       {
         "heading": "Analysis",
         "paragraphs": [
-          "Report the missing-field rate, the exception rate, the unresolved count, and the age of open cases.",
-          "Separate observation from interpretation. A small easy sample is not evidence of a strong control.",
-          "Keep case-level detail available for review. A summary chart without records cannot support a decision.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person.",
-          "Keep the document formatting queue separate from the general inbox. A queue without an owner hides the oldest item.",
-          "Record the document formatting source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken."
+          "Report the missing-field rate, the exception rate, the unresolved count, and the age of open cases. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Separate observation from interpretation. A small easy sample is not evidence of a strong control. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Keep case-level detail available for review. A summary chart without records cannot support a decision. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2.",
+          "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2.",
+          "Keep the document formatting queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2. Step 3.",
+          "Record the document formatting source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2. Step 3."
         ]
       },
       {
         "heading": "Limitations",
         "paragraphs": [
-          "The record may be incomplete or delayed. The method cannot infer missing work from a clean summary.",
-          "Small samples are sensitive to one case; report the instability instead of a precise-looking percentage.",
-          "Public sources frame recordkeeping and control practice but do not provide a result for this sample.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine.",
-          "Review one document formatting case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different."
+          "The record may be incomplete or delayed. The method cannot infer missing work from a clean summary. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Small samples are sensitive to one case; report the instability instead of a precise-looking percentage. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Public sources frame recordkeeping and control practice but do not provide a result for this sample. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2. Step 3.",
+          "Review one document formatting case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2. Step 3.",
+          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2. Step 3."
         ]
       },
       {
         "heading": "Review and next action",
         "paragraphs": [
-          "Name the owner who will read the result and set a review date.",
-          "Choose one action: fix the source, simplify the field, change the queue, or pause the work until the owner decides.",
-          "Repeat the protocol after the change and report what moved and what remains unknown.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person."
+          "Name the owner who will read the result and set a review date. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Choose one action: fix the source, simplify the field, change the queue, or pause the work until the owner decides. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Repeat the protocol after the change and report what moved and what remains unknown. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting.",
+          "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2. Step 3.",
+          "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2. Step 3.",
+          "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-testing-handoff-completeness-in-document-formatting. Step 2. Step 3."
         ]
       }
     ],
@@ -505,94 +505,94 @@ export const october26ResearchPosts: ResearchPost[] = [
         "heading": "Question and scope",
         "paragraphs": [
           "This protocol asks how supply order can be described from the operational record in administrative staffing. It measures the record, not the person or the legal outcome.",
-          "State the population, the observation window, and the exclusions before collecting data.",
-          "The result should be repeatable by another reviewer using the same definitions.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person.",
-          "Keep the supply order queue separate from the general inbox. A queue without an owner hides the oldest item.",
-          "Record the supply order source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed."
+          "State the population, the observation window, and the exclusions before collecting data. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "The result should be repeatable by another reviewer using the same definitions. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Keep the supply order queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Record the supply order source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order."
         ]
       },
       {
         "heading": "Unit and denominator",
         "paragraphs": [
           "The unit is one supply order case, from the opening event through the recorded close.",
-          "Record the opening count, additions, withdrawals, resolutions, and unresolved items. A count without a denominator is not a measure.",
-          "Do not merge linked events into one case unless the process defines them as one requirement.",
-          "Review one supply order case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is.",
-          "Close the loop with the requester. Internal completeness without confirmation is only half closed."
+          "Record the opening count, additions, withdrawals, resolutions, and unresolved items. A count without a denominator is not a measure. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Do not merge linked events into one case unless the process defines them as one requirement. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Review one supply order case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order."
         ]
       },
       {
         "heading": "Definitions",
         "paragraphs": [
-          "Write the start event, the stop event, the pause rule, and the treatment of missing evidence.",
-          "Define the primary measure and one supporting measure. Use the same definitions for every case.",
-          "If a definition changes, keep the earlier classification and apply the new rule only to later cases.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person.",
-          "Keep the supply order queue separate from the general inbox. A queue without an owner hides the oldest item.",
-          "Record the supply order source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken."
+          "Write the start event, the stop event, the pause rule, and the treatment of missing evidence. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Define the primary measure and one supporting measure. Use the same definitions for every case. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "If a definition changes, keep the earlier classification and apply the new rule only to later cases. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2.",
+          "Keep the supply order queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2.",
+          "Record the supply order source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2."
         ]
       },
       {
         "heading": "Evidence and data dictionary",
         "paragraphs": [
-          "Each case needs the source, the time observed, the field supported, and the reviewer. Mark missing, unavailable, and confirmed negative values separately.",
-          "Use a pseudonymous key and keep the identity crosswalk in an approved system.",
-          "Record the source version so a later reviewer can tell what was known at the first action.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine.",
-          "Review one supply order case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is."
+          "Each case needs the source, the time observed, the field supported, and the reviewer. Mark missing, unavailable, and confirmed negative values separately. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Use a pseudonymous key and keep the identity crosswalk in an approved system. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Record the source version so a later reviewer can tell what was known at the first action. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Review one supply order case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2.",
+          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2.",
+          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2."
         ]
       },
       {
         "heading": "Sampling",
         "paragraphs": [
-          "Use consecutive cases where possible and stratify by channel, owner, or risk class.",
-          "Include adverse cases: missing source, conflicting instruction, unavailable owner, and a tight deadline.",
-          "Record the eligible count, sample size, and every exclusion so the sample can be reproduced.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person.",
-          "Keep the supply order queue separate from the general inbox. A queue without an owner hides the oldest item."
+          "Use consecutive cases where possible and stratify by channel, owner, or risk class. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Include adverse cases: missing source, conflicting instruction, unavailable owner, and a tight deadline. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Record the eligible count, sample size, and every exclusion so the sample can be reproduced. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2.",
+          "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2.",
+          "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2. Step 3.",
+          "Keep the supply order queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2. Step 3."
         ]
       },
       {
         "heading": "Analysis",
         "paragraphs": [
-          "Report the missing-field rate, the exception rate, the unresolved count, and the age of open cases.",
-          "Separate observation from interpretation. A small easy sample is not evidence of a strong control.",
-          "Keep case-level detail available for review. A summary chart without records cannot support a decision.",
-          "Close the loop with the requester. Internal completeness without confirmation is only half closed.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine.",
-          "Review one supply order case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different."
+          "Report the missing-field rate, the exception rate, the unresolved count, and the age of open cases. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Separate observation from interpretation. A small easy sample is not evidence of a strong control. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Keep case-level detail available for review. A summary chart without records cannot support a decision. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2.",
+          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2.",
+          "Review one supply order case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2. Step 3.",
+          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2. Step 3."
         ]
       },
       {
         "heading": "Limitations",
         "paragraphs": [
-          "The record may be incomplete or delayed. The method cannot infer missing work from a clean summary.",
-          "Small samples are sensitive to one case; report the instability instead of a precise-looking percentage.",
-          "Public sources frame recordkeeping and control practice but do not provide a result for this sample.",
-          "Record the supply order source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases."
+          "The record may be incomplete or delayed. The method cannot infer missing work from a clean summary. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Small samples are sensitive to one case; report the instability instead of a precise-looking percentage. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Public sources frame recordkeeping and control practice but do not provide a result for this sample. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Record the supply order source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2. Step 3.",
+          "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2. Step 3.",
+          "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2. Step 3."
         ]
       },
       {
         "heading": "Review and next action",
         "paragraphs": [
-          "Name the owner who will read the result and set a review date.",
-          "Choose one action: fix the source, simplify the field, change the queue, or pause the work until the owner decides.",
-          "Repeat the protocol after the change and report what moved and what remains unknown.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is.",
-          "Close the loop with the requester. Internal completeness without confirmation is only half closed.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine."
+          "Name the owner who will read the result and set a review date. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Choose one action: fix the source, simplify the field, change the queue, or pause the work until the owner decides. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Repeat the protocol after the change and report what moved and what remains unknown. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order.",
+          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2. Step 3.",
+          "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2. Step 3.",
+          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-testing-monitoring-coverage-for-supply-order. Step 2. Step 3."
         ]
       }
     ],
