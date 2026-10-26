@@ -14,7 +14,7 @@ export const october26ResearchPosts: ResearchPost[] = [
         "heading": "Question and scope",
         "paragraphs": [
           "This protocol asks how meeting minutes can be described from the operational record in administrative staffing. It measures the record, not the person or the legal outcome.",
-          "State the population, the observation window, and the exclusions before collecting data.",
+          "State the client population, observation window, and exclusions before collecting admin staffing data, then keep those definitions for the whole review.",
           "The result should be repeatable by another reviewer using the same definitions.",
           "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes.",
           "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes.",
@@ -26,8 +26,8 @@ export const october26ResearchPosts: ResearchPost[] = [
         "heading": "Unit and denominator",
         "paragraphs": [
           "The unit is one meeting minutes case, from the opening event through the recorded close.",
-          "Record the opening count, additions, withdrawals, resolutions, and unresolved items. A count without a denominator is not a measure.",
-          "Do not merge linked events into one case unless the process defines them as one requirement.",
+          "Record opening admin cases, additions, withdrawals, resolutions, and unresolved items; a count without that denominator cannot support a staffing measure.",
+          "Keep a separate admin case for each client request unless the staffing agreement defines a bundled deliverable; merging unrelated inbox and calendar items hides the true turnaround time.",
           "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes.",
           "Keep the meeting minutes queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes.",
           "Record the meeting minutes source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes.",
@@ -37,9 +37,9 @@ export const october26ResearchPosts: ResearchPost[] = [
       {
         "heading": "Definitions",
         "paragraphs": [
-          "Write the start event, the stop event, the pause rule, and the treatment of missing evidence.",
-          "Define the primary measure and one supporting measure. Use the same definitions for every case.",
-          "If a definition changes, keep the earlier classification and apply the new rule only to later cases.",
+          "Write the admin protocol's start event, stop event, pause rule, and treatment of missing client evidence before the associate begins the review.",
+          "Choose one primary admin-staffing measure, such as first-pass client acceptance of a document or calendar handoff, plus one supporting measure, and apply both definitions to every request.",
+          "If the admin staffing definition changes, keep earlier client cases under the old rule and apply the new rule only to requests received after the change.",
           "Review one meeting minutes case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes.",
           "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
           "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
@@ -49,9 +49,9 @@ export const october26ResearchPosts: ResearchPost[] = [
       {
         "heading": "Evidence and data dictionary",
         "paragraphs": [
-          "Each case needs the source, the time observed, the field supported, and the reviewer. Mark missing, unavailable, and confirmed negative values separately.",
+          "Each admin case needs the client source, observation time, field supported, and reviewer; mark missing, unavailable, and confirmed-negative values separately in the staffing log.",
           "Use a pseudonymous key and keep the identity crosswalk in an approved system.",
-          "Record the source version so a later reviewer can tell what was known at the first action.",
+          "Record the version or date of the client brief, calendar, or template so a later reviewer can tell what the associate saw at the first action.",
           "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes.",
           "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
           "Keep the meeting minutes queue separate from the general inbox. A queue without an owner hides the oldest item. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
@@ -61,9 +61,9 @@ export const october26ResearchPosts: ResearchPost[] = [
       {
         "heading": "Sampling",
         "paragraphs": [
-          "Use consecutive cases where possible and stratify by channel, owner, or risk class.",
-          "Include adverse cases: missing source, conflicting instruction, unavailable owner, and a tight deadline.",
-          "Record the eligible count, sample size, and every exclusion so the sample can be reproduced.",
+          "Use consecutive admin requests where possible and stratify the sample by client, work type, or risk class so the review is reproducible.",
+          "Include missing client briefs, conflicting instructions, unavailable approvers, and tight same-day deadlines in the admin sample, not only clean routine requests.",
+          "Record the eligible admin requests, the sample size, and every exclusion so another reviewer can reproduce the client sample.",
           "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
           "Review one meeting minutes case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
           "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3.",
@@ -73,9 +73,9 @@ export const october26ResearchPosts: ResearchPost[] = [
       {
         "heading": "Analysis",
         "paragraphs": [
-          "Report the missing-field rate, the exception rate, the unresolved count, and the age of open cases.",
-          "Separate observation from interpretation. A small easy sample is not evidence of a strong control.",
-          "Keep case-level detail available for review. A summary chart without records cannot support a decision.",
+          "Report the missing-field rate, exception rate, unresolved count, and age of open admin cases, with the client and observation window attached.",
+          "Separate what the admin associate observed from what the account manager inferred; a small batch of easy calendar requests is not evidence of a strong control.",
+          "Keep the underlying admin request, checklist, and client confirmation available for review; a summary chart without those records cannot defend a staffing decision.",
           "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
           "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2.",
           "Use a short reason code for each exception. The code should describe the evidence problem, not the person. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3.",
@@ -85,9 +85,9 @@ export const october26ResearchPosts: ResearchPost[] = [
       {
         "heading": "Limitations",
         "paragraphs": [
-          "The record may be incomplete or delayed. The method cannot infer missing work from a clean summary.",
-          "Small samples are sensitive to one case; report the instability instead of a precise-looking percentage.",
-          "Public sources frame recordkeeping and control practice but do not provide a result for this sample.",
+          "The admin record may be incomplete or delayed, and a clean client summary cannot prove that every inbox, calendar, or document task was captured.",
+          "A small admin sample can turn on one difficult client or one late approval, so report the instability instead of a precise-looking percentage.",
+          "Public recordkeeping and internal-control guidance frames the admin staffing review but does not supply a performance result for this client sample.",
           "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3.",
           "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3.",
           "Review one meeting minutes case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3."
@@ -97,8 +97,8 @@ export const october26ResearchPosts: ResearchPost[] = [
         "heading": "Review and next action",
         "paragraphs": [
           "Name the owner who will read the result and set a review date.",
-          "Choose one action: fix the source, simplify the field, change the queue, or pause the work until the owner decides.",
-          "Repeat the protocol after the change and report what moved and what remains unknown.",
+          "Pick one corrective action for the admin queue: repair the source file, simplify the intake field, change the coverage queue, or pause the client deliverable until the account manager decides.",
+          "Repeat the admin protocol after a process change and report what improved, what stayed the same, and what remains unknown.",
           "Record the meeting minutes source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3.",
           "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3.",
           "If the rule changes, keep the earlier classification and apply the new rule to later cases. This checkpoint applies specifically to adminstaffingsolutions-auditing-access-changes-around-meeting-minutes. Step 2. Step 3."

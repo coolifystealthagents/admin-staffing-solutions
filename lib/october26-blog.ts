@@ -14,10 +14,10 @@ export const october26BlogPosts: BlogPost[] = [
         "heading": "The control this admin role intake needs",
         "paragraphs": [
           "A busy administrative staffing team can look productive while the admin role intake record is too thin to defend. The control starts with one question: can a second person reconstruct who asked, what source was used, who decided, and what changed?",
-          "If the answer is no, the work is not complete. The team may still be helpful, but it cannot show that the action was authorized or that the destination record was updated.",
+          "If a second associate cannot reconstruct the client request, the admin task is not finished even when the inbox looks empty; the record still lacks authorization or destination evidence.",
           "Write the control as a short operating rule for admin staffing agency owners, not as a general plea for better documentation.",
-          "Do not copy a value because it looks familiar. Reopen the source and record what changed.",
-          "Use a short reason code for each exception. The code should describe the evidence problem, not the person.",
+          "Do not reuse last month's client address, approver, or formatting value because it looks familiar; reopen the source file and record the change.",
+          "Use a short admin reason code for each exception, such as missing brief, stale template, conflicting owner, or unavailable approver, and describe the evidence problem rather than the associate.",
           "Record the admin role intake source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken."
         ]
       },
@@ -25,39 +25,39 @@ export const october26BlogPosts: BlogPost[] = [
         "heading": "Map the source before the task",
         "paragraphs": [
           "Name the system or document that governs admin role intake. Record the version, the observation time, and the field the source supports.",
-          "Do not treat a screenshot, a forwarded note, or a verbal confirmation as the record itself. These can be leads, but the owner still needs the governing source.",
-          "When sources conflict, keep both and label the conflict. A clean summary that hides a disagreement is worse than an honest exception.",
-          "Close the loop with the requester. Internal completeness without confirmation is only half closed.",
+          "A forwarded client email or screenshot can start an admin request, but the associate still needs the governing brief, template, or calendar record before changing the deliverable.",
+          "When a client email and calendar entry conflict, keep both admin records and label the disagreement rather than hiding it in a clean summary.",
+          "Close the loop with the client contact who raised the admin request; an internally complete timesheet or inbox note is not closed until that contact confirms the outcome.",
           "Review one admin role intake case end to end in the weekly meeting. Check the source, decision, destination record, and confirmation.",
-          "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is."
+          "Write the next admin action with a named owner and a time; a note to review the client exception is not a next action until someone names the source and deadline."
         ]
       },
       {
         "heading": "Make decision rights explicit",
         "paragraphs": [
-          "The VA can prepare, compare, label, calculate, and route. The named owner decides whether the evidence is enough and what the customer or employee is told.",
-          "Write the boundary into the task, including the systems the VA may touch and the fields they may change.",
-          "A complete packet is not approval. The owner decision should be visible in the record, with a time and a scope.",
+          "Admin staffing associates can prepare, compare, label, calculate, and route client work; the account manager decides whether the evidence is sufficient and what the client is told.",
+          "Write the admin boundary into the task brief, including the client systems the associate may touch and the fields they may change.",
+          "A finished inbox clean-up or calendar handoff is still a draft until the admin staffing account manager approves the client-facing version. Log who approved it, when, and which client workflow it affects.",
           "Record the admin role intake source and observation time. A later reviewer should be able to tell whether the value was current when the first action was taken. This checkpoint applies specifically to adminstaffingsolutions-build-a-first-week-shadow-plan-for-admin-role-intake.",
-          "If the rule changes, keep the earlier classification and apply the new rule to later cases."
+          "When the client changes a formatting, calendar, or approval rule, preserve the earlier classification and apply the new instruction only to later admin requests."
         ]
       },
       {
         "heading": "Build a repeatable daily routine",
         "paragraphs": [
           "Start the day by opening the admin role intake queue and checking the oldest item. Work from the source, not from the previous summary.",
-          "Record the exception, the next action, the owner, and the due time before moving on. A note without a due time is not a handoff.",
-          "End the day by reconciling the queue. Explain what remains open and who owns the next check.",
+          "Record the admin exception, next action, owner, and due time before moving to the next client request; a note without a due time is not a handoff.",
+          "End each admin shift by reconciling the client queue and naming what remains open, who owns the next check, and when the client will hear back.",
           "Write the next action with an owner and a time. \"Review the exception\" is not a next action; a named person checking a named source by a stated time is. This checkpoint applies specifically to adminstaffingsolutions-build-a-first-week-shadow-plan-for-admin-role-intake.",
-          "Name a backup owner for leave and time-zone gaps. Coverage should be written into the routine."
+          "Name a backup admin associate for leave and time-zone gaps, and write that coverage into the client staffing plan rather than improvising when someone is out."
         ]
       },
       {
         "heading": "Recover cleanly when the control fails",
         "paragraphs": [
-          "Define a recovery path for missing sources, wrong owners, stale versions, and partial updates. The path should stop dependent work until the record is safe.",
-          "Preserve the original request and the correction. Do not overwrite the first value to make the history look consistent.",
-          "If the failure affects pay, safety, access, legal, or a customer promise, route it to the owner immediately.",
+          "Write a recovery path for missing client instructions, wrong role owners, stale formatting templates, and partial calendar updates; stop dependent admin work until the account manager confirms the record.",
+          "Keep the original client request and the correction side by side; never overwrite the first version just to make the admin history look consistent.",
+          "If an admin gap affects payroll, client safety, building access, legal obligations, or a customer promise, stop the task and route it to the account manager immediately.",
           "Keep the admin role intake queue separate from the general inbox. A queue without an owner hides the oldest item.",
           "Do not copy a value because it looks familiar. Reopen the source and record what changed. This checkpoint applies specifically to adminstaffingsolutions-build-a-first-week-shadow-plan-for-admin-role-intake."
         ]
@@ -66,9 +66,9 @@ export const october26BlogPosts: BlogPost[] = [
         "heading": "Verify, review, and improve",
         "paragraphs": [
           "Close admin role intake only when the destination record shows the approved change. A sent message is not proof that the destination changed.",
-          "Review one case end to end each week. Check the source, the decision, the update, and the confirmation.",
-          "A repeated gap should change the procedure, the field, or the queue design, not only the coaching.",
-          "When evidence is unavailable, record that state instead of leaving a blank. Missing and confirmed negative are different.",
+          "Review one admin case end to end each week: the client source, the account manager decision, the calendar or document update, and the client confirmation.",
+          "When the same missing field appears twice in document formatting or meeting minutes, change the checklist or queue design before coaching the associate again.",
+          "When a client document is unavailable, record that state instead of leaving a blank; missing and confirmed-negative are different admin outcomes.",
           "Close the loop with the requester. Internal completeness without confirmation is only half closed. This checkpoint applies specifically to adminstaffingsolutions-build-a-first-week-shadow-plan-for-admin-role-intake."
         ]
       }
