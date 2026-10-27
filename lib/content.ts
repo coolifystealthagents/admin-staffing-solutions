@@ -175,6 +175,7 @@ export const blogPosts: BlogPost[] = [
     sections: legacyBlogSections["inbox-workflow-boundaries"],
   }
 ];
+blogPosts.sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt)));
 export const researchPosts: ResearchPost[] = [
   ...october26ResearchPosts,
   ...october25ResearchPosts,
@@ -700,6 +701,7 @@ export const researchPosts: ResearchPost[] = [
     sections: legacyResearchSections["inbox-workflow-support-review-consistency-report-20"],
   }
 ];
+researchPosts.sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt)));
 
 export const nav = [
   { href: '/', label: 'Home' },
