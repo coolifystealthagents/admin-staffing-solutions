@@ -22,7 +22,7 @@ export default function BlogPage() {
         const thumbnail = post.thumbnail || fallbackThumbnail[post.category] || '/hero.png';
         return <Link className="article-card" href={`/blog/${post.slug}`} key={post.slug}>
           <span className="article-card-image"><Image src={thumbnail} alt={`${post.title} workflow illustration`} fill sizes="(max-width: 700px) 92vw, 31vw" /></span>
-          <span className="pill">{post.category}</span><h2>{post.title}</h2><p>{post.description}</p><span className="text-link">Read article</span>
+          <span className="pill">{post.category}</span><h2>{post.title}</h2><p>{post.description}</p><p className="meta">Published <time dateTime={post.publishedAt}>{post.publishedAt}</time></p><span className="text-link">Read article</span>
         </Link>;
       })}</div>
     </section>
