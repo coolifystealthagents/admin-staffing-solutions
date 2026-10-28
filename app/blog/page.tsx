@@ -18,7 +18,7 @@ export default function BlogPage() {
     <PageHero eyebrow="Practical field notes" title="Clearer roles. Better handoffs." description="Guides for owners and managers who want to delegate recurring work without losing visibility or control." image="/thumbnails/october-12/executive-briefing-source-verification.svg" imageAlt="Executive briefing source verification workflow" imageFit="contain" />
     <section className="content-wrap">
       <div className="principles">{['All', ...new Set(blogPosts.map(post => post.category))].map(category => <span className="pill" key={category}>{category} ({category === 'All' ? blogPosts.length : blogPosts.filter(post => post.category === category).length})</span>)}</div>
-      <div className="article-grid">{blogPosts.map(post => {
+      <div className="article-grid">{[...blogPosts].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt) || a.slug.localeCompare(b.slug)).map(post => {
         const thumbnail = post.thumbnail || fallbackThumbnail[post.category] || '/hero.png';
         return <Link className="article-card" href={`/blog/${post.slug}`} key={post.slug}>
           <span className="article-card-image"><Image src={thumbnail} alt={`${post.title} workflow illustration`} fill sizes="(max-width: 700px) 92vw, 31vw" /></span>
