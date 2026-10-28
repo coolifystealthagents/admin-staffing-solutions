@@ -65,11 +65,11 @@ export const october27BlogPosts: BlogPost[] = [
     "faq": [
       {
         "q": "Who owns the decision?",
-        "answer": "The named operations lead keeps the decision and exceptions."
+        "a": "The named operations lead keeps the decision and exceptions."
       },
       {
         "q": "What evidence is kept?",
-        "answer": "Keep source, observation time, reviewer, correction, and next action."
+        "a": "Keep source, observation time, reviewer, correction, and next action."
       }
     ],
     "internalService": "/services",
@@ -144,11 +144,11 @@ export const october27BlogPosts: BlogPost[] = [
     "faq": [
       {
         "q": "Who owns the decision?",
-        "answer": "The named operations lead keeps the decision and exceptions."
+        "a": "The named operations lead keeps the decision and exceptions."
       },
       {
         "q": "What evidence is kept?",
-        "answer": "Keep source, observation time, reviewer, correction, and next action."
+        "a": "Keep source, observation time, reviewer, correction, and next action."
       }
     ],
     "internalService": "/services",
@@ -223,11 +223,11 @@ export const october27BlogPosts: BlogPost[] = [
     "faq": [
       {
         "q": "Who owns the decision?",
-        "answer": "The named operations lead keeps the decision and exceptions."
+        "a": "The named operations lead keeps the decision and exceptions."
       },
       {
         "q": "What evidence is kept?",
-        "answer": "Keep source, observation time, reviewer, correction, and next action."
+        "a": "Keep source, observation time, reviewer, correction, and next action."
       }
     ],
     "internalService": "/services",
@@ -302,11 +302,11 @@ export const october27BlogPosts: BlogPost[] = [
     "faq": [
       {
         "q": "Who owns the decision?",
-        "answer": "The named operations lead keeps the decision and exceptions."
+        "a": "The named operations lead keeps the decision and exceptions."
       },
       {
         "q": "What evidence is kept?",
-        "answer": "Keep source, observation time, reviewer, correction, and next action."
+        "a": "Keep source, observation time, reviewer, correction, and next action."
       }
     ],
     "internalService": "/services",
@@ -381,11 +381,11 @@ export const october27BlogPosts: BlogPost[] = [
     "faq": [
       {
         "q": "Who owns the decision?",
-        "answer": "The named operations lead keeps the decision and exceptions."
+        "a": "The named operations lead keeps the decision and exceptions."
       },
       {
         "q": "What evidence is kept?",
-        "answer": "Keep source, observation time, reviewer, correction, and next action."
+        "a": "Keep source, observation time, reviewer, correction, and next action."
       }
     ],
     "internalService": "/services",
@@ -460,11 +460,11 @@ export const october27BlogPosts: BlogPost[] = [
     "faq": [
       {
         "q": "Who owns the decision?",
-        "answer": "The named operations lead keeps the decision and exceptions."
+        "a": "The named operations lead keeps the decision and exceptions."
       },
       {
         "q": "What evidence is kept?",
-        "answer": "Keep source, observation time, reviewer, correction, and next action."
+        "a": "Keep source, observation time, reviewer, correction, and next action."
       }
     ],
     "internalService": "/services",
@@ -539,11 +539,11 @@ export const october27BlogPosts: BlogPost[] = [
     "faq": [
       {
         "q": "Who owns the decision?",
-        "answer": "The named operations lead keeps the decision and exceptions."
+        "a": "The named operations lead keeps the decision and exceptions."
       },
       {
         "q": "What evidence is kept?",
-        "answer": "Keep source, observation time, reviewer, correction, and next action."
+        "a": "Keep source, observation time, reviewer, correction, and next action."
       }
     ],
     "internalService": "/services",
@@ -618,11 +618,11 @@ export const october27BlogPosts: BlogPost[] = [
     "faq": [
       {
         "q": "Who owns the decision?",
-        "answer": "The named operations lead keeps the decision and exceptions."
+        "a": "The named operations lead keeps the decision and exceptions."
       },
       {
         "q": "What evidence is kept?",
-        "answer": "Keep source, observation time, reviewer, correction, and next action."
+        "a": "Keep source, observation time, reviewer, correction, and next action."
       }
     ],
     "internalService": "/services",
@@ -697,11 +697,11 @@ export const october27BlogPosts: BlogPost[] = [
     "faq": [
       {
         "q": "Who owns the decision?",
-        "answer": "The named operations lead keeps the decision and exceptions."
+        "a": "The named operations lead keeps the decision and exceptions."
       },
       {
         "q": "What evidence is kept?",
-        "answer": "Keep source, observation time, reviewer, correction, and next action."
+        "a": "Keep source, observation time, reviewer, correction, and next action."
       }
     ],
     "internalService": "/services",
@@ -776,11 +776,11 @@ export const october27BlogPosts: BlogPost[] = [
     "faq": [
       {
         "q": "Who owns the decision?",
-        "answer": "The named operations lead keeps the decision and exceptions."
+        "a": "The named operations lead keeps the decision and exceptions."
       },
       {
         "q": "What evidence is kept?",
-        "answer": "Keep source, observation time, reviewer, correction, and next action."
+        "a": "Keep source, observation time, reviewer, correction, and next action."
       }
     ],
     "internalService": "/services",
@@ -855,11 +855,11 @@ export const october27BlogPosts: BlogPost[] = [
     "faq": [
       {
         "q": "Who owns the decision?",
-        "answer": "The named operations lead keeps the decision and exceptions."
+        "a": "The named operations lead keeps the decision and exceptions."
       },
       {
         "q": "What evidence is kept?",
-        "answer": "Keep source, observation time, reviewer, correction, and next action."
+        "a": "Keep source, observation time, reviewer, correction, and next action."
       }
     ],
     "internalService": "/services",
@@ -934,11 +934,11 @@ export const october27BlogPosts: BlogPost[] = [
     "faq": [
       {
         "q": "Who owns the decision?",
-        "answer": "The named operations lead keeps the decision and exceptions."
+        "a": "The named operations lead keeps the decision and exceptions."
       },
       {
         "q": "What evidence is kept?",
-        "answer": "Keep source, observation time, reviewer, correction, and next action."
+        "a": "Keep source, observation time, reviewer, correction, and next action."
       }
     ],
     "internalService": "/services",
