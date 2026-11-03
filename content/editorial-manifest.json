@@ -292,5 +292,110 @@
     "thumbnail": "/images/editorial/project-status-lineage-reproducibility-study.svg",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-shared-calendar-conflict-before-the-executive-sees-it",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-audit-a-shared-calendar-conflict-before-the-executive-sees-it.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-keep-a-travel-change-log-finance-can-reconcile",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-keep-a-travel-change-log-finance-can-reconcile.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-prepare-a-board-packet-index-the-chair-can-verify",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-prepare-a-board-packet-index-the-chair-can-verify.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-write-an-inbox-delegation-rule-the-whole-team-can-test",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-write-an-inbox-delegation-rule-the-whole-team-can-test.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-close-a-supplier-order-discrepancy-without-losing-the-thread",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-close-a-supplier-order-discrepancy-without-losing-the-thread.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-set-a-weekly-crm-contact-hygiene-review",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-set-a-weekly-crm-contact-hygiene-review.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-handle-a-records-retention-exception-in-a-shared-drive",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-handle-a-records-retention-exception-in-a-shared-drive.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-standardize-meeting-room-and-catering-requests",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-standardize-meeting-room-and-catering-requests.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-where-calendar-conflict-resolution-time-actually-goes",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-where-calendar-conflict-resolution-time-actually-goes.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-measuring-meeting-action-closure-without-inflating-completion",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-measuring-meeting-action-closure-without-inflating-completion.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-inbox-triage-accuracy-a-case-level-method",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-inbox-triage-accuracy-a-case-level-method.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-document-formatting-rework-causes-and-measurement",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-document-formatting-rework-causes-and-measurement.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-travel-change-latency-and-approval-evidence",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-travel-change-latency-and-approval-evidence.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-admin-coverage-risk-when-the-primary-owner-is-away",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-admin-coverage-risk-when-the-primary-owner-is-away.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-records-retention-gaps-in-shared-drives",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-records-retention-gaps-in-shared-drives.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
   }
 ]
