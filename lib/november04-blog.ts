@@ -93,7 +93,7 @@ export const november04BlogPosts: BlogPost[] = [
   },
   {
     "slug": "adminstaffingsolutions-keep-a-document-signature-packet-moving",
-    "title": "Keep a document signature packet moving across offices",
+    "title": "Keep a document signature packet moving",
     "description": "A bounded administrative staffing guide to signature packet routing, with explicit evidence, decision rights, and a verified close.",
     "category": "Document coordination",
     "publishedAt": "2026-11-04",
