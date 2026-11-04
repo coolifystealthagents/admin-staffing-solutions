@@ -397,5 +397,110 @@
     "thumbnail": "/thumbnails/november-03/adminstaffingsolutions-records-retention-gaps-in-shared-drives.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-vendor-invoice-approval-before-executive-review",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-verify-a-vendor-invoice-approval-before-executive-review.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-keep-a-document-signature-packet-moving",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-keep-a-document-signature-packet-moving.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-recurring-meeting-series-change",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-control-a-recurring-meeting-series-change.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-handle-a-confidential-board-memo-distribution",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-handle-a-confidential-board-memo-distribution.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-track-a-travel-expense-reconciliation-after-the-trip",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-track-a-travel-expense-reconciliation-after-the-trip.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-standardize-a-client-gift-and-hospitality-log",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-standardize-a-client-gift-and-hospitality-log.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-keep-a-records-request-response-packet-complete",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-keep-a-records-request-response-packet-complete.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-an-executive-assistant-task-handoff-after-leave",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-audit-an-executive-assistant-task-handoff-after-leave.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-invoice-approval-cycle-time-in-executive-support",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-invoice-approval-cycle-time-in-executive-support.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-signature-packet-completion-latency",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-signature-packet-completion-latency.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-recurring-meeting-change-evidence",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-recurring-meeting-change-evidence.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-confidential-memo-distribution-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-confidential-memo-distribution-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-travel-expense-reconciliation-lag",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-travel-expense-reconciliation-lag.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-task-handoff-completeness-after-leave",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-task-handoff-completeness-after-leave.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-records-request-turnaround-in-admin-support",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-records-request-turnaround-in-admin-support.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
   }
 ]
