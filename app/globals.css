@@ -58,3 +58,14 @@ footer{padding:4rem 4vw;background:var(--ink);color:#fff;display:grid;grid-templ
   .article-prose{order:1}
   .article-navigator nav{display:none}
 }
+
+/* 2026-11-05 listing policy: compact card titles, not hero typography. */
+.article-card h2,
+.article-card h3 {
+  font-size: 22px !important;
+  line-height: 1.3 !important;
+  letter-spacing: -0.01em !important;
+  margin: 0.25em 0 0.35em !important;
+  max-width: 100%;
+}
+.article-card img { aspect-ratio: 16 / 9; object-fit: cover; }
