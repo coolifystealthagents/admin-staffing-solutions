@@ -87,8 +87,7 @@ export const november05ResearchPosts: ResearchPost[] = [
         "label": "U.S. Small Business Administration",
         "url": "https://www.sba.gov/business-guide/manage-your-business"
       }
-    ],
-    "modified": null
+    ]
   },
   {
     "slug": "adminstaffingsolutions-board-resolution-signature-cycle",
@@ -177,8 +176,7 @@ export const november05ResearchPosts: ResearchPost[] = [
         "label": "U.S. Small Business Administration",
         "url": "https://www.sba.gov/business-guide/manage-your-business"
       }
-    ],
-    "modified": null
+    ]
   },
   {
     "slug": "adminstaffingsolutions-personnel-file-request-turnaround",
@@ -267,8 +265,7 @@ export const november05ResearchPosts: ResearchPost[] = [
         "label": "U.S. Small Business Administration",
         "url": "https://www.sba.gov/business-guide/manage-your-business"
       }
-    ],
-    "modified": null
+    ]
   },
   {
     "slug": "adminstaffingsolutions-office-vendor-onboarding-completeness",
@@ -357,8 +354,7 @@ export const november05ResearchPosts: ResearchPost[] = [
         "label": "U.S. Small Business Administration",
         "url": "https://www.sba.gov/business-guide/manage-your-business"
       }
-    ],
-    "modified": null
+    ]
   },
   {
     "slug": "adminstaffingsolutions-offsite-agenda-change-evidence",
@@ -447,8 +443,7 @@ export const november05ResearchPosts: ResearchPost[] = [
         "label": "U.S. Small Business Administration",
         "url": "https://www.sba.gov/business-guide/manage-your-business"
       }
-    ],
-    "modified": null
+    ]
   },
   {
     "slug": "adminstaffingsolutions-retention-hold-notice-coverage",
@@ -537,8 +532,7 @@ export const november05ResearchPosts: ResearchPost[] = [
         "label": "U.S. Small Business Administration",
         "url": "https://www.sba.gov/business-guide/manage-your-business"
       }
-    ],
-    "modified": null
+    ]
   },
   {
     "slug": "adminstaffingsolutions-corporate-card-receipt-completeness",
@@ -627,7 +621,6 @@ export const november05ResearchPosts: ResearchPost[] = [
         "label": "U.S. Small Business Administration",
         "url": "https://www.sba.gov/business-guide/manage-your-business"
       }
-    ],
-    "modified": null
+    ]
   }
 ];

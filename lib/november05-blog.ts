@@ -89,8 +89,7 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
-    },
-    "modified": null
+    }
   },
   {
     "slug": "adminstaffingsolutions-control-a-board-resolution-signature-page",
@@ -181,8 +180,7 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
-    },
-    "modified": null
+    }
   },
   {
     "slug": "adminstaffingsolutions-handle-a-confidential-personnel-file-request",
@@ -273,8 +271,7 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "NIST Privacy Framework",
       "url": "https://www.nist.gov/privacy-framework"
-    },
-    "modified": null
+    }
   },
   {
     "slug": "adminstaffingsolutions-keep-a-vendor-onboarding-packet-for-office-services",
@@ -365,8 +362,7 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "U.S. Small Business Administration",
       "url": "https://www.sba.gov/business-guide/manage-your-business"
-    },
-    "modified": null
+    }
   },
   {
     "slug": "adminstaffingsolutions-track-a-leadership-offsite-agenda-change",
@@ -457,8 +453,7 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
-    },
-    "modified": null
+    }
   },
   {
     "slug": "adminstaffingsolutions-standardize-a-document-retention-hold-notice",
@@ -549,8 +544,7 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "U.S. National Archives — records management",
       "url": "https://www.archives.gov/records-mgmt"
-    },
-    "modified": null
+    }
   },
   {
     "slug": "adminstaffingsolutions-reconcile-a-corporate-card-receipt-packet",
@@ -641,8 +635,7 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "IRS — recordkeeping",
       "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping"
-    },
-    "modified": null
+    }
   },
   {
     "slug": "adminstaffingsolutions-audit-an-executive-calendar-delegation-change",
@@ -733,7 +726,6 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
-    },
-    "modified": null
+    }
   }
 ];
