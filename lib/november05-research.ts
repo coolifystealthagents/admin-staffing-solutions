@@ -5,7 +5,7 @@ export const november05ResearchPosts: ResearchPost[] = [
     "title": "Travel visa verification completeness",
     "summary": "A measurement protocol for travel visa completeness in administrative support, with a frozen population and an evidence sample.",
     "cluster": "Travel administration",
-    "publishedAt": "2026-11-03",
+    "publishedAt": "2026-11-05",
     "finding": "A reproducible count of travel visa completeness records missing a required field, reported with its window and exclusions.",
     "thumbnail": "/thumbnails/november-05/adminstaffingsolutions-travel-visa-verification-completeness.png",
     "sections": [
@@ -87,14 +87,15 @@ export const november05ResearchPosts: ResearchPost[] = [
         "label": "U.S. Small Business Administration",
         "url": "https://www.sba.gov/business-guide/manage-your-business"
       }
-    ]
+    ],
+    "modified": null
   },
   {
     "slug": "adminstaffingsolutions-board-resolution-signature-cycle",
     "title": "Board resolution signature cycle",
     "summary": "A measurement protocol for resolution signature cycle in administrative support, with a frozen population and an evidence sample.",
     "cluster": "Board Administration",
-    "publishedAt": "2026-11-03",
+    "publishedAt": "2026-11-05",
     "finding": "A reproducible count of resolution signature cycle records missing a required field, reported with its window and exclusions.",
     "thumbnail": "/thumbnails/november-05/adminstaffingsolutions-board-resolution-signature-cycle.png",
     "sections": [
@@ -176,14 +177,15 @@ export const november05ResearchPosts: ResearchPost[] = [
         "label": "U.S. Small Business Administration",
         "url": "https://www.sba.gov/business-guide/manage-your-business"
       }
-    ]
+    ],
+    "modified": null
   },
   {
     "slug": "adminstaffingsolutions-personnel-file-request-turnaround",
     "title": "Personnel file request turnaround",
     "summary": "A measurement protocol for personnel file turnaround in administrative support, with a frozen population and an evidence sample.",
     "cluster": "Confidential support",
-    "publishedAt": "2026-11-03",
+    "publishedAt": "2026-11-05",
     "finding": "A reproducible count of personnel file turnaround records missing a required field, reported with its window and exclusions.",
     "thumbnail": "/thumbnails/november-05/adminstaffingsolutions-personnel-file-request-turnaround.png",
     "sections": [
@@ -265,14 +267,15 @@ export const november05ResearchPosts: ResearchPost[] = [
         "label": "U.S. Small Business Administration",
         "url": "https://www.sba.gov/business-guide/manage-your-business"
       }
-    ]
+    ],
+    "modified": null
   },
   {
     "slug": "adminstaffingsolutions-office-vendor-onboarding-completeness",
     "title": "Office vendor onboarding completeness",
     "summary": "A measurement protocol for vendor onboarding completeness in administrative support, with a frozen population and an evidence sample.",
     "cluster": "Vendor administration",
-    "publishedAt": "2026-11-03",
+    "publishedAt": "2026-11-05",
     "finding": "A reproducible count of vendor onboarding completeness records missing a required field, reported with its window and exclusions.",
     "thumbnail": "/thumbnails/november-05/adminstaffingsolutions-office-vendor-onboarding-completeness.png",
     "sections": [
@@ -354,14 +357,15 @@ export const november05ResearchPosts: ResearchPost[] = [
         "label": "U.S. Small Business Administration",
         "url": "https://www.sba.gov/business-guide/manage-your-business"
       }
-    ]
+    ],
+    "modified": null
   },
   {
     "slug": "adminstaffingsolutions-offsite-agenda-change-evidence",
     "title": "Offsite agenda change evidence",
     "summary": "A measurement protocol for offsite agenda evidence in administrative support, with a frozen population and an evidence sample.",
     "cluster": "Meeting coordination",
-    "publishedAt": "2026-11-03",
+    "publishedAt": "2026-11-05",
     "finding": "A reproducible count of offsite agenda evidence records missing a required field, reported with its window and exclusions.",
     "thumbnail": "/thumbnails/november-05/adminstaffingsolutions-offsite-agenda-change-evidence.png",
     "sections": [
@@ -443,14 +447,15 @@ export const november05ResearchPosts: ResearchPost[] = [
         "label": "U.S. Small Business Administration",
         "url": "https://www.sba.gov/business-guide/manage-your-business"
       }
-    ]
+    ],
+    "modified": null
   },
   {
     "slug": "adminstaffingsolutions-retention-hold-notice-coverage",
     "title": "Retention hold notice coverage",
     "summary": "A measurement protocol for retention hold coverage in administrative support, with a frozen population and an evidence sample.",
     "cluster": "Records administration",
-    "publishedAt": "2026-11-03",
+    "publishedAt": "2026-11-05",
     "finding": "A reproducible count of retention hold coverage records missing a required field, reported with its window and exclusions.",
     "thumbnail": "/thumbnails/november-05/adminstaffingsolutions-retention-hold-notice-coverage.png",
     "sections": [
@@ -532,14 +537,15 @@ export const november05ResearchPosts: ResearchPost[] = [
         "label": "U.S. Small Business Administration",
         "url": "https://www.sba.gov/business-guide/manage-your-business"
       }
-    ]
+    ],
+    "modified": null
   },
   {
     "slug": "adminstaffingsolutions-corporate-card-receipt-completeness",
     "title": "Corporate card receipt completeness",
     "summary": "A measurement protocol for card receipt completeness in administrative support, with a frozen population and an evidence sample.",
     "cluster": "Expense administration",
-    "publishedAt": "2026-11-03",
+    "publishedAt": "2026-11-05",
     "finding": "A reproducible count of card receipt completeness records missing a required field, reported with its window and exclusions.",
     "thumbnail": "/thumbnails/november-05/adminstaffingsolutions-corporate-card-receipt-completeness.png",
     "sections": [
@@ -621,6 +627,7 @@ export const november05ResearchPosts: ResearchPost[] = [
         "label": "U.S. Small Business Administration",
         "url": "https://www.sba.gov/business-guide/manage-your-business"
       }
-    ]
+    ],
+    "modified": null
   }
 ];

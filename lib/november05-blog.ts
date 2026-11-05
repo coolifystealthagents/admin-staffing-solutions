@@ -5,7 +5,7 @@ export const november05BlogPosts: BlogPost[] = [
     "title": "Verify an executive travel visa before booking",
     "description": "A bounded administrative staffing guide to executive travel visa, with explicit evidence, decision rights, and a verified close.",
     "category": "Travel administration",
-    "publishedAt": "2026-11-03",
+    "publishedAt": "2026-11-05",
     "readTime": "9 min read",
     "thumbnail": "/thumbnails/november-05/adminstaffingsolutions-verify-an-executive-travel-visa-before-booking.png",
     "sections": [
@@ -89,14 +89,15 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
-    }
+    },
+    "modified": null
   },
   {
     "slug": "adminstaffingsolutions-control-a-board-resolution-signature-page",
     "title": "Control a board resolution signature page",
     "description": "A bounded administrative staffing guide to board resolution signature, with explicit evidence, decision rights, and a verified close.",
     "category": "Board Administration",
-    "publishedAt": "2026-11-03",
+    "publishedAt": "2026-11-05",
     "readTime": "9 min read",
     "thumbnail": "/thumbnails/november-05/adminstaffingsolutions-control-a-board-resolution-signature-page.png",
     "sections": [
@@ -180,14 +181,15 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
-    }
+    },
+    "modified": null
   },
   {
     "slug": "adminstaffingsolutions-handle-a-confidential-personnel-file-request",
     "title": "Handle a confidential personnel file request",
     "description": "A bounded administrative staffing guide to personnel file request, with explicit evidence, decision rights, and a verified close.",
     "category": "Confidential support",
-    "publishedAt": "2026-11-03",
+    "publishedAt": "2026-11-05",
     "readTime": "9 min read",
     "thumbnail": "/thumbnails/november-05/adminstaffingsolutions-handle-a-confidential-personnel-file-request.png",
     "sections": [
@@ -271,14 +273,15 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "NIST Privacy Framework",
       "url": "https://www.nist.gov/privacy-framework"
-    }
+    },
+    "modified": null
   },
   {
     "slug": "adminstaffingsolutions-keep-a-vendor-onboarding-packet-for-office-services",
     "title": "Keep a vendor onboarding packet for office services",
     "description": "A bounded administrative staffing guide to office vendor onboarding, with explicit evidence, decision rights, and a verified close.",
     "category": "Vendor administration",
-    "publishedAt": "2026-11-03",
+    "publishedAt": "2026-11-05",
     "readTime": "9 min read",
     "thumbnail": "/thumbnails/november-05/adminstaffingsolutions-keep-a-vendor-onboarding-packet-for-office-services.png",
     "sections": [
@@ -362,14 +365,15 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "U.S. Small Business Administration",
       "url": "https://www.sba.gov/business-guide/manage-your-business"
-    }
+    },
+    "modified": null
   },
   {
     "slug": "adminstaffingsolutions-track-a-leadership-offsite-agenda-change",
     "title": "Track a leadership offsite agenda change",
     "description": "A bounded administrative staffing guide to offsite agenda change, with explicit evidence, decision rights, and a verified close.",
     "category": "Meeting coordination",
-    "publishedAt": "2026-11-03",
+    "publishedAt": "2026-11-05",
     "readTime": "9 min read",
     "thumbnail": "/thumbnails/november-05/adminstaffingsolutions-track-a-leadership-offsite-agenda-change.png",
     "sections": [
@@ -453,14 +457,15 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
-    }
+    },
+    "modified": null
   },
   {
     "slug": "adminstaffingsolutions-standardize-a-document-retention-hold-notice",
     "title": "Standardize a document retention hold notice",
     "description": "A bounded administrative staffing guide to retention hold notice, with explicit evidence, decision rights, and a verified close.",
     "category": "Records administration",
-    "publishedAt": "2026-11-03",
+    "publishedAt": "2026-11-05",
     "readTime": "9 min read",
     "thumbnail": "/thumbnails/november-05/adminstaffingsolutions-standardize-a-document-retention-hold-notice.png",
     "sections": [
@@ -544,14 +549,15 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "U.S. National Archives — records management",
       "url": "https://www.archives.gov/records-mgmt"
-    }
+    },
+    "modified": null
   },
   {
     "slug": "adminstaffingsolutions-reconcile-a-corporate-card-receipt-packet",
     "title": "Reconcile a corporate card receipt packet",
     "description": "A bounded administrative staffing guide to corporate card receipt packet, with explicit evidence, decision rights, and a verified close.",
     "category": "Expense administration",
-    "publishedAt": "2026-11-03",
+    "publishedAt": "2026-11-05",
     "readTime": "9 min read",
     "thumbnail": "/thumbnails/november-05/adminstaffingsolutions-reconcile-a-corporate-card-receipt-packet.png",
     "sections": [
@@ -635,14 +641,15 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "IRS — recordkeeping",
       "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping"
-    }
+    },
+    "modified": null
   },
   {
     "slug": "adminstaffingsolutions-audit-an-executive-calendar-delegation-change",
     "title": "Audit an executive calendar delegation change",
     "description": "A bounded administrative staffing guide to calendar delegation change, with explicit evidence, decision rights, and a verified close.",
     "category": "Calendar control",
-    "publishedAt": "2026-11-03",
+    "publishedAt": "2026-11-05",
     "readTime": "9 min read",
     "thumbnail": "/thumbnails/november-05/adminstaffingsolutions-audit-an-executive-calendar-delegation-change.png",
     "sections": [
@@ -726,6 +733,7 @@ export const november05BlogPosts: BlogPost[] = [
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
-    }
+    },
+    "modified": null
   }
 ];
