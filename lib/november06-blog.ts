@@ -1,13 +1,13 @@
 import type { BlogPost } from './types';
 export const november06BlogPosts: BlogPost[] = [
   {
-    "slug": "adminstaffingsolutions-reconcile-a-procurement-card-receipt",
+    "slug": "adminstaffingsolutions-reconcile-a-procurement-card-receipt-before-month-end",
     "title": "Reconcile a procurement card receipt before month-end",
     "description": "A bounded administrative staffing guide to procurement card receipt, with explicit evidence, decision rights, and a verified close.",
     "category": "Invoice administration",
     "publishedAt": "2026-11-06",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-reconcile-a-procurement-card-receipt.png",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-reconcile-a-procurement-card-receipt-before-month-end.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -85,20 +85,20 @@ export const november06BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/executive-administration",
-    "internalSibling": "/blog/adminstaffingsolutions-track-a-board-resolution-number",
+    "internalSibling": "/blog/adminstaffingsolutions-track-a-board-resolution-number-across-signed-copies",
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
     }
   },
   {
-    "slug": "adminstaffingsolutions-track-a-board-resolution-number",
+    "slug": "adminstaffingsolutions-track-a-board-resolution-number-across-signed-copies",
     "title": "Track a board resolution number across signed copies",
     "description": "A bounded administrative staffing guide to board resolution numbering, with explicit evidence, decision rights, and a verified close.",
     "category": "Board administration",
     "publishedAt": "2026-11-06",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-track-a-board-resolution-number.png",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-track-a-board-resolution-number-across-signed-copies.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -176,20 +176,20 @@ export const november06BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/meeting-coordination",
-    "internalSibling": "/blog/adminstaffingsolutions-verify-a-contract-clause-renewal",
+    "internalSibling": "/blog/adminstaffingsolutions-verify-a-contract-clause-renewal-before-the-notice-date",
     "source": {
       "label": "U.S. National Archives — records management",
       "url": "https://www.archives.gov/records-mgmt"
     }
   },
   {
-    "slug": "adminstaffingsolutions-verify-a-contract-clause-renewal",
+    "slug": "adminstaffingsolutions-verify-a-contract-clause-renewal-before-the-notice-date",
     "title": "Verify a contract clause renewal before the notice date",
     "description": "A bounded administrative staffing guide to contract clause renewal, with explicit evidence, decision rights, and a verified close.",
     "category": "Contract administration",
     "publishedAt": "2026-11-06",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-verify-a-contract-clause-renewal.png",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-verify-a-contract-clause-renewal-before-the-notice-date.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -267,20 +267,20 @@ export const november06BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/records-administration",
-    "internalSibling": "/blog/adminstaffingsolutions-control-a-visitor-access-badge",
+    "internalSibling": "/blog/adminstaffingsolutions-control-a-visitor-access-badge-return",
     "source": {
       "label": "GAO — internal control standards",
       "url": "https://www.gao.gov/greenbook"
     }
   },
   {
-    "slug": "adminstaffingsolutions-control-a-visitor-access-badge",
+    "slug": "adminstaffingsolutions-control-a-visitor-access-badge-return",
     "title": "Control a visitor access badge return",
     "description": "A bounded administrative staffing guide to visitor badge return, with explicit evidence, decision rights, and a verified close.",
     "category": "Facilities administration",
     "publishedAt": "2026-11-06",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-control-a-visitor-access-badge.png",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-control-a-visitor-access-badge-return.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -358,20 +358,20 @@ export const november06BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/executive-administration",
-    "internalSibling": "/blog/adminstaffingsolutions-keep-a-courier-chain-of-custody",
+    "internalSibling": "/blog/adminstaffingsolutions-keep-a-courier-chain-of-custody-for-a-signed-document",
     "source": {
       "label": "NIST Privacy Framework",
       "url": "https://www.nist.gov/privacy-framework"
     }
   },
   {
-    "slug": "adminstaffingsolutions-keep-a-courier-chain-of-custody",
+    "slug": "adminstaffingsolutions-keep-a-courier-chain-of-custody-for-a-signed-document",
     "title": "Keep a courier chain of custody for a signed document",
     "description": "A bounded administrative staffing guide to courier chain of custody, with explicit evidence, decision rights, and a verified close.",
     "category": "Document coordination",
     "publishedAt": "2026-11-06",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-keep-a-courier-chain-of-custody.png",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-keep-a-courier-chain-of-custody-for-a-signed-document.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -449,20 +449,20 @@ export const november06BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/records-administration",
-    "internalSibling": "/blog/adminstaffingsolutions-prepare-an-executive-event-brief",
+    "internalSibling": "/blog/adminstaffingsolutions-prepare-an-executive-event-brief-with-named-owners",
     "source": {
       "label": "U.S. National Archives — records management",
       "url": "https://www.archives.gov/records-mgmt"
     }
   },
   {
-    "slug": "adminstaffingsolutions-prepare-an-executive-event-brief",
+    "slug": "adminstaffingsolutions-prepare-an-executive-event-brief-with-named-owners",
     "title": "Prepare an executive event brief with named owners",
     "description": "A bounded administrative staffing guide to executive event brief, with explicit evidence, decision rights, and a verified close.",
     "category": "Meeting coordination",
     "publishedAt": "2026-11-06",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-prepare-an-executive-event-brief.png",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-prepare-an-executive-event-brief-with-named-owners.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -540,20 +540,20 @@ export const november06BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/meeting-coordination",
-    "internalSibling": "/blog/adminstaffingsolutions-record-a-signature-delegation",
+    "internalSibling": "/blog/adminstaffingsolutions-record-a-signature-delegation-before-it-is-used",
     "source": {
       "label": "U.S. Small Business Administration",
       "url": "https://www.sba.gov/business-guide/manage-your-business"
     }
   },
   {
-    "slug": "adminstaffingsolutions-record-a-signature-delegation",
+    "slug": "adminstaffingsolutions-record-a-signature-delegation-before-it-is-used",
     "title": "Record a signature delegation before it is used",
     "description": "A bounded administrative staffing guide to signature delegation, with explicit evidence, decision rights, and a verified close.",
     "category": "Compliance administration",
     "publishedAt": "2026-11-06",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-record-a-signature-delegation.png",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-record-a-signature-delegation-before-it-is-used.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -631,20 +631,20 @@ export const november06BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/records-administration",
-    "internalSibling": "/blog/adminstaffingsolutions-complete-a-vendor-onboarding-file",
+    "internalSibling": "/blog/adminstaffingsolutions-complete-a-vendor-onboarding-file-before-the-first-invoice",
     "source": {
       "label": "FTC — data security guidance",
       "url": "https://www.ftc.gov/business-guidance/privacy-security/data-security"
     }
   },
   {
-    "slug": "adminstaffingsolutions-complete-a-vendor-onboarding-file",
+    "slug": "adminstaffingsolutions-complete-a-vendor-onboarding-file-before-the-first-invoice",
     "title": "Complete a vendor onboarding file before the first invoice",
     "description": "A bounded administrative staffing guide to vendor onboarding file, with explicit evidence, decision rights, and a verified close.",
     "category": "Vendor administration",
     "publishedAt": "2026-11-06",
     "readTime": "9 min read",
-    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-complete-a-vendor-onboarding-file.png",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-complete-a-vendor-onboarding-file-before-the-first-invoice.png",
     "sections": [
       {
         "heading": "Name the decision and the queue owner",
@@ -722,7 +722,7 @@ export const november06BlogPosts: BlogPost[] = [
       }
     ],
     "internalService": "/services/executive-administration",
-    "internalSibling": "/blog/adminstaffingsolutions-reconcile-a-procurement-card-receipt",
+    "internalSibling": "/blog/adminstaffingsolutions-reconcile-a-procurement-card-receipt-before-month-end",
     "source": {
       "label": "IRS — recordkeeping",
       "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping"

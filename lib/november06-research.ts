@@ -357,13 +357,13 @@ export const november06ResearchPosts: ResearchPost[] = [
     ]
   },
   {
-    "slug": "adminstaffingsolutions-courier-chain-completeness",
+    "slug": "adminstaffingsolutions-courier-chain-of-custody-completeness",
     "title": "Courier chain-of-custody completeness",
     "summary": "A measurement protocol for courier chain completeness in administrative support, with a frozen population, an evidence sample, and a dated review.",
     "cluster": "Document operations",
     "publishedAt": "2026-11-06",
     "finding": "A reproducible count of courier chain completeness records missing a required field, reported with its window and exclusions.",
-    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-courier-chain-completeness.png",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-courier-chain-of-custody-completeness.png",
     "sections": [
       {
         "heading": "Question and decision scope",
@@ -446,13 +446,13 @@ export const november06ResearchPosts: ResearchPost[] = [
     ]
   },
   {
-    "slug": "adminstaffingsolutions-event-brief-owner-coverage",
+    "slug": "adminstaffingsolutions-executive-event-brief-owner-coverage",
     "title": "Executive event brief owner coverage",
     "summary": "A measurement protocol for event brief owner coverage in administrative support, with a frozen population, an evidence sample, and a dated review.",
     "cluster": "Meeting operations",
     "publishedAt": "2026-11-06",
     "finding": "A reproducible count of event brief owner coverage records missing a required field, reported with its window and exclusions.",
-    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-event-brief-owner-coverage.png",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-executive-event-brief-owner-coverage.png",
     "sections": [
       {
         "heading": "Question and decision scope",
