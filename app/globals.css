@@ -69,3 +69,4 @@ footer{padding:4rem 4vw;background:var(--ink);color:#fff;display:grid;grid-templ
   max-width: 100%;
 }
 .article-card img { aspect-ratio: 16 / 9; object-fit: cover; }
+.page-hero-copy h1{overflow-wrap:break-word;word-break:normal;hyphens:none;font-size:clamp(2.6rem,4.6vw,4.8rem)}

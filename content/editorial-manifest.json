@@ -502,5 +502,110 @@
     "thumbnail": "/thumbnails/november-04/adminstaffingsolutions-records-request-turnaround-in-admin-support.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-procurement-card-receipt",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-reconcile-a-procurement-card-receipt.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-track-a-board-resolution-number",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-track-a-board-resolution-number.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-contract-clause-renewal",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-verify-a-contract-clause-renewal.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-visitor-access-badge",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-control-a-visitor-access-badge.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-keep-a-courier-chain-of-custody",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-keep-a-courier-chain-of-custody.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-prepare-an-executive-event-brief",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-prepare-an-executive-event-brief.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-record-a-signature-delegation",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-record-a-signature-delegation.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-complete-a-vendor-onboarding-file",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-complete-a-vendor-onboarding-file.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-procurement-card-receipt-match-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-procurement-card-receipt-match-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-board-resolution-number-integrity",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-board-resolution-number-integrity.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-contract-renewal-clause-detection",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-contract-renewal-clause-detection.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-visitor-badge-return-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-visitor-badge-return-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-courier-chain-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-courier-chain-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-event-brief-owner-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-event-brief-owner-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-signature-delegation-limit-accuracy",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-signature-delegation-limit-accuracy.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
   }
 ]
