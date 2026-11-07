@@ -677,5 +677,110 @@
     "thumbnail": "/thumbnails/november-06/adminstaffingsolutions-executive-event-brief-owner-coverage.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-travel-expense-report-against-the-itinerary",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-reconcile-a-travel-expense-report-against-the-itinerary.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-keep-a-meeting-minutes-approval-trail",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-keep-a-meeting-minutes-approval-trail.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-subscription-renewal-against-the-license-register",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-audit-a-subscription-renewal-against-the-license-register.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-document-retention-hold",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-control-a-document-retention-hold.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-vendor-bank-detail-change",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-verify-a-vendor-bank-detail-change.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-prepare-a-board-packet-version-control-sheet",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-prepare-a-board-packet-version-control-sheet.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-corporate-card-statement-to-the-expense-ledger",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-reconcile-a-corporate-card-statement-to-the-expense-ledger.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-keep-an-office-supply-reorder-threshold-record",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-keep-an-office-supply-reorder-threshold-record.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-travel-expense-rejection-causes-and-resubmission-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-travel-expense-rejection-causes-and-resubmission-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-meeting-minutes-approval-cycle-time",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-meeting-minutes-approval-cycle-time.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-subscription-license-true-up-variance",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-subscription-license-true-up-variance.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-retention-hold-release-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-retention-hold-release-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-vendor-bank-change-verification-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-vendor-bank-change-verification-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-board-packet-version-drift",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-board-packet-version-drift.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-corporate-card-reconciliation-exception-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-corporate-card-reconciliation-exception-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
   }
 ]
