@@ -782,5 +782,110 @@
     "thumbnail": "/thumbnails/november-07/adminstaffingsolutions-corporate-card-reconciliation-exception-rate.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-travel-expense-report-against-the-booking-confirmation",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-reconcile-a-travel-expense-report-against-the-booking-confirmation.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-keep-a-meeting-action-item-closure-log",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-keep-a-meeting-action-item-closure-log.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-software-seat-count-against-active-users",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-audit-a-software-seat-count-against-active-users.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-legal-hold-acknowledgment",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-control-a-legal-hold-acknowledgment.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-vendor-tax-form-before-first-payment",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-verify-a-vendor-tax-form-before-first-payment.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-prepare-a-board-resolution-signature-packet",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-prepare-a-board-resolution-signature-packet.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-petty-cash-top-up-against-receipts",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-reconcile-a-petty-cash-top-up-against-receipts.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-keep-an-office-access-badge-audit-record",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-keep-an-office-access-badge-audit-record.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-travel-booking-to-receipt-variance",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-travel-booking-to-receipt-variance.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-meeting-action-item-closure-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-meeting-action-item-closure-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-software-seat-count-variance",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-software-seat-count-variance.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-legal-hold-acknowledgment-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-legal-hold-acknowledgment-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-vendor-tax-form-verification-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-vendor-tax-form-verification-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-board-resolution-signature-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-board-resolution-signature-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-petty-cash-receipt-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-petty-cash-receipt-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
   }
 ]
