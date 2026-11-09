@@ -887,5 +887,110 @@
     "thumbnail": "/thumbnails/november-08/adminstaffingsolutions-petty-cash-receipt-coverage.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-courier-tracking-exception-against-the-delivery-log",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-reconcile-a-courier-tracking-exception-against-the-delivery-log.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-keep-a-conference-room-booking-conflict-record",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-keep-a-conference-room-booking-conflict-record.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-corporate-travel-profile-against-the-hr-roster",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-audit-a-corporate-travel-profile-against-the-hr-roster.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-vendor-certificate-of-insurance-expiry",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-control-a-vendor-certificate-of-insurance-expiry.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-signature-delegation-before-countersigning",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-verify-a-signature-delegation-before-countersigning.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-subscription-invoice-against-purchase-orders",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-reconcile-a-subscription-invoice-against-purchase-orders.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-keep-an-emergency-contact-list-review-record",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-keep-an-emergency-contact-list-review-record.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-an-office-key-handover-log",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-audit-an-office-key-handover-log.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-courier-delivery-exception-resolution-lag",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-courier-delivery-exception-resolution-lag.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-conference-room-double-booking-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-conference-room-double-booking-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-travel-profile-roster-match-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-travel-profile-roster-match-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-certificate-of-insurance-expiry-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-certificate-of-insurance-expiry-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-signature-delegation-verification-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-signature-delegation-verification-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-subscription-invoice-purchase-order-match-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-subscription-invoice-purchase-order-match-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-office-key-handover-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-office-key-handover-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
   }
 ]
