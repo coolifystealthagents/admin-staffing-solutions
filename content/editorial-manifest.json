@@ -992,5 +992,103 @@
     "thumbnail": "/thumbnails/november-09/adminstaffingsolutions-office-key-handover-completeness.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-mailroom-package-log-against-the-delivery-notice",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-reconcile-a-mailroom-package-log-against-the-delivery-notice.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-visitor-badge-issue-and-return-at-reception",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-control-a-visitor-badge-issue-and-return-at-reception.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-records-destruction-certificate-before-shredding",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-audit-a-records-destruction-certificate-before-shredding.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-vendor-onboarding-packet-against-the-approved-supplier-list",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-verify-a-vendor-onboarding-packet-against-the-approved-supplier-list.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-corporate-cell-phone-line-against-the-hr-roster",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-reconcile-a-corporate-cell-phone-line-against-the-hr-roster.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-keep-a-conference-travel-authorization-before-booking",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-keep-a-conference-travel-authorization-before-booking.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-document-scanning-batch-quality-check",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-control-a-document-scanning-batch-quality-check.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-an-office-equipment-maintenance-request-backlog",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-audit-an-office-equipment-maintenance-request-backlog.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-mailroom-package-log-discrepancy-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-mailroom-package-log-discrepancy-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-records-destruction-certificate-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-records-destruction-certificate-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-vendor-onboarding-packet-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-vendor-onboarding-packet-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-corporate-cell-phone-line-roster-match-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-corporate-cell-phone-line-roster-match-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-conference-travel-authorization-timing-compliance",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-conference-travel-authorization-timing-compliance.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-office-equipment-maintenance-request-aging",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-office-equipment-maintenance-request-aging.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
   }
 ]
