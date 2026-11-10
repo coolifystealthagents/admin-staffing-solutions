@@ -1090,5 +1090,12 @@
     "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-office-equipment-maintenance-request-aging.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-visitor-badge-reconciliation-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-visitor-badge-reconciliation-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
   }
 ]
