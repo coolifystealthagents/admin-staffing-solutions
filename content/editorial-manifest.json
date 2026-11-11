@@ -1097,5 +1097,110 @@
     "thumbnail": "/thumbnails/november-10/adminstaffingsolutions-visitor-badge-reconciliation-completeness.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-conference-room-av-equipment-checkout-log",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-audit-a-conference-room-av-equipment-checkout-log.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-an-office-supply-invoice-against-the-purchase-order",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-reconcile-an-office-supply-invoice-against-the-purchase-order.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-professional-membership-renewal-roster",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-verify-a-professional-membership-renewal-roster.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-document-translation-request-approval",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-control-a-document-translation-request-approval.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-courier-account-charge-against-the-shipment-log",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-reconcile-a-courier-account-charge-against-the-shipment-log.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-first-aid-kit-inspection-record",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-audit-a-first-aid-kit-inspection-record.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-business-card-order-against-the-brand-template",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-verify-a-business-card-order-against-the-brand-template.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-records-retrieval-request-from-offsite-storage",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-control-a-records-retrieval-request-from-offsite-storage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-conference-room-av-equipment-checkout-return-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-conference-room-av-equipment-checkout-return-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-office-supply-invoice-purchase-order-match-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-office-supply-invoice-purchase-order-match-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-professional-membership-renewal-roster-accuracy",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-professional-membership-renewal-roster-accuracy.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-document-translation-request-approval-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-document-translation-request-approval-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-courier-account-charge-reconciliation-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-courier-account-charge-reconciliation-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-first-aid-kit-inspection-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-first-aid-kit-inspection-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-offsite-records-retrieval-request-turnaround",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-offsite-records-retrieval-request-turnaround.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
   }
 ]
