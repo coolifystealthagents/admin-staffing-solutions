@@ -1202,5 +1202,110 @@
     "thumbnail": "/thumbnails/november-11/adminstaffingsolutions-offsite-records-retrieval-request-turnaround.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-visitor-badge-log-against-the-reception-register",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-reconcile-a-visitor-badge-log-against-the-reception-register.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-hot-desking-seat-allocation-change",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-control-a-hot-desking-seat-allocation-change.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-mailroom-package-chain-of-custody-record",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-audit-a-mailroom-package-chain-of-custody-record.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-travel-expense-receipt-packet-before-reimbursement",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-verify-a-travel-expense-receipt-packet-before-reimbursement.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-vendor-onboarding-document-set",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-control-a-vendor-onboarding-document-set.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-office-key-and-access-fob-issuance",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-audit-office-key-and-access-fob-issuance.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-digital-signature-routing-envelope",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-reconcile-a-digital-signature-routing-envelope.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-an-office-subscription-renewal-request",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-control-an-office-subscription-renewal-request.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-visitor-badge-reconciliation-exception-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-visitor-badge-reconciliation-exception-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-hot-desking-seat-allocation-accuracy",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-hot-desking-seat-allocation-accuracy.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-mailroom-package-custody-gap-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-mailroom-package-custody-gap-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-travel-expense-packet-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-travel-expense-packet-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-vendor-onboarding-document-expiry-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-vendor-onboarding-document-expiry-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-access-fob-deactivation-timeliness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-access-fob-deactivation-timeliness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-office-subscription-seat-utilization",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-office-subscription-seat-utilization.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
   }
 ]
