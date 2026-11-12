@@ -118,3 +118,33 @@ export const site: SiteConfig = {
     }
   ]
 };
+
+// Additional focused service roles, November 2026.
+site.services.push(...[
+  {
+    "slug": "travel-coordination",
+    "name": "Travel coordination",
+    "short": "Keep business travel plans, confirmations, and itinerary changes organized for your team.",
+    "tasks": [
+      "Collect traveler preferences and approved trip details",
+      "Compare options against the travel policy",
+      "Prepare itineraries and confirmation packs",
+      "Track changes and route approval requests"
+    ],
+    "heroImage": "/refresh-20261112/7731374.webp",
+    "heroAlt": "Travel coordination administrative workspace"
+  },
+  {
+    "slug": "vendor-administration",
+    "name": "Vendor administration",
+    "short": "Keep vendor records, onboarding checklists, and routine follow-ups in one reviewable place.",
+    "tasks": [
+      "Collect approved vendor onboarding documents",
+      "Track missing information and expiry dates",
+      "Maintain contact and status records",
+      "Prepare renewal and review reminders"
+    ],
+    "heroImage": "/refresh-20261112/7731374.webp",
+    "heroAlt": "Vendor administration administrative workspace"
+  }
+]);

@@ -1,0 +1,96 @@
+{
+  "domain": "adminstaffingsolutions.com",
+  "brand": "Admin Staffing Solutions",
+  "theme": "workspace",
+  "eyebrow": "A little more order. A lot more focus.",
+  "headline": "Make space for",
+  "accent": "your best work.",
+  "intro": "The inbox, the calendar, the details between meetings. Give recurring administrative work a dedicated owner, so your team can get back to the decisions and relationships that move the business forward.",
+  "cta": "Find your administrative support",
+  "serviceTitle": "The right support, right where you need it.",
+  "serviceIntro": "Choose a focused administrative role around the work your team does every week. We help define priorities, systems, handoffs, and a practical review rhythm.",
+  "storyTitle": "Good support makes the whole day work better.",
+  "story": "Great administration is more than a finished to-do list. It is a current calendar, a complete record, a prepared meeting, and a next step that does not get lost.",
+  "pillars": [
+    [
+      "Find the recurring friction",
+      "Start with the tasks that interrupt your team most often. Map where they arrive, who uses the result, and what complete work looks like."
+    ],
+    [
+      "Create a useful role",
+      "Combine related responsibilities with clear priorities. Give your assistant current instructions, named access, and an available manager."
+    ],
+    [
+      "Build a dependable rhythm",
+      "Use concise updates, visible action lists, and regular sample reviews. Adjust the role as your workflow becomes more predictable."
+    ]
+  ],
+  "tags": [
+    "Executive support",
+    "Team coordination",
+    "Records & follow-through"
+  ],
+  "footer": "Dedicated remote administrative support for business owners, operations leaders, and executive teams.",
+  "homeImage": "/refresh-20261112/6913339.webp",
+  "homeImageAlt": "Group of young professionals collaborating at an office meeting with a laptop and notes.",
+  "servicesImage": "/refresh-20261112/7693733.webp",
+  "servicesImageAlt": "Business team analyzing data and charts during a meeting with a laptop on the table",
+  "services": [
+    {
+      "slug": "executive-administration",
+      "title": "Executive administration",
+      "description": "Create structure around calendars, communication, and priorities.",
+      "image": "/refresh-20261112/8872202.webp",
+      "alt": "A diverse team collaborates in an office meeting, using a laptop and taking notes"
+    },
+    {
+      "slug": "inbox-workflow-support",
+      "title": "Inbox workflow support",
+      "description": "Organize approved message queues and next actions.",
+      "image": "/refresh-20261112/8204360.webp",
+      "alt": "Two professionals with headsets working at computers in a modern office setting."
+    },
+    {
+      "slug": "records-administration",
+      "title": "Records administration",
+      "description": "Maintain accurate, accessible operational records.",
+      "image": "/refresh-20261112/7888760.webp",
+      "alt": "Engaged office team in business discussion around a laptop, fostering collaboration"
+    },
+    {
+      "slug": "meeting-coordination",
+      "title": "Meeting coordination",
+      "description": "Handle logistics, preparation, and documented follow through.",
+      "image": "/refresh-20261112/35730227.webp",
+      "alt": "Colleague organizing written notes beside a laptop"
+    },
+    {
+      "slug": "customer-administration",
+      "title": "Customer administration",
+      "description": "Support routine account and service records with clear escalation.",
+      "image": "/refresh-20261112/8511933.webp",
+      "alt": "Business meeting featuring laptops, notes, and teamwork around a white table"
+    },
+    {
+      "slug": "project-administration",
+      "title": "Project administration",
+      "description": "Keep milestones, owners, and status records visible.",
+      "image": "/refresh-20261112/6937819.webp",
+      "alt": "Adult using a laptop for video conferencing, taking notes during a remote meeting indoors."
+    },
+    {
+      "slug": "travel-coordination",
+      "title": "Travel coordination",
+      "description": "Keep business travel plans, confirmations, and itinerary changes organized for your team.",
+      "image": "/refresh-20261112/8297442.webp",
+      "alt": "A diverse team of professionals collaborates in a modern office setting, exchanging ideas."
+    },
+    {
+      "slug": "vendor-administration",
+      "title": "Vendor administration",
+      "description": "Keep vendor records, onboarding checklists, and routine follow-ups in one reviewable place.",
+      "image": "/refresh-20261112/7658401.webp",
+      "alt": "A multicultural team working together in a modern office environment, fostering collaboration and innovation."
+    }
+  ]
+}

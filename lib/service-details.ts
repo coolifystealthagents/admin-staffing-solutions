@@ -65,3 +65,102 @@ export const serviceDetails: Record<string, ServiceDetail> = {
     faq: [{ q: 'Is this a project manager replacement?', a: 'No. The role supports administration and visibility while scope, tradeoffs, leadership, and delivery accountability remain with your project owner.' }, { q: 'What counts as status evidence?', a: 'An approved system update, completed artifact, owner confirmation, or other source your governance model accepts.' }, { q: 'How should risks be handled?', a: 'Record the condition and evidence, then escalate through the defined path without inventing probability or business impact.' }]
   }
 };
+
+Object.assign(serviceDetails, {
+  "travel-coordination": {
+    "audience": [
+      "Travelers, executive assistants, and operations teams coordinating recurring business trips."
+    ],
+    "inputs": [
+      "Travel policy and approved budget",
+      "Traveler-approved preferences and schedule",
+      "Booking authority and escalation contacts"
+    ],
+    "deliverables": [
+      "An itinerary with confirmation references and contact details",
+      "An options shortlist with policy exceptions marked",
+      "A live change log and unresolved approval list"
+    ],
+    "controls": [
+      "Named accounts with access limited to the approved work",
+      "A written completion checklist and sample review by your manager",
+      "Source references, dates, current owner, and visible exception notes",
+      "The assistant does not approve spending, submit payment without authorization, or make immigration and safety decisions."
+    ],
+    "boundaries": [
+      "The assistant does not approve spending, submit payment without authorization, or make immigration and safety decisions."
+    ],
+    "scenarios": [
+      {
+        "title": "A practical first assignment",
+        "copy": "Travel commitments drift when flight options, meetings, and confirmations live in separate messages. A dedicated coordinator keeps the plan current while your authorized traveler or manager approves purchases and changes."
+      },
+      {
+        "title": "A useful ongoing rhythm",
+        "copy": "Review the incoming queue at agreed times, record completed actions, and send your manager a concise list of items awaiting a decision."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What should we provide before this role starts?",
+        "a": "Provide travel policy and approved budget, traveler-approved preferences and schedule, booking authority and escalation contacts. Start with a small representative batch and review it before increasing volume."
+      },
+      {
+        "q": "Which decisions remain with our team?",
+        "a": "The assistant does not approve spending, submit payment without authorization, or make immigration and safety decisions."
+      },
+      {
+        "q": "How do we evaluate the first assignments?",
+        "a": "Compare the returned records with your completion checklist. Check source accuracy, missing information, next-step ownership, and whether exceptions reached the right person. Review the process before expanding the scope."
+      }
+    ]
+  },
+  "vendor-administration": {
+    "audience": [
+      "Operations and procurement teams handling recurring supplier administration."
+    ],
+    "inputs": [
+      "Vendor checklist and approved source records",
+      "Named procurement and finance approvers",
+      "Retention rules and the system of record"
+    ],
+    "deliverables": [
+      "A current vendor document register",
+      "Missing-item and expiry alerts",
+      "An onboarding status summary with owner actions"
+    ],
+    "controls": [
+      "Named accounts with access limited to the approved work",
+      "A written completion checklist and sample review by your manager",
+      "Source references, dates, current owner, and visible exception notes",
+      "Vendor selection, contract terms, bank-detail changes, compliance judgments, and payment approvals stay with your authorized team."
+    ],
+    "boundaries": [
+      "Vendor selection, contract terms, bank-detail changes, compliance judgments, and payment approvals stay with your authorized team."
+    ],
+    "scenarios": [
+      {
+        "title": "A practical first assignment",
+        "copy": "Supplier setup slows down when forms, dates, and approvals are spread across inboxes. Administrative support can organize the evidence and follow up on missing items without deciding whether a vendor should be approved."
+      },
+      {
+        "title": "A useful ongoing rhythm",
+        "copy": "Review the incoming queue at agreed times, record completed actions, and send your manager a concise list of items awaiting a decision."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What should we provide before this role starts?",
+        "a": "Provide vendor checklist and approved source records, named procurement and finance approvers, retention rules and the system of record. Start with a small representative batch and review it before increasing volume."
+      },
+      {
+        "q": "Which decisions remain with our team?",
+        "a": "Vendor selection, contract terms, bank-detail changes, compliance judgments, and payment approvals stay with your authorized team."
+      },
+      {
+        "q": "How do we evaluate the first assignments?",
+        "a": "Compare the returned records with your completion checklist. Check source accuracy, missing information, next-step ownership, and whether exceptions reached the right person. Review the process before expanding the scope."
+      }
+    ]
+  }
+});

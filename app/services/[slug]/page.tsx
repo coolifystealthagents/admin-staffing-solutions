@@ -1,3 +1,5 @@
+import refreshData from '../../refresh-data.json';
+import {ServicePhoto} from '../../refresh-experience';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
@@ -17,7 +19,7 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
   if (!service || !detail) notFound();
   const related = site.services.filter(item => item.slug !== slug).slice(0, 3);
   return <main className="service-detail">
-    <PageHero eyebrow="Administrative staffing service" title={service.name} description={service.short} image={service.heroImage} imageAlt={service.heroAlt} imageFit="contain"><Link id={`cta-services-${service.slug}-bookcall`} className="button primary" href="/contact-us">Discuss this role</Link></PageHero>
+    <PageHero eyebrow="Administrative staffing service" title={service.name} description={service.short} image={refreshData.services.find(s=>s.slug===slug)?.image || service.heroImage} imageAlt={refreshData.services.find(s=>s.slug===slug)?.alt || service.heroAlt} imageFit="cover"><Link id={`cta-services-${service.slug}-bookcall`} className="button primary" href="/contact-us">Discuss this role</Link></PageHero>
     <section className="content-wrap service-prose">
       <section><p className="eyebrow">Role fit</p><h2>Who this role is for</h2><p>This service is designed for teams that can name the recurring queue, the accountable internal owner, and the evidence that shows complete work. It adds preparation and coordination capacity without moving executive or regulated judgment away from your organization.</p><ul>{detail.audience.map(item => <li key={item}>{item}</li>)}</ul></section>
       <section className="split-section"><div><p className="eyebrow">Handoff design</p><h2>Inputs and access</h2><p>A reliable handoff begins with controlled sources, explicit access, and examples of acceptable work. Credentials should never be placed in a role brief or consultation form.</p><ul>{detail.inputs.map(item => <li key={item}>{item}</li>)}</ul></div><div><p className="eyebrow">Visible output</p><h2>Deliverables</h2><p>Outputs should make status, evidence, ownership, and exceptions easy for your manager to inspect.</p><ul>{detail.deliverables.map(item => <li key={item}>{item}</li>)}</ul></div></section>

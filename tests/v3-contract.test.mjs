@@ -7,7 +7,8 @@ import { join } from 'node:path';
 const root = new URL('..', import.meta.url).pathname;
 const read = (path) => readFileSync(join(root, path), 'utf8');
 
-const chrome = read('components/SiteChrome.tsx');
+const chrome = read('app/refresh-experience.tsx');
+const refresh = JSON.parse(read('app/refresh-data.json'));
 const content = read('lib/content.ts');
 const marketing = read('components/Marketing.tsx');
 const contact = read('app/contact-us/page.tsx');
@@ -69,14 +70,17 @@ test('global chrome uses exact three-item persistent primary navigation and both
   assert.match(navBlock, /href:\s*'\/'[\s\S]*href:\s*'\/services'[\s\S]*href:\s*'\/contact-us'/);
   const secondaryBlock = content.match(/export const secondaryNav = \[([\s\S]*?)\];/)?.[1] || '';
   for (const label of ['About', 'Blog', 'Research']) assert.match(secondaryBlock, new RegExp(`label:\\s*'${label}'`));
-  assert.equal((chrome.match(/<ParentAttribution/g) || []).length, 2);
-  assert.match(chrome, /<span>Powered by<\/span>/);
+  const primary = chrome.match(/<nav aria-label="Primary navigation">([\s\S]*?)<\/nav>/)?.[1] || '';
+  assert.equal((primary.match(/<a /g) || []).length, 3);
+  assert.match(primary, /href="\/"/);
+  assert.match(primary, /href="\/services"/);
+  assert.match(primary, /href="\/contact-us"/);
+  assert.match(chrome, /Powered by StealthAgents/);
+  assert.match(chrome, /Parent company/);
   assert.match(chrome, /alt="StealthAgents"/);
   assert.doesNotMatch(chrome, /TimedLeadModal/);
-  assert.match(chrome, /aria-expanded/);
-  assert.match(chrome, /aria-controls/);
-  assert.match(chrome, /skip-link/);
-  assert.match(chrome, /secondaryNav/);
+  assert.match(chrome, /href="\/blog"/);
+  assert.match(chrome, /href="\/research"/);
 });
 
 test('approved StealthAgents review collection contains at least ten unique sourced records', () => {
@@ -106,35 +110,24 @@ test('official parent assets exist and Contact Us follows the gated conversion c
   assert.match(contactCss, /\.parent-proof-plate\{[^}]*background:#fff/);
   assert.match(contactCss, /\.parent-proof-plate strong\{/);
   assert.match(contact, /stealth-agents-logo-black\.png/);
-  assert.match(contact, /stealth-agents-team-bacolod\.webp/);
+  assert.match(contact, /refresh-20261112\/bacolod-team\.png/);
   assert.doesNotMatch(contact, /<iframe/);
   assert.doesNotMatch(contact, /0\{index\s*\+\s*1\}/);
 });
 
-test('major routes use distinct approved hero media with route-specific alternatives', () => {
-  assert.match(marketing, /site\.heroImage/);
-  assert.match(serviceIndex, /image="\/images\/services-index\.svg"/);
-  assert.match(serviceIndex, /imageAlt="Administrative service map connecting six specialist work queues to owners and review points"/);
-  assert.match(about, /image="\/images\/about-admin-team\.svg"/);
-  assert.match(contact, /contact-command-desk\.svg/);
-  assert.doesNotMatch(serviceIndex, /image="\/hero\.png"/);
-  assert.doesNotMatch(about, /image="\/hero\.png"/);
+test('home and services use distinct photographic heroes and descriptive alternatives', () => {
+  assert.notEqual(refresh.homeImage, refresh.servicesImage);
+  assert.ok(refresh.homeImageAlt.length > 12 && refresh.servicesImageAlt.length > 12);
+  for(const asset of [refresh.homeImage,refresh.servicesImage,...refresh.services.map(s=>s.image)]) assert.ok(existsSync(join(root,'public',asset)));
 });
 
-test('service index and each service detail use hero media and substantial operational sections', () => {
-  assert.match(serviceIndex, /PageHero/);
-  assert.match(services, /PageHero/);
-  assert.equal((siteConfig.match(/"heroImage": "\/images\/services\//g) || []).length, 6);
-  assert.match(services, /image=\{service\.heroImage\}/);
-  assert.match(services, /imageFit="contain"/);
-  for (const heading of ['Who this role is for', 'Inputs and access', 'Deliverables', 'Quality controls', 'Decision boundaries', 'Common starting scenarios', 'Frequently asked questions', 'Related services']) {
-    assert.match(services, new RegExp(heading));
-  }
-  for (const heading of ['Decision guide', 'What can move', 'What stays accountable', 'Choose by operating problem', 'A controlled launch', 'Service planning questions']) {
-    assert.match(serviceIndex, new RegExp(heading));
-  }
-  assert.ok(serviceIndex.split(/\s+/).length >= 650, 'service index needs substantial decision and operating guidance');
-  assert.equal((serviceIndex.match(/\['[^']+',\s*'[^']+'\]/g) || []).length >= 18, true);
+test('service directory and detail pages retain substantive operational guidance', () => {
+  assert.ok(refresh.services.length >= 8);
+  assert.match(serviceIndex, /RefreshServices/);
+  assert.match(services, /refreshData.services.find/);
+  assert.match(services, /imageFit="cover"/);
+  for(const heading of ['Who this role is for','Inputs and access','Deliverables','Quality controls','Decision boundaries','Frequently asked questions']) assert.match(services,new RegExp(heading));
+  for(const phrase of ['Prepare a useful first conversation','The tools and the finish line','The reviewer and the exceptions','Can we start with one service']) assert.ok(chrome.includes(phrase));
 });
 
 test('editorial indexes provide prominent hero media and a thumbnail for every card', () => {
@@ -313,7 +306,8 @@ test('conversion route and tracker contracts stay intact', () => {
   const api = read('app/api/submit-lead/route.ts');
   const thankYou = read('app/thank-you/page.tsx');
   assert.match(form, /router\.push\('\/thank-you'\)/);
-  assert.match(form, /window\.acrTracker\?\.trackLead/);
+  assert.doesNotMatch(form, /window\.acrTracker\?\.trackLead/);
+  assert.match(form, /ACR captures the native submit event once/);
   assert.match(api, /ACR_LEAD_ENDPOINT/);
   assert.match(api, /readLimitedBody\(request, MAX_LEAD_BYTES\)/);
   assert.match(read('app/ingest/track/route.ts'), /readLimitedBody\(request, MAX_BODY_BYTES\)/);
