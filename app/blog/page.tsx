@@ -1,30 +1,5 @@
-import type { Metadata } from 'next';
-import Image from 'next/image';
-import Link from 'next/link';
-import { PageHero } from '@/components/PageHero';
+import { Library } from '../library';
+import { normalizePosts } from '../library-normalize';
 import { blogPosts } from '@/lib/content';
-
-export const metadata: Metadata = { title: 'Blog', description: 'Practical guides for designing, delegating, and reviewing specialist remote support.', alternates: { canonical: '/blog' } };
-
-const fallbackThumbnail: Record<string, string> = {
-  'Role design': '/thumbnails/october-12/vendor-credential-request-workflow.svg',
-  'Administrative systems': '/thumbnails/october-12/document-naming-migration-control.svg',
-  'Executive support': '/thumbnails/october-12/executive-briefing-source-verification.svg',
-  'Project coordination': '/thumbnails/october-12/project-status-evidence-cadence.svg',
-};
-
-export default function BlogPage() {
-  return <main>
-    <PageHero eyebrow="Practical field notes" title="Clearer roles. Better handoffs." description="Guides for owners and managers who want to delegate recurring work without losing visibility or control." image="/thumbnails/october-12/executive-briefing-source-verification.svg" imageAlt="Executive briefing source verification workflow" imageFit="contain" />
-    <section className="content-wrap">
-      <div className="principles">{['All', ...new Set(blogPosts.map(post => post.category))].map(category => <span className="pill" key={category}>{category} ({category === 'All' ? blogPosts.length : blogPosts.filter(post => post.category === category).length})</span>)}</div>
-      <div className="article-grid">{[...blogPosts].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt) || a.slug.localeCompare(b.slug)).map(post => {
-        const thumbnail = post.thumbnail || fallbackThumbnail[post.category] || '/hero.png';
-        return <Link className="article-card" href={`/blog/${post.slug}`} key={post.slug}>
-          <span className="article-card-image"><Image src={thumbnail} alt={`${post.title} workflow illustration`} fill sizes="(max-width: 700px) 92vw, 31vw" /></span>
-          <span className="pill">{post.category}</span><h2>{post.title}</h2><p>{post.description}</p><p className="meta">Published <time dateTime={post.publishedAt}>{post.publishedAt}</time></p><span className="text-link">Read article</span>
-        </Link>;
-      })}</div>
-    </section>
-  </main>;
-}
+export const metadata={title:'Blog',description:"Ideas for the work between meetings: thoughtful delegation, dependable records, prepared calendars, and follow-through your team can see.",alternates:{canonical:'/blog'},openGraph:{images:[{url:"/library-20261112/workspace-blog-10341123.webp",alt:"Two colleagues reviewing printed documents at their office table"}]}};
+export default function Index(){const posts=normalizePosts(blogPosts);const schema={'@context':'https://schema.org','@type':'CollectionPage',name:'Blog',url:'https://adminstaffingsolutions.com/blog',mainEntity:{'@type':'ItemList',itemListElement:posts.map((p,index)=>({'@type':'ListItem',position:index+1,url:`https://adminstaffingsolutions.com/blog/${p.slug}`,name:p.title}))}};return <main><script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(schema).replace(/</g,"\u003c")}}/><Library kind="blog" posts={posts}/></main>;}

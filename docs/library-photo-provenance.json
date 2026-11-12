@@ -1,0 +1,32 @@
+[
+  {
+    "theme": "workspace",
+    "kind": "blog",
+    "id": "10341123",
+    "source": "https://www.pexels.com/photo/women-with-documents-in-office-10341123/",
+    "photographer": "Ron Lach",
+    "alt": "Two colleagues reviewing printed documents at their office table",
+    "license": "https://www.pexels.com/license/",
+    "download": "https://images.pexels.com/photos/10341123/pexels-photo-10341123.jpeg?auto=compress&cs=tinysrgb&w=2200&q=90",
+    "file": "/Users/wrayns/Documents/Codex/2026-11-10/optimization-design-knowledge/work/six-listing-refresh/assets/workspace-blog-10341123.webp",
+    "width": 2200,
+    "height": 1467,
+    "sha256": "d28e3e72481336d804ac2712e61ddc923872bfaf960a7bb6ad7507c760d35db8",
+    "visual_review": "Reviewed actual photograph in contact sheet on 2026-11-12. No AI rendering or title overlay; subject sharp and suitable for a wide hero."
+  },
+  {
+    "theme": "workspace",
+    "kind": "research",
+    "id": "7643871",
+    "source": "https://www.pexels.com/photo/people-having-a-meeting-at-the-conference-room-7643871/",
+    "photographer": "MART PRODUCTION",
+    "alt": "Colleagues reviewing documents and taking notes in a meeting",
+    "license": "https://www.pexels.com/license/",
+    "download": "https://images.pexels.com/photos/7643871/pexels-photo-7643871.jpeg?auto=compress&cs=tinysrgb&w=2200&q=90",
+    "file": "/Users/wrayns/Documents/Codex/2026-11-10/optimization-design-knowledge/work/six-listing-refresh/assets/workspace-research-7643871.webp",
+    "width": 2200,
+    "height": 1467,
+    "sha256": "20a0eaab90a87226a9b44b2a89a22b09770b1e613a38a52dcda8026b6fc5b519",
+    "visual_review": "Reviewed actual photograph in contact sheet on 2026-11-12. No AI rendering or title overlay; subject sharp and suitable for a wide hero."
+  }
+]
