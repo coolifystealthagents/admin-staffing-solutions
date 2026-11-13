@@ -1,0 +1,16 @@
+[
+  {
+    "placement": "services hero",
+    "source": "https://www.pexels.com/photo/7156253/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Two colleagues reviewing an office document",
+    "assets": [
+      {
+        "path": "/refresh-20261112/7693733-20261114.webp",
+        "width": 1800,
+        "height": 1200
+      }
+    ],
+    "reason": "Replace a photograph repeated on another portfolio homepage or service hero; preserve the existing display frame."
+  }
+]
