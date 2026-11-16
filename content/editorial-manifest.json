@@ -1307,5 +1307,110 @@
     "thumbnail": "/thumbnails/november-12/adminstaffingsolutions-office-subscription-seat-utilization.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-an-office-fire-drill-attendance-sheet",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-reconcile-an-office-fire-drill-attendance-sheet.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-parking-permit-allocation-list",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-control-a-parking-permit-allocation-list.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-janitorial-service-inspection-report",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-audit-a-janitorial-service-inspection-report.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-an-ergonomic-equipment-request",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-verify-an-ergonomic-equipment-request.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-desk-move-request-against-the-floor-plan",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-reconcile-a-desk-move-request-against-the-floor-plan.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-records-destruction-authorization",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-control-a-records-destruction-authorization.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-cafeteria-vendor-delivery-log",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-audit-a-cafeteria-vendor-delivery-log.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-an-office-signage-change-request",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-verify-an-office-signage-change-request.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-fire-drill-attendance-reconciliation-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-fire-drill-attendance-reconciliation-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-parking-permit-allocation-accuracy",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-parking-permit-allocation-accuracy.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-janitorial-inspection-documentation-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-janitorial-inspection-documentation-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-ergonomic-request-approval-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-ergonomic-request-approval-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-desk-move-floor-plan-accuracy",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-desk-move-floor-plan-accuracy.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-records-destruction-authorization-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-records-destruction-authorization-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-cafeteria-delivery-log-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-cafeteria-delivery-log-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
   }
 ]
