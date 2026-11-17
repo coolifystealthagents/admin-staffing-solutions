@@ -1412,5 +1412,110 @@
     "thumbnail": "/thumbnails/november-16/adminstaffingsolutions-cafeteria-delivery-log-completeness.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-an-office-utility-meter-transfer-on-move-out",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-reconcile-an-office-utility-meter-transfer-on-move-out.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-furniture-disposal-approval-record",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-control-a-furniture-disposal-approval-record.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-mailroom-redirect-instruction-for-a-departing-team",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-audit-a-mailroom-redirect-instruction-for-a-departing-team.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-security-badge-photo-update-request",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-verify-a-security-badge-photo-update-request.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-catering-invoice-against-the-event-approval",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-reconcile-a-catering-invoice-against-the-event-approval.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-conference-room-furniture-reconfiguration-request",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-control-a-conference-room-furniture-reconfiguration-request.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-first-aid-supply-expiry-replacement-log",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-audit-a-first-aid-supply-expiry-replacement-log.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-an-office-access-card-return-at-exit",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-verify-an-office-access-card-return-at-exit.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-utility-meter-transfer-evidence-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-utility-meter-transfer-evidence-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-furniture-disposal-approval-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-furniture-disposal-approval-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-mailroom-redirect-accuracy",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-mailroom-redirect-accuracy.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-badge-photo-update-sequencing",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-badge-photo-update-sequencing.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-catering-invoice-approval-variance",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-catering-invoice-approval-variance.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-room-reconfiguration-approval-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-room-reconfiguration-approval-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-first-aid-expiry-replacement-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-first-aid-expiry-replacement-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
   }
 ]
