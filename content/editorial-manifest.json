@@ -1517,5 +1517,110 @@
     "thumbnail": "/thumbnails/november-17/adminstaffingsolutions-first-aid-expiry-replacement-completeness.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-training-room-booking-request",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-reconcile-a-training-room-booking-request.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-printer-fleet-meter-reading-cycle",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-control-a-printer-fleet-meter-reading-cycle.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-an-archive-box-indexing-record",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-audit-an-archive-box-indexing-record.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-an-office-plant-service-visit",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-verify-an-office-plant-service-visit.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-water-dispenser-maintenance-record",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-reconcile-a-water-dispenser-maintenance-record.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-an-office-recycling-collection-schedule",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-control-an-office-recycling-collection-schedule.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-courier-label-audit-sample",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-audit-a-courier-label-audit-sample.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-visitor-wi-fi-access-request",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-verify-a-visitor-wi-fi-access-request.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-training-room-booking-approval-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-training-room-booking-approval-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-printer-fleet-meter-reading-accuracy",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-printer-fleet-meter-reading-accuracy.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-archive-box-indexing-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-archive-box-indexing-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-plant-service-visit-documentation",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-plant-service-visit-documentation.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-water-dispenser-maintenance-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-water-dispenser-maintenance-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-recycling-collection-completion-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-recycling-collection-completion-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-courier-label-audit-integrity",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-courier-label-audit-integrity.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
   }
 ]
