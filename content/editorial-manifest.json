@@ -1622,5 +1622,110 @@
     "thumbnail": "/thumbnails/november-18/adminstaffingsolutions-courier-label-audit-integrity.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-meeting-room-accessibility-request",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-audit-a-meeting-room-accessibility-request.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-corporate-housing-booking-request",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-control-a-corporate-housing-booking-request.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-records-retrieval-invoice",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-reconcile-a-records-retrieval-invoice.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-workplace-ergonomics-assessment-schedule",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-verify-a-workplace-ergonomics-assessment-schedule.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-company-store-inventory-reorder",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-audit-a-company-store-inventory-reorder.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-notary-appointment-booking-log",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-control-a-notary-appointment-booking-log.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-mailroom-postage-meter-top-up",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-verify-a-mailroom-postage-meter-top-up.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-front-desk-shift-briefing-record",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-audit-a-front-desk-shift-briefing-record.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-meeting-room-accessibility-request-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-meeting-room-accessibility-request-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-corporate-housing-booking-approval-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-corporate-housing-booking-approval-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-records-retrieval-invoice-reconciliation-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-records-retrieval-invoice-reconciliation-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-ergonomics-assessment-scheduling-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-ergonomics-assessment-scheduling-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-company-store-reorder-accuracy",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-company-store-reorder-accuracy.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-notary-appointment-record-completeness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-notary-appointment-record-completeness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-postage-meter-top-up-reconciliation-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-postage-meter-top-up-reconciliation-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
   }
 ]
