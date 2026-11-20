@@ -1727,5 +1727,110 @@
     "thumbnail": "/thumbnails/november-19/adminstaffingsolutions-postage-meter-top-up-reconciliation-rate.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-conference-room-av-checkout-log",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-reconcile-a-conference-room-av-checkout-log.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-an-executive-visa-document-checklist",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-control-an-executive-visa-document-checklist.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-vendor-certificate-of-insurance-expiration",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-verify-a-vendor-certificate-of-insurance-expiration.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-visitor-badge-return-log",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-audit-a-visitor-badge-return-log.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-match-an-office-supply-purchase-order-to-delivery",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-match-an-office-supply-purchase-order-to-delivery.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-conference-registration-reimbursement",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-control-a-conference-registration-reimbursement.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-fleet-parking-permit-renewal",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-verify-a-fleet-parking-permit-renewal.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-reception-package-delivery-exception",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-audit-a-reception-package-delivery-exception.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-conference-room-av-checkout-reconciliation-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-conference-room-av-checkout-reconciliation-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-executive-visa-packet-completeness-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-executive-visa-packet-completeness-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-vendor-insurance-certificate-currency",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-vendor-insurance-certificate-currency.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-visitor-badge-return-compliance",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-visitor-badge-return-compliance.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-office-supply-invoice-and-receiving-match-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-office-supply-invoice-and-receiving-match-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-conference-registration-reimbursement-approval-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-conference-registration-reimbursement-approval-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-fleet-parking-permit-renewal-timeliness",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-fleet-parking-permit-renewal-timeliness.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
   }
 ]
