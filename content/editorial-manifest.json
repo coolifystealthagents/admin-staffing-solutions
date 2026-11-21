@@ -1832,5 +1832,110 @@
     "thumbnail": "/thumbnails/november-20/adminstaffingsolutions-fleet-parking-permit-renewal-timeliness.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-records-shredding-vendor-certificate",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-audit-a-records-shredding-vendor-certificate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-corporate-card-receipt-reconciliation",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-control-a-corporate-card-receipt-reconciliation.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-an-office-move-inventory-transfer",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-verify-an-office-move-inventory-transfer.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-courier-cost-allocation",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-reconcile-a-courier-cost-allocation.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-training-room-booking-conflict",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-audit-a-training-room-booking-conflict.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-vendor-w-9-renewal",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-control-a-vendor-w-9-renewal.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-visitor-wi-fi-access-expiration",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-verify-a-visitor-wi-fi-access-expiration.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-facilities-work-order-backlog",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-reconcile-a-facilities-work-order-backlog.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-shredding-certificate-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-shredding-certificate-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-corporate-card-receipt-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-corporate-card-receipt-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-office-move-asset-tagging-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-office-move-asset-tagging-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-courier-cost-allocation-accuracy",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-courier-cost-allocation-accuracy.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-training-room-conflict-resolution-rate",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-training-room-conflict-resolution-rate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-vendor-w-9-currency",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-vendor-w-9-currency.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-visitor-wi-fi-expiration-compliance",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-visitor-wi-fi-expiration-compliance.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
   }
 ]
