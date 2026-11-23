@@ -1937,5 +1937,110 @@
     "thumbnail": "/thumbnails/november-21/adminstaffingsolutions-visitor-wi-fi-expiration-compliance.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-an-office-keycard-deactivation-log",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-audit-an-office-keycard-deactivation-log.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-conference-room-av-inventory-transfer",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-verify-a-conference-room-av-inventory-transfer.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-vendor-certificate-of-insurance-renewal",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-control-a-vendor-certificate-of-insurance-renewal.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-postage-meter-refill",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-reconcile-a-postage-meter-refill.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-fire-extinguisher-inspection-schedule",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-audit-a-fire-extinguisher-inspection-schedule.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-client-holiday-card-mailing-list",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-verify-a-client-holiday-card-mailing-list.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-shred-bin-pickup-reconciliation",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-control-a-shred-bin-pickup-reconciliation.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-first-aid-supply-restock",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-reconcile-a-first-aid-supply-restock.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-keycard-deactivation-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-keycard-deactivation-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-av-inventory-transfer-accuracy",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-av-inventory-transfer-accuracy.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-vendor-insurance-renewal-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-vendor-insurance-renewal-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-postage-meter-refill-reconciliation",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-postage-meter-refill-reconciliation.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-fire-extinguisher-inspection-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-fire-extinguisher-inspection-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-holiday-mailing-list-accuracy",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-holiday-mailing-list-accuracy.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-shred-bin-pickup-reconciliation",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-shred-bin-pickup-reconciliation.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
   }
 ]
