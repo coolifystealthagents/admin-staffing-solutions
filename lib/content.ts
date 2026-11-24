@@ -15,6 +15,7 @@ import { november20BlogPosts } from './november20-blog';
 import { november21BlogPosts } from './november21-blog';
 import { november22BlogPosts } from './november22-blog';
 import { november23BlogPosts } from './november23-blog';
+import { november24BlogPosts } from './november24-blog';
 import { november08BlogPosts } from './november08-blog';
 import { november07BlogPosts } from './november07-blog';
 import { november06BlogPosts } from './november06-blog';
@@ -35,6 +36,7 @@ import { november20ResearchPosts } from './november20-research';
 import { november21ResearchPosts } from './november21-research';
 import { november22ResearchPosts } from './november22-research';
 import { november23ResearchPosts } from './november23-research';
+import { november24ResearchPosts } from './november24-research';
 import { november08ResearchPosts } from './november08-research';
 import { november07ResearchPosts } from './november07-research';
 import { november06ResearchPosts } from './november06-research';
@@ -59,7 +61,7 @@ export const blogPosts: BlogPost[] = [
   ...november04BlogPosts,
   ...november05BlogPosts,
   ...november09BlogPosts,
-  ...november10BlogPosts, ...november11BlogPosts, ...november12BlogPosts, ...november16BlogPosts, ...november17BlogPosts, ...november18BlogPosts, ...november19BlogPosts, ...november20BlogPosts, ...november21BlogPosts, ...november22BlogPosts, ...november23BlogPosts, ...november08BlogPosts,
+  ...november10BlogPosts, ...november11BlogPosts, ...november12BlogPosts, ...november16BlogPosts, ...november17BlogPosts, ...november18BlogPosts, ...november19BlogPosts, ...november20BlogPosts, ...november21BlogPosts, ...november22BlogPosts, ...november23BlogPosts, ...november24BlogPosts, ...november08BlogPosts,
   ...november07BlogPosts,
   ...november06BlogPosts,
   ...november02BlogPosts,
@@ -236,7 +238,7 @@ export const researchPosts: ResearchPost[] = [
   ...november04ResearchPosts,
   ...november05ResearchPosts,
   ...november09ResearchPosts,
-  ...november10ResearchPosts, ...november11ResearchPosts, ...november12ResearchPosts, ...november16ResearchPosts, ...november17ResearchPosts, ...november18ResearchPosts, ...november19ResearchPosts, ...november20ResearchPosts, ...november21ResearchPosts, ...november22ResearchPosts, ...november23ResearchPosts, ...november08ResearchPosts,
+  ...november10ResearchPosts, ...november11ResearchPosts, ...november12ResearchPosts, ...november16ResearchPosts, ...november17ResearchPosts, ...november18ResearchPosts, ...november19ResearchPosts, ...november20ResearchPosts, ...november21ResearchPosts, ...november22ResearchPosts, ...november23ResearchPosts, ...november24ResearchPosts, ...november08ResearchPosts,
   ...november07ResearchPosts,
   ...november06ResearchPosts,
   ...november02ResearchPosts,

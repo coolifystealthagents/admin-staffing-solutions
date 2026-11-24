@@ -2042,5 +2042,110 @@
     "thumbnail": "/thumbnails/november-23/adminstaffingsolutions-shred-bin-pickup-reconciliation.png",
     "sectionCount": 8,
     "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-mailroom-postage-refund",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-24/adminstaffingsolutions-audit-a-mailroom-postage-refund.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-conference-room-booking-deposit",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-24/adminstaffingsolutions-verify-a-conference-room-booking-deposit.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-vendor-data-destruction-certificate",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-24/adminstaffingsolutions-control-a-vendor-data-destruction-certificate.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-a-petty-cash-receipt-envelope",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-24/adminstaffingsolutions-reconcile-a-petty-cash-receipt-envelope.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-audit-a-reception-visitor-badge-return",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-24/adminstaffingsolutions-audit-a-reception-visitor-badge-return.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-verify-a-records-archive-retrieval-request",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-24/adminstaffingsolutions-verify-a-records-archive-retrieval-request.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-control-a-courier-delivery-signature-log",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-24/adminstaffingsolutions-control-a-courier-delivery-signature-log.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-reconcile-an-office-supply-subscription-renewal",
+    "type": "blog",
+    "thumbnail": "/thumbnails/november-24/adminstaffingsolutions-reconcile-an-office-supply-subscription-renewal.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 2
+  },
+  {
+    "slug": "adminstaffingsolutions-postage-refund-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-24/adminstaffingsolutions-postage-refund-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-booking-deposit-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-24/adminstaffingsolutions-booking-deposit-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-data-destruction-certificate-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-24/adminstaffingsolutions-data-destruction-certificate-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-petty-cash-envelope-reconciliation",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-24/adminstaffingsolutions-petty-cash-envelope-reconciliation.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-visitor-badge-return-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-24/adminstaffingsolutions-visitor-badge-return-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-archive-retrieval-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-24/adminstaffingsolutions-archive-retrieval-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
+  },
+  {
+    "slug": "adminstaffingsolutions-courier-signature-coverage",
+    "type": "research",
+    "thumbnail": "/thumbnails/november-24/adminstaffingsolutions-courier-signature-coverage.png",
+    "sectionCount": 8,
+    "minimumParagraphsPerSection": 3
   }
 ]
